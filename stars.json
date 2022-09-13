@@ -1,8 +1,8 @@
 [
   {
     "full_name": "railwayapp/nixpacks",
-    "stargazers_count": 1122,
-    "open_issues_count": 30,
+    "stargazers_count": 1123,
+    "open_issues_count": 29,
     "forks_count": 41
   },
   {
@@ -13,7 +13,7 @@
   },
   {
     "full_name": "arlyon/stailwc",
-    "stargazers_count": 53,
+    "stargazers_count": 54,
     "open_issues_count": 3,
     "forks_count": 0
   },
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "Xe/site",
-    "stargazers_count": 408,
-    "open_issues_count": 12,
-    "forks_count": 86
+    "stargazers_count": 413,
+    "open_issues_count": 14,
+    "forks_count": 88
   },
   {
     "full_name": "tadfisher/android-nixpkgs",
@@ -43,8 +43,8 @@
   },
   {
     "full_name": "tamagui/tamagui",
-    "stargazers_count": 2314,
-    "open_issues_count": 17,
+    "stargazers_count": 2316,
+    "open_issues_count": 18,
     "forks_count": 44
   },
   {
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "ulixee/secret-agent",
-    "stargazers_count": 527,
+    "stargazers_count": 528,
     "open_issues_count": 44,
     "forks_count": 37
   },
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "BuilderIO/mitosis",
-    "stargazers_count": 5995,
-    "open_issues_count": 83,
-    "forks_count": 229
+    "stargazers_count": 5998,
+    "open_issues_count": 76,
+    "forks_count": 230
   },
   {
     "full_name": "gergoerdi/functional-mos6502-web-performance",
@@ -104,18 +104,18 @@
   {
     "full_name": "soywod/himalaya",
     "stargazers_count": 2007,
-    "open_issues_count": 42,
+    "open_issues_count": 41,
     "forks_count": 57
   },
   {
     "full_name": "urfave/cli",
-    "stargazers_count": 18971,
+    "stargazers_count": 18969,
     "open_issues_count": 139,
     "forks_count": 1614
   },
   {
     "full_name": "brainfucksec/neovim-lua",
-    "stargazers_count": 499,
+    "stargazers_count": 501,
     "open_issues_count": 1,
     "forks_count": 90
   },
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "dolthub/dolt",
-    "stargazers_count": 12966,
-    "open_issues_count": 232,
-    "forks_count": 364
+    "stargazers_count": 12970,
+    "open_issues_count": 237,
+    "forks_count": 365
   },
   {
     "full_name": "vic/mk-darwin-system",
@@ -158,8 +158,8 @@
   {
     "full_name": "chakra-ui/zag",
     "stargazers_count": 1446,
-    "open_issues_count": 11,
-    "forks_count": 38
+    "open_issues_count": 14,
+    "forks_count": 37
   },
   {
     "full_name": "caiorss/Functional-Programming",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "supertokens/supertokens-core",
-    "stargazers_count": 7107,
+    "stargazers_count": 7110,
     "open_issues_count": 77,
     "forks_count": 241
   },
   {
     "full_name": "mantinedev/mantine",
-    "stargazers_count": 14389,
-    "open_issues_count": 33,
-    "forks_count": 879
+    "stargazers_count": 14426,
+    "open_issues_count": 34,
+    "forks_count": 881
   }
 ]
