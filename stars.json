@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "broerjuang/fp-101",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "samber/mo",
-    "stargazers_count": 1002,
+    "stargazers_count": 1012,
     "open_issues_count": 5,
     "forks_count": 26
   },
@@ -13,9 +19,9 @@
   },
   {
     "full_name": "qazbnm456/awesome-web-security",
-    "stargazers_count": 8733,
+    "stargazers_count": 8746,
     "open_issues_count": 25,
-    "forks_count": 1488
+    "forks_count": 1489
   },
   {
     "full_name": "nix-community/linuxkit-nix",
@@ -25,25 +31,25 @@
   },
   {
     "full_name": "nix-community/dream2nix",
-    "stargazers_count": 277,
-    "open_issues_count": 74,
-    "forks_count": 53
+    "stargazers_count": 281,
+    "open_issues_count": 73,
+    "forks_count": 54
   },
   {
     "full_name": "railwayapp/nixpacks",
-    "stargazers_count": 1175,
-    "open_issues_count": 39,
+    "stargazers_count": 1184,
+    "open_issues_count": 41,
     "forks_count": 51
   },
   {
     "full_name": "pveyes/raw.macro",
     "stargazers_count": 143,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 9
   },
   {
     "full_name": "arlyon/stailwc",
-    "stargazers_count": 82,
+    "stargazers_count": 83,
     "open_issues_count": 3,
     "forks_count": 1
   },
@@ -61,7 +67,7 @@
   },
   {
     "full_name": "Xe/site",
-    "stargazers_count": 426,
+    "stargazers_count": 427,
     "open_issues_count": 12,
     "forks_count": 90
   },
@@ -73,9 +79,9 @@
   },
   {
     "full_name": "tamagui/tamagui",
-    "stargazers_count": 2550,
-    "open_issues_count": 23,
-    "forks_count": 56
+    "stargazers_count": 2580,
+    "open_issues_count": 26,
+    "forks_count": 59
   },
   {
     "full_name": "cachix/cachix",
@@ -91,39 +97,39 @@
   },
   {
     "full_name": "ducktors/turborepo-remote-cache",
-    "stargazers_count": 208,
+    "stargazers_count": 212,
     "open_issues_count": 4,
     "forks_count": 24
   },
   {
     "full_name": "0xInfection/Awesome-WAF",
-    "stargazers_count": 4689,
+    "stargazers_count": 4695,
     "open_issues_count": 0,
-    "forks_count": 883
+    "forks_count": 887
   },
   {
     "full_name": "ulixee/secret-agent",
-    "stargazers_count": 531,
+    "stargazers_count": 535,
     "open_issues_count": 44,
-    "forks_count": 37
+    "forks_count": 38
   },
   {
     "full_name": "nix-community/rnix-parser",
-    "stargazers_count": 227,
+    "stargazers_count": 228,
     "open_issues_count": 6,
     "forks_count": 32
   },
   {
     "full_name": "joshbuchea/HEAD",
-    "stargazers_count": 29363,
+    "stargazers_count": 29362,
     "open_issues_count": 19,
-    "forks_count": 1961
+    "forks_count": 1963
   },
   {
     "full_name": "BuilderIO/mitosis",
-    "stargazers_count": 6642,
-    "open_issues_count": 87,
-    "forks_count": 248
+    "stargazers_count": 6682,
+    "open_issues_count": 91,
+    "forks_count": 250
   },
   {
     "full_name": "gergoerdi/functional-mos6502-web-performance",
@@ -133,21 +139,21 @@
   },
   {
     "full_name": "soywod/himalaya",
-    "stargazers_count": 2038,
-    "open_issues_count": 41,
+    "stargazers_count": 2048,
+    "open_issues_count": 42,
     "forks_count": 57
   },
   {
     "full_name": "urfave/cli",
-    "stargazers_count": 19072,
-    "open_issues_count": 133,
+    "stargazers_count": 19085,
+    "open_issues_count": 125,
     "forks_count": 1619
   },
   {
     "full_name": "brainfucksec/neovim-lua",
-    "stargazers_count": 526,
+    "stargazers_count": 529,
     "open_issues_count": 1,
-    "forks_count": 92
+    "forks_count": 93
   },
   {
     "full_name": "webauthn-open-source/webauthn-simple-app",
@@ -157,8 +163,8 @@
   },
   {
     "full_name": "herrjemand/awesome-webauthn",
-    "stargazers_count": 697,
-    "open_issues_count": 3,
+    "stargazers_count": 701,
+    "open_issues_count": 4,
     "forks_count": 70
   },
   {
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "dolthub/dolt",
-    "stargazers_count": 13062,
-    "open_issues_count": 224,
+    "stargazers_count": 13072,
+    "open_issues_count": 230,
     "forks_count": 375
-  },
-  {
-    "full_name": "vic/mk-darwin-system",
-    "stargazers_count": 53,
-    "open_issues_count": 4,
-    "forks_count": 5
   }
 ]
