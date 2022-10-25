@@ -1,19 +1,19 @@
 [
   {
     "full_name": "reactjs/rfcs",
-    "stargazers_count": 4505,
-    "open_issues_count": 28,
-    "forks_count": 510
+    "stargazers_count": 4543,
+    "open_issues_count": 27,
+    "forks_count": 511
   },
   {
     "full_name": "maintainers/invite-automation",
-    "stargazers_count": 189,
-    "open_issues_count": 172,
+    "stargazers_count": 190,
+    "open_issues_count": 173,
     "forks_count": 2
   },
   {
     "full_name": "reactwg/react-native-new-architecture",
-    "stargazers_count": 637,
+    "stargazers_count": 642,
     "open_issues_count": 0,
     "forks_count": 8
   },
@@ -21,7 +21,7 @@
     "full_name": "privatenumber/minification-benchmarks",
     "stargazers_count": 686,
     "open_issues_count": 7,
-    "forks_count": 18
+    "forks_count": 19
   },
   {
     "full_name": "broerjuang/fp-101",
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "samber/mo",
-    "stargazers_count": 1040,
+    "stargazers_count": 1046,
     "open_issues_count": 6,
     "forks_count": 28
   },
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "qazbnm456/awesome-web-security",
-    "stargazers_count": 8811,
+    "stargazers_count": 8922,
     "open_issues_count": 26,
-    "forks_count": 1495
+    "forks_count": 1507
   },
   {
     "full_name": "nix-community/linuxkit-nix",
@@ -55,25 +55,25 @@
   },
   {
     "full_name": "nix-community/dream2nix",
-    "stargazers_count": 291,
+    "stargazers_count": 293,
     "open_issues_count": 74,
     "forks_count": 55
   },
   {
     "full_name": "railwayapp/nixpacks",
-    "stargazers_count": 1206,
-    "open_issues_count": 44,
-    "forks_count": 54
+    "stargazers_count": 1215,
+    "open_issues_count": 46,
+    "forks_count": 55
   },
   {
     "full_name": "pveyes/raw.macro",
-    "stargazers_count": 144,
+    "stargazers_count": 145,
     "open_issues_count": 1,
     "forks_count": 9
   },
   {
     "full_name": "arlyon/stailwc",
-    "stargazers_count": 88,
+    "stargazers_count": 90,
     "open_issues_count": 3,
     "forks_count": 1
   },
@@ -85,32 +85,32 @@
   },
   {
     "full_name": "knpwrs/ms.macro",
-    "stargazers_count": 191,
+    "stargazers_count": 192,
     "open_issues_count": 9,
     "forks_count": 6
   },
   {
     "full_name": "Xe/site",
-    "stargazers_count": 432,
-    "open_issues_count": 13,
+    "stargazers_count": 434,
+    "open_issues_count": 16,
     "forks_count": 93
   },
   {
     "full_name": "tadfisher/android-nixpkgs",
-    "stargazers_count": 84,
+    "stargazers_count": 85,
     "open_issues_count": 6,
     "forks_count": 22
   },
   {
     "full_name": "tamagui/tamagui",
-    "stargazers_count": 2626,
+    "stargazers_count": 2641,
     "open_issues_count": 33,
     "forks_count": 60
   },
   {
     "full_name": "cachix/cachix",
-    "stargazers_count": 488,
-    "open_issues_count": 92,
+    "stargazers_count": 489,
+    "open_issues_count": 86,
     "forks_count": 33
   },
   {
@@ -121,56 +121,56 @@
   },
   {
     "full_name": "ducktors/turborepo-remote-cache",
-    "stargazers_count": 236,
+    "stargazers_count": 239,
     "open_issues_count": 2,
     "forks_count": 28
   },
   {
     "full_name": "0xInfection/Awesome-WAF",
-    "stargazers_count": 4720,
+    "stargazers_count": 4724,
     "open_issues_count": 0,
-    "forks_count": 893
+    "forks_count": 895
   },
   {
     "full_name": "ulixee/secret-agent",
-    "stargazers_count": 535,
+    "stargazers_count": 536,
     "open_issues_count": 35,
     "forks_count": 38
   },
   {
     "full_name": "nix-community/rnix-parser",
-    "stargazers_count": 229,
+    "stargazers_count": 232,
     "open_issues_count": 10,
     "forks_count": 33
   },
   {
     "full_name": "joshbuchea/HEAD",
-    "stargazers_count": 29382,
+    "stargazers_count": 29387,
     "open_issues_count": 19,
-    "forks_count": 1967
+    "forks_count": 1966
   },
   {
     "full_name": "BuilderIO/mitosis",
-    "stargazers_count": 6933,
-    "open_issues_count": 95,
-    "forks_count": 258
+    "stargazers_count": 7004,
+    "open_issues_count": 96,
+    "forks_count": 261
   },
   {
     "full_name": "gergoerdi/functional-mos6502-web-performance",
-    "stargazers_count": 18,
+    "stargazers_count": 20,
     "open_issues_count": 3,
-    "forks_count": 5
+    "forks_count": 4
   },
   {
     "full_name": "soywod/himalaya",
-    "stargazers_count": 2077,
+    "stargazers_count": 2084,
     "open_issues_count": 32,
     "forks_count": 59
   },
   {
     "full_name": "urfave/cli",
-    "stargazers_count": 19158,
-    "open_issues_count": 107,
+    "stargazers_count": 19176,
+    "open_issues_count": 86,
     "forks_count": 1627
   },
   {
