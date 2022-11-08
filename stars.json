@@ -1,8 +1,8 @@
 [
   {
     "full_name": "pwntester/octo.nvim",
-    "stargazers_count": 1196,
-    "open_issues_count": 25,
+    "stargazers_count": 1199,
+    "open_issues_count": 24,
     "forks_count": 59
   },
   {
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "blitz-js/next-superjson-plugin",
-    "stargazers_count": 52,
+    "stargazers_count": 54,
     "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "resinfo/rescript-lua-ast",
@@ -31,14 +31,14 @@
   },
   {
     "full_name": "reactjs/rfcs",
-    "stargazers_count": 4632,
+    "stargazers_count": 4660,
     "open_issues_count": 28,
-    "forks_count": 524
+    "forks_count": 525
   },
   {
     "full_name": "maintainers/invite-automation",
-    "stargazers_count": 203,
-    "open_issues_count": 189,
+    "stargazers_count": 204,
+    "open_issues_count": 194,
     "forks_count": 2
   },
   {
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "privatenumber/minification-benchmarks",
-    "stargazers_count": 695,
+    "stargazers_count": 696,
     "open_issues_count": 8,
     "forks_count": 19
   },
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "samber/mo",
-    "stargazers_count": 1059,
+    "stargazers_count": 1067,
     "open_issues_count": 6,
     "forks_count": 29
   },
@@ -69,13 +69,13 @@
     "full_name": "nix-community/todomvc-nix",
     "stargazers_count": 130,
     "open_issues_count": 12,
-    "forks_count": 22
+    "forks_count": 24
   },
   {
     "full_name": "qazbnm456/awesome-web-security",
-    "stargazers_count": 8965,
+    "stargazers_count": 8979,
     "open_issues_count": 26,
-    "forks_count": 1513
+    "forks_count": 1512
   },
   {
     "full_name": "nix-community/linuxkit-nix",
@@ -85,15 +85,15 @@
   },
   {
     "full_name": "nix-community/dream2nix",
-    "stargazers_count": 298,
-    "open_issues_count": 74,
-    "forks_count": 55
+    "stargazers_count": 300,
+    "open_issues_count": 77,
+    "forks_count": 56
   },
   {
     "full_name": "railwayapp/nixpacks",
-    "stargazers_count": 1235,
-    "open_issues_count": 44,
-    "forks_count": 56
+    "stargazers_count": 1245,
+    "open_issues_count": 50,
+    "forks_count": 59
   },
   {
     "full_name": "pveyes/raw.macro",
@@ -103,8 +103,8 @@
   },
   {
     "full_name": "arlyon/stailwc",
-    "stargazers_count": 96,
-    "open_issues_count": 4,
+    "stargazers_count": 99,
+    "open_issues_count": 2,
     "forks_count": 1
   },
   {
@@ -123,7 +123,7 @@
     "full_name": "Xe/site",
     "stargazers_count": 442,
     "open_issues_count": 18,
-    "forks_count": 94
+    "forks_count": 95
   },
   {
     "full_name": "tadfisher/android-nixpkgs",
@@ -133,8 +133,8 @@
   },
   {
     "full_name": "tamagui/tamagui",
-    "stargazers_count": 2722,
-    "open_issues_count": 43,
+    "stargazers_count": 2733,
+    "open_issues_count": 21,
     "forks_count": 66
   },
   {
@@ -151,19 +151,19 @@
   },
   {
     "full_name": "ducktors/turborepo-remote-cache",
-    "stargazers_count": 293,
-    "open_issues_count": 16,
+    "stargazers_count": 297,
+    "open_issues_count": 5,
     "forks_count": 36
   },
   {
     "full_name": "0xInfection/Awesome-WAF",
-    "stargazers_count": 4745,
+    "stargazers_count": 4751,
     "open_issues_count": 0,
     "forks_count": 899
   },
   {
     "full_name": "ulixee/secret-agent",
-    "stargazers_count": 537,
+    "stargazers_count": 540,
     "open_issues_count": 35,
     "forks_count": 39
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "joshbuchea/HEAD",
-    "stargazers_count": 29400,
+    "stargazers_count": 29404,
     "open_issues_count": 19,
-    "forks_count": 1963
+    "forks_count": 1962
   }
 ]
