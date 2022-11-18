@@ -1,9 +1,9 @@
 [
   {
     "full_name": "cachix/devenv",
-    "stargazers_count": 318,
-    "open_issues_count": 27,
-    "forks_count": 9
+    "stargazers_count": 442,
+    "open_issues_count": 30,
+    "forks_count": 14
   },
   {
     "full_name": "darklang/rescript-tea",
@@ -19,26 +19,26 @@
   },
   {
     "full_name": "pwntester/octo.nvim",
-    "stargazers_count": 1213,
+    "stargazers_count": 1217,
     "open_issues_count": 25,
     "forks_count": 59
   },
   {
     "full_name": "giscus/giscus-component",
-    "stargazers_count": 119,
+    "stargazers_count": 120,
     "open_issues_count": 4,
     "forks_count": 9
   },
   {
     "full_name": "JonasKruckenberg/tauri-rescript-template",
-    "stargazers_count": 24,
+    "stargazers_count": 25,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "blitz-js/next-superjson-plugin",
     "stargazers_count": 56,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 2
   },
   {
@@ -49,25 +49,25 @@
   },
   {
     "full_name": "reactjs/rfcs",
-    "stargazers_count": 4671,
+    "stargazers_count": 4680,
     "open_issues_count": 28,
-    "forks_count": 528
+    "forks_count": 533
   },
   {
     "full_name": "maintainers/invite-automation",
-    "stargazers_count": 212,
-    "open_issues_count": 202,
+    "stargazers_count": 213,
+    "open_issues_count": 205,
     "forks_count": 2
   },
   {
     "full_name": "reactwg/react-native-new-architecture",
-    "stargazers_count": 652,
+    "stargazers_count": 656,
     "open_issues_count": 0,
     "forks_count": 8
   },
   {
     "full_name": "privatenumber/minification-benchmarks",
-    "stargazers_count": 702,
+    "stargazers_count": 703,
     "open_issues_count": 8,
     "forks_count": 20
   },
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "samber/mo",
-    "stargazers_count": 1085,
+    "stargazers_count": 1091,
     "open_issues_count": 6,
     "forks_count": 29
   },
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "qazbnm456/awesome-web-security",
-    "stargazers_count": 9006,
+    "stargazers_count": 9013,
     "open_issues_count": 27,
-    "forks_count": 1516
+    "forks_count": 1517
   },
   {
     "full_name": "nix-community/linuxkit-nix",
@@ -103,15 +103,15 @@
   },
   {
     "full_name": "nix-community/dream2nix",
-    "stargazers_count": 305,
-    "open_issues_count": 74,
+    "stargazers_count": 310,
+    "open_issues_count": 73,
     "forks_count": 59
   },
   {
     "full_name": "railwayapp/nixpacks",
     "stargazers_count": 1261,
-    "open_issues_count": 50,
-    "forks_count": 62
+    "open_issues_count": 51,
+    "forks_count": 66
   },
   {
     "full_name": "pveyes/raw.macro",
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "Xe/site",
-    "stargazers_count": 443,
+    "stargazers_count": 446,
     "open_issues_count": 21,
     "forks_count": 96
   },
@@ -151,8 +151,8 @@
   },
   {
     "full_name": "tamagui/tamagui",
-    "stargazers_count": 2761,
-    "open_issues_count": 23,
+    "stargazers_count": 2785,
+    "open_issues_count": 22,
     "forks_count": 69
   },
   {
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "ducktors/turborepo-remote-cache",
-    "stargazers_count": 305,
+    "stargazers_count": 310,
     "open_issues_count": 4,
     "forks_count": 38
   },
   {
     "full_name": "0xInfection/Awesome-WAF",
-    "stargazers_count": 4761,
+    "stargazers_count": 4764,
     "open_issues_count": 0,
     "forks_count": 901
   }
