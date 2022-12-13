@@ -1,9 +1,21 @@
 [
   {
-    "full_name": "shaunsingh/nyoom.nvim",
-    "stargazers_count": 429,
-    "open_issues_count": 4,
-    "forks_count": 60
+    "full_name": "williamboman/mason.nvim",
+    "stargazers_count": 2814,
+    "open_issues_count": 58,
+    "forks_count": 124
+  },
+  {
+    "full_name": "folke/todo-comments.nvim",
+    "stargazers_count": 1313,
+    "open_issues_count": 43,
+    "forks_count": 43
+  },
+  {
+    "full_name": "nyoom-engineering/nyoom.nvim",
+    "stargazers_count": 488,
+    "open_issues_count": 5,
+    "forks_count": 62
   },
   {
     "full_name": "lukalabs/replika-research",
@@ -19,8 +31,8 @@
   },
   {
     "full_name": "numtide/devshell",
-    "stargazers_count": 680,
-    "open_issues_count": 64,
+    "stargazers_count": 682,
+    "open_issues_count": 65,
     "forks_count": 57
   },
   {
@@ -31,9 +43,9 @@
   },
   {
     "full_name": "cachix/devenv",
-    "stargazers_count": 1231,
-    "open_issues_count": 61,
-    "forks_count": 41
+    "stargazers_count": 1249,
+    "open_issues_count": 58,
+    "forks_count": 42
   },
   {
     "full_name": "darklang/rescript-tea",
@@ -49,15 +61,15 @@
   },
   {
     "full_name": "pwntester/octo.nvim",
-    "stargazers_count": 1245,
-    "open_issues_count": 27,
-    "forks_count": 59
+    "stargazers_count": 1250,
+    "open_issues_count": 31,
+    "forks_count": 62
   },
   {
     "full_name": "giscus/giscus-component",
-    "stargazers_count": 124,
+    "stargazers_count": 127,
     "open_issues_count": 3,
-    "forks_count": 10
+    "forks_count": 11
   },
   {
     "full_name": "JonasKruckenberg/tauri-rescript-template",
@@ -67,7 +79,7 @@
   },
   {
     "full_name": "blitz-js/next-superjson-plugin",
-    "stargazers_count": 78,
+    "stargazers_count": 80,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -79,39 +91,39 @@
   },
   {
     "full_name": "reactjs/rfcs",
-    "stargazers_count": 4714,
+    "stargazers_count": 4716,
     "open_issues_count": 28,
-    "forks_count": 535
+    "forks_count": 534
   },
   {
     "full_name": "maintainers/invite-automation",
-    "stargazers_count": 221,
+    "stargazers_count": 220,
     "open_issues_count": 221,
     "forks_count": 2
   },
   {
     "full_name": "reactwg/react-native-new-architecture",
-    "stargazers_count": 669,
+    "stargazers_count": 671,
     "open_issues_count": 0,
     "forks_count": 8
   },
   {
     "full_name": "privatenumber/minification-benchmarks",
-    "stargazers_count": 719,
+    "stargazers_count": 721,
     "open_issues_count": 8,
-    "forks_count": 21
+    "forks_count": 20
   },
   {
     "full_name": "broerjuang/fp-101",
-    "stargazers_count": 2,
+    "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "samber/mo",
-    "stargazers_count": 1137,
+    "stargazers_count": 1148,
     "open_issues_count": 6,
-    "forks_count": 28
+    "forks_count": 31
   },
   {
     "full_name": "nix-community/todomvc-nix",
@@ -121,7 +133,7 @@
   },
   {
     "full_name": "qazbnm456/awesome-web-security",
-    "stargazers_count": 9205,
+    "stargazers_count": 9214,
     "open_issues_count": 28,
     "forks_count": 1540
   },
@@ -133,20 +145,20 @@
   },
   {
     "full_name": "nix-community/dream2nix",
-    "stargazers_count": 326,
-    "open_issues_count": 86,
-    "forks_count": 62
+    "stargazers_count": 332,
+    "open_issues_count": 87,
+    "forks_count": 63
   },
   {
     "full_name": "railwayapp/nixpacks",
-    "stargazers_count": 1291,
+    "stargazers_count": 1297,
     "open_issues_count": 59,
-    "forks_count": 72
+    "forks_count": 73
   },
   {
     "full_name": "pveyes/raw.macro",
     "stargazers_count": 146,
-    "open_issues_count": 4,
+    "open_issues_count": 5,
     "forks_count": 10
   },
   {
@@ -158,7 +170,7 @@
   {
     "full_name": "rakeshpai/fast-fp.macro",
     "stargazers_count": 92,
-    "open_issues_count": 10,
+    "open_issues_count": 11,
     "forks_count": 4
   },
   {
@@ -166,17 +178,5 @@
     "stargazers_count": 192,
     "open_issues_count": 9,
     "forks_count": 6
-  },
-  {
-    "full_name": "Xe/site",
-    "stargazers_count": 449,
-    "open_issues_count": 13,
-    "forks_count": 97
-  },
-  {
-    "full_name": "tadfisher/android-nixpkgs",
-    "stargazers_count": 95,
-    "open_issues_count": 7,
-    "forks_count": 22
   }
 ]
