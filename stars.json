@@ -1,9 +1,21 @@
 [
   {
+    "full_name": "ryantm/agenix",
+    "stargazers_count": 593,
+    "open_issues_count": 30,
+    "forks_count": 56
+  },
+  {
+    "full_name": "cachix/pre-commit-hooks.nix",
+    "stargazers_count": 242,
+    "open_issues_count": 37,
+    "forks_count": 79
+  },
+  {
     "full_name": "imteekay/functional-programming-learning-path",
-    "stargazers_count": 813,
+    "stargazers_count": 860,
     "open_issues_count": 1,
-    "forks_count": 81
+    "forks_count": 82
   },
   {
     "full_name": "ml-in-barcelona/fullstack-reason-react-demo",
@@ -19,27 +31,27 @@
   },
   {
     "full_name": "williamboman/mason.nvim",
-    "stargazers_count": 3106,
-    "open_issues_count": 70,
-    "forks_count": 148
+    "stargazers_count": 3147,
+    "open_issues_count": 71,
+    "forks_count": 149
   },
   {
     "full_name": "folke/todo-comments.nvim",
-    "stargazers_count": 1384,
-    "open_issues_count": 43,
-    "forks_count": 47
+    "stargazers_count": 1394,
+    "open_issues_count": 45,
+    "forks_count": 48
   },
   {
     "full_name": "nyoom-engineering/nyoom.nvim",
-    "stargazers_count": 582,
-    "open_issues_count": 11,
+    "stargazers_count": 589,
+    "open_issues_count": 9,
     "forks_count": 61
   },
   {
     "full_name": "lukalabs/replika-research",
     "stargazers_count": 327,
     "open_issues_count": 1,
-    "forks_count": 79
+    "forks_count": 80
   },
   {
     "full_name": "geops/next-nginx-routes",
@@ -49,25 +61,25 @@
   },
   {
     "full_name": "numtide/devshell",
-    "stargazers_count": 693,
-    "open_issues_count": 66,
+    "stargazers_count": 697,
+    "open_issues_count": 67,
     "forks_count": 57
   },
   {
     "full_name": "madonoharu/tsify",
-    "stargazers_count": 55,
+    "stargazers_count": 59,
     "open_issues_count": 4,
     "forks_count": 4
   },
   {
     "full_name": "cachix/devenv",
-    "stargazers_count": 1327,
-    "open_issues_count": 60,
-    "forks_count": 49
+    "stargazers_count": 1362,
+    "open_issues_count": 65,
+    "forks_count": 50
   },
   {
     "full_name": "darklang/rescript-tea",
-    "stargazers_count": 79,
+    "stargazers_count": 80,
     "open_issues_count": 11,
     "forks_count": 6
   },
@@ -79,13 +91,13 @@
   },
   {
     "full_name": "pwntester/octo.nvim",
-    "stargazers_count": 1271,
+    "stargazers_count": 1281,
     "open_issues_count": 29,
     "forks_count": 63
   },
   {
     "full_name": "giscus/giscus-component",
-    "stargazers_count": 133,
+    "stargazers_count": 135,
     "open_issues_count": 21,
     "forks_count": 11
   },
@@ -109,25 +121,25 @@
   },
   {
     "full_name": "reactjs/rfcs",
-    "stargazers_count": 4727,
+    "stargazers_count": 4730,
     "open_issues_count": 28,
     "forks_count": 532
   },
   {
     "full_name": "maintainers/invite-automation",
-    "stargazers_count": 224,
-    "open_issues_count": 226,
+    "stargazers_count": 225,
+    "open_issues_count": 227,
     "forks_count": 2
   },
   {
     "full_name": "reactwg/react-native-new-architecture",
-    "stargazers_count": 679,
+    "stargazers_count": 681,
     "open_issues_count": 0,
     "forks_count": 8
   },
   {
     "full_name": "privatenumber/minification-benchmarks",
-    "stargazers_count": 730,
+    "stargazers_count": 731,
     "open_issues_count": 7,
     "forks_count": 21
   },
@@ -139,9 +151,9 @@
   },
   {
     "full_name": "samber/mo",
-    "stargazers_count": 1173,
+    "stargazers_count": 1204,
     "open_issues_count": 6,
-    "forks_count": 31
+    "forks_count": 32
   },
   {
     "full_name": "nix-community/todomvc-nix",
@@ -151,7 +163,7 @@
   },
   {
     "full_name": "qazbnm456/awesome-web-security",
-    "stargazers_count": 9255,
+    "stargazers_count": 9257,
     "open_issues_count": 29,
     "forks_count": 1549
   },
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "nix-community/dream2nix",
-    "stargazers_count": 337,
-    "open_issues_count": 92,
-    "forks_count": 65
-  },
-  {
-    "full_name": "railwayapp/nixpacks",
-    "stargazers_count": 1317,
-    "open_issues_count": 49,
-    "forks_count": 77
-  },
-  {
-    "full_name": "pveyes/raw.macro",
-    "stargazers_count": 146,
-    "open_issues_count": 5,
-    "forks_count": 10
+    "stargazers_count": 343,
+    "open_issues_count": 102,
+    "forks_count": 67
   }
 ]
