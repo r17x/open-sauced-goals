@@ -1,37 +1,43 @@
 [
   {
+    "full_name": "aalhour/awesome-compilers",
+    "stargazers_count": 7404,
+    "open_issues_count": 52,
+    "forks_count": 596
+  },
+  {
     "full_name": "DeterminateSystems/zero-to-nix",
-    "stargazers_count": 86,
-    "open_issues_count": 13,
-    "forks_count": 5
+    "stargazers_count": 222,
+    "open_issues_count": 17,
+    "forks_count": 12
   },
   {
     "full_name": "luafun/luafun",
-    "stargazers_count": 1860,
+    "stargazers_count": 1861,
     "open_issues_count": 32,
     "forks_count": 102
   },
   {
     "full_name": "dundalek/lazy-lsp.nvim",
-    "stargazers_count": 103,
+    "stargazers_count": 104,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "ryantm/agenix",
-    "stargazers_count": 610,
+    "stargazers_count": 612,
     "open_issues_count": 32,
-    "forks_count": 59
+    "forks_count": 61
   },
   {
     "full_name": "cachix/pre-commit-hooks.nix",
-    "stargazers_count": 249,
-    "open_issues_count": 40,
-    "forks_count": 83
+    "stargazers_count": 248,
+    "open_issues_count": 41,
+    "forks_count": 84
   },
   {
     "full_name": "imteekay/functional-programming-learning-path",
-    "stargazers_count": 888,
+    "stargazers_count": 890,
     "open_issues_count": 1,
     "forks_count": 84
   },
@@ -49,37 +55,37 @@
   },
   {
     "full_name": "williamboman/mason.nvim",
-    "stargazers_count": 3411,
-    "open_issues_count": 83,
+    "stargazers_count": 3433,
+    "open_issues_count": 85,
     "forks_count": 172
   },
   {
     "full_name": "folke/todo-comments.nvim",
-    "stargazers_count": 1491,
-    "open_issues_count": 43,
+    "stargazers_count": 1502,
+    "open_issues_count": 44,
     "forks_count": 46
   },
   {
     "full_name": "nyoom-engineering/nyoom.nvim",
-    "stargazers_count": 652,
+    "stargazers_count": 663,
     "open_issues_count": 12,
-    "forks_count": 57
+    "forks_count": 56
   },
   {
     "full_name": "lukalabs/replika-research",
-    "stargazers_count": 332,
+    "stargazers_count": 334,
     "open_issues_count": 1,
     "forks_count": 80
   },
   {
     "full_name": "geops/next-nginx-routes",
-    "stargazers_count": 20,
+    "stargazers_count": 21,
     "open_issues_count": 2,
     "forks_count": 4
   },
   {
     "full_name": "numtide/devshell",
-    "stargazers_count": 716,
+    "stargazers_count": 717,
     "open_issues_count": 69,
     "forks_count": 58
   },
@@ -91,7 +97,7 @@
   },
   {
     "full_name": "cachix/devenv",
-    "stargazers_count": 1510,
+    "stargazers_count": 1527,
     "open_issues_count": 78,
     "forks_count": 64
   },
@@ -103,21 +109,21 @@
   },
   {
     "full_name": "eFishery/wording",
-    "stargazers_count": 3,
+    "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "pwntester/octo.nvim",
-    "stargazers_count": 1317,
-    "open_issues_count": 31,
-    "forks_count": 68
+    "stargazers_count": 1325,
+    "open_issues_count": 34,
+    "forks_count": 69
   },
   {
     "full_name": "giscus/giscus-component",
-    "stargazers_count": 142,
+    "stargazers_count": 143,
     "open_issues_count": 24,
-    "forks_count": 11
+    "forks_count": 12
   },
   {
     "full_name": "JonasKruckenberg/tauri-rescript-template",
@@ -127,38 +133,38 @@
   },
   {
     "full_name": "blitz-js/next-superjson-plugin",
-    "stargazers_count": 96,
+    "stargazers_count": 99,
     "open_issues_count": 1,
     "forks_count": 3
   },
   {
     "full_name": "resinfo/rescript-lua-ast",
-    "stargazers_count": 8,
+    "stargazers_count": 9,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "reactjs/rfcs",
-    "stargazers_count": 4769,
+    "stargazers_count": 4780,
     "open_issues_count": 30,
-    "forks_count": 536
+    "forks_count": 535
   },
   {
     "full_name": "maintainers/invite-automation",
-    "stargazers_count": 228,
-    "open_issues_count": 238,
+    "stargazers_count": 233,
+    "open_issues_count": 243,
     "forks_count": 2
   },
   {
     "full_name": "reactwg/react-native-new-architecture",
-    "stargazers_count": 740,
+    "stargazers_count": 742,
     "open_issues_count": 0,
     "forks_count": 11
   },
   {
     "full_name": "privatenumber/minification-benchmarks",
-    "stargazers_count": 747,
-    "open_issues_count": 8,
+    "stargazers_count": 748,
+    "open_issues_count": 7,
     "forks_count": 23
   },
   {
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "samber/mo",
-    "stargazers_count": 1257,
+    "stargazers_count": 1263,
     "open_issues_count": 7,
     "forks_count": 33
-  },
-  {
-    "full_name": "nix-community/todomvc-nix",
-    "stargazers_count": 138,
-    "open_issues_count": 15,
-    "forks_count": 25
   }
 ]
