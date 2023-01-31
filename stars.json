@@ -1,15 +1,15 @@
 [
   {
     "full_name": "aalhour/awesome-compilers",
-    "stargazers_count": 7404,
+    "stargazers_count": 7426,
     "open_issues_count": 52,
     "forks_count": 596
   },
   {
     "full_name": "DeterminateSystems/zero-to-nix",
-    "stargazers_count": 222,
-    "open_issues_count": 17,
-    "forks_count": 12
+    "stargazers_count": 249,
+    "open_issues_count": 16,
+    "forks_count": 18
   },
   {
     "full_name": "luafun/luafun",
@@ -21,23 +21,23 @@
     "full_name": "dundalek/lazy-lsp.nvim",
     "stargazers_count": 104,
     "open_issues_count": 0,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "ryantm/agenix",
-    "stargazers_count": 612,
-    "open_issues_count": 32,
-    "forks_count": 61
+    "stargazers_count": 616,
+    "open_issues_count": 33,
+    "forks_count": 62
   },
   {
     "full_name": "cachix/pre-commit-hooks.nix",
-    "stargazers_count": 248,
-    "open_issues_count": 41,
+    "stargazers_count": 251,
+    "open_issues_count": 42,
     "forks_count": 84
   },
   {
     "full_name": "imteekay/functional-programming-learning-path",
-    "stargazers_count": 890,
+    "stargazers_count": 891,
     "open_issues_count": 1,
     "forks_count": 84
   },
@@ -55,19 +55,19 @@
   },
   {
     "full_name": "williamboman/mason.nvim",
-    "stargazers_count": 3433,
+    "stargazers_count": 3468,
     "open_issues_count": 85,
     "forks_count": 172
   },
   {
     "full_name": "folke/todo-comments.nvim",
-    "stargazers_count": 1502,
+    "stargazers_count": 1513,
     "open_issues_count": 44,
     "forks_count": 46
   },
   {
     "full_name": "nyoom-engineering/nyoom.nvim",
-    "stargazers_count": 663,
+    "stargazers_count": 679,
     "open_issues_count": 12,
     "forks_count": 56
   },
@@ -85,21 +85,21 @@
   },
   {
     "full_name": "numtide/devshell",
-    "stargazers_count": 717,
+    "stargazers_count": 721,
     "open_issues_count": 69,
-    "forks_count": 58
+    "forks_count": 60
   },
   {
     "full_name": "madonoharu/tsify",
-    "stargazers_count": 70,
+    "stargazers_count": 71,
     "open_issues_count": 4,
     "forks_count": 5
   },
   {
     "full_name": "cachix/devenv",
-    "stargazers_count": 1527,
-    "open_issues_count": 78,
-    "forks_count": 64
+    "stargazers_count": 1546,
+    "open_issues_count": 84,
+    "forks_count": 66
   },
   {
     "full_name": "darklang/rescript-tea",
@@ -115,14 +115,14 @@
   },
   {
     "full_name": "pwntester/octo.nvim",
-    "stargazers_count": 1325,
+    "stargazers_count": 1339,
     "open_issues_count": 34,
     "forks_count": 69
   },
   {
     "full_name": "giscus/giscus-component",
     "stargazers_count": 143,
-    "open_issues_count": 24,
+    "open_issues_count": 4,
     "forks_count": 12
   },
   {
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "blitz-js/next-superjson-plugin",
-    "stargazers_count": 99,
+    "stargazers_count": 104,
     "open_issues_count": 1,
     "forks_count": 3
   },
@@ -145,26 +145,26 @@
   },
   {
     "full_name": "reactjs/rfcs",
-    "stargazers_count": 4780,
+    "stargazers_count": 4790,
     "open_issues_count": 30,
-    "forks_count": 535
+    "forks_count": 536
   },
   {
     "full_name": "maintainers/invite-automation",
-    "stargazers_count": 233,
-    "open_issues_count": 243,
+    "stargazers_count": 235,
+    "open_issues_count": 245,
     "forks_count": 2
   },
   {
     "full_name": "reactwg/react-native-new-architecture",
-    "stargazers_count": 742,
+    "stargazers_count": 745,
     "open_issues_count": 0,
     "forks_count": 11
   },
   {
     "full_name": "privatenumber/minification-benchmarks",
-    "stargazers_count": 748,
-    "open_issues_count": 7,
+    "stargazers_count": 751,
+    "open_issues_count": 8,
     "forks_count": 23
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "samber/mo",
-    "stargazers_count": 1263,
-    "open_issues_count": 7,
+    "stargazers_count": 1266,
+    "open_issues_count": 6,
     "forks_count": 33
   }
 ]
