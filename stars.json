@@ -1,19 +1,25 @@
 [
   {
+    "full_name": "mirage/ocaml-crunch",
+    "stargazers_count": 67,
+    "open_issues_count": 8,
+    "forks_count": 23
+  },
+  {
     "full_name": "greyblake/nutype",
-    "stargazers_count": 345,
-    "open_issues_count": 7,
+    "stargazers_count": 374,
+    "open_issues_count": 5,
     "forks_count": 5
   },
   {
     "full_name": "aalhour/awesome-compilers",
-    "stargazers_count": 7486,
+    "stargazers_count": 7494,
     "open_issues_count": 52,
     "forks_count": 600
   },
   {
     "full_name": "DeterminateSystems/zero-to-nix",
-    "stargazers_count": 297,
+    "stargazers_count": 299,
     "open_issues_count": 21,
     "forks_count": 25
   },
@@ -25,21 +31,21 @@
   },
   {
     "full_name": "dundalek/lazy-lsp.nvim",
-    "stargazers_count": 106,
+    "stargazers_count": 107,
     "open_issues_count": 1,
     "forks_count": 4
   },
   {
     "full_name": "ryantm/agenix",
-    "stargazers_count": 638,
-    "open_issues_count": 32,
+    "stargazers_count": 641,
+    "open_issues_count": 34,
     "forks_count": 66
   },
   {
     "full_name": "cachix/pre-commit-hooks.nix",
-    "stargazers_count": 259,
+    "stargazers_count": 263,
     "open_issues_count": 40,
-    "forks_count": 84
+    "forks_count": 86
   },
   {
     "full_name": "imteekay/functional-programming-learning-path",
@@ -55,31 +61,31 @@
   },
   {
     "full_name": "ml-in-barcelona/server-reason-react",
-    "stargazers_count": 20,
+    "stargazers_count": 22,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "williamboman/mason.nvim",
-    "stargazers_count": 3704,
-    "open_issues_count": 72,
-    "forks_count": 194
+    "stargazers_count": 3734,
+    "open_issues_count": 71,
+    "forks_count": 198
   },
   {
     "full_name": "folke/todo-comments.nvim",
-    "stargazers_count": 1561,
-    "open_issues_count": 46,
+    "stargazers_count": 1573,
+    "open_issues_count": 47,
     "forks_count": 46
   },
   {
     "full_name": "nyoom-engineering/nyoom.nvim",
-    "stargazers_count": 717,
+    "stargazers_count": 723,
     "open_issues_count": 15,
     "forks_count": 60
   },
   {
     "full_name": "lukalabs/replika-research",
-    "stargazers_count": 336,
+    "stargazers_count": 337,
     "open_issues_count": 1,
     "forks_count": 83
   },
@@ -97,19 +103,19 @@
   },
   {
     "full_name": "madonoharu/tsify",
-    "stargazers_count": 71,
+    "stargazers_count": 74,
     "open_issues_count": 4,
     "forks_count": 5
   },
   {
     "full_name": "cachix/devenv",
-    "stargazers_count": 1630,
+    "stargazers_count": 1646,
     "open_issues_count": 95,
-    "forks_count": 77
+    "forks_count": 79
   },
   {
     "full_name": "darklang/rescript-tea",
-    "stargazers_count": 85,
+    "stargazers_count": 86,
     "open_issues_count": 11,
     "forks_count": 6
   },
@@ -121,13 +127,13 @@
   },
   {
     "full_name": "pwntester/octo.nvim",
-    "stargazers_count": 1375,
+    "stargazers_count": 1380,
     "open_issues_count": 35,
     "forks_count": 73
   },
   {
     "full_name": "giscus/giscus-component",
-    "stargazers_count": 148,
+    "stargazers_count": 147,
     "open_issues_count": 6,
     "forks_count": 12
   },
@@ -139,7 +145,7 @@
   },
   {
     "full_name": "blitz-js/next-superjson-plugin",
-    "stargazers_count": 114,
+    "stargazers_count": 115,
     "open_issues_count": 2,
     "forks_count": 4
   },
@@ -151,32 +157,26 @@
   },
   {
     "full_name": "reactjs/rfcs",
-    "stargazers_count": 4824,
-    "open_issues_count": 32,
-    "forks_count": 543
+    "stargazers_count": 4829,
+    "open_issues_count": 33,
+    "forks_count": 545
   },
   {
     "full_name": "maintainers/invite-automation",
-    "stargazers_count": 247,
-    "open_issues_count": 258,
+    "stargazers_count": 248,
+    "open_issues_count": 263,
     "forks_count": 2
   },
   {
     "full_name": "reactwg/react-native-new-architecture",
-    "stargazers_count": 755,
+    "stargazers_count": 757,
     "open_issues_count": 0,
     "forks_count": 11
   },
   {
     "full_name": "privatenumber/minification-benchmarks",
-    "stargazers_count": 764,
+    "stargazers_count": 770,
     "open_issues_count": 6,
-    "forks_count": 23
-  },
-  {
-    "full_name": "broerjuang/fp-101",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 24
   }
 ]
