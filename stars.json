@@ -7,7 +7,7 @@
   },
   {
     "full_name": "cachix/install-nix-action",
-    "stargazers_count": 337,
+    "stargazers_count": 340,
     "open_issues_count": 20,
     "forks_count": 61
   },
@@ -19,27 +19,27 @@
   },
   {
     "full_name": "greyblake/nutype",
-    "stargazers_count": 406,
+    "stargazers_count": 414,
     "open_issues_count": 6,
-    "forks_count": 6
+    "forks_count": 5
   },
   {
     "full_name": "aalhour/awesome-compilers",
-    "stargazers_count": 7560,
+    "stargazers_count": 7573,
     "open_issues_count": 52,
-    "forks_count": 603
+    "forks_count": 605
   },
   {
     "full_name": "DeterminateSystems/zero-to-nix",
-    "stargazers_count": 370,
-    "open_issues_count": 20,
+    "stargazers_count": 371,
+    "open_issues_count": 21,
     "forks_count": 30
   },
   {
     "full_name": "luafun/luafun",
     "stargazers_count": 1870,
     "open_issues_count": 32,
-    "forks_count": 102
+    "forks_count": 101
   },
   {
     "full_name": "dundalek/lazy-lsp.nvim",
@@ -49,14 +49,14 @@
   },
   {
     "full_name": "ryantm/agenix",
-    "stargazers_count": 660,
-    "open_issues_count": 36,
-    "forks_count": 65
+    "stargazers_count": 665,
+    "open_issues_count": 37,
+    "forks_count": 67
   },
   {
     "full_name": "cachix/pre-commit-hooks.nix",
-    "stargazers_count": 270,
-    "open_issues_count": 45,
+    "stargazers_count": 271,
+    "open_issues_count": 46,
     "forks_count": 86
   },
   {
@@ -79,20 +79,20 @@
   },
   {
     "full_name": "williamboman/mason.nvim",
-    "stargazers_count": 3945,
+    "stargazers_count": 3982,
     "open_issues_count": 76,
-    "forks_count": 212
+    "forks_count": 215
   },
   {
     "full_name": "folke/todo-comments.nvim",
-    "stargazers_count": 1619,
-    "open_issues_count": 45,
-    "forks_count": 49
+    "stargazers_count": 1627,
+    "open_issues_count": 44,
+    "forks_count": 50
   },
   {
     "full_name": "nyoom-engineering/nyoom.nvim",
-    "stargazers_count": 764,
-    "open_issues_count": 17,
+    "stargazers_count": 770,
+    "open_issues_count": 15,
     "forks_count": 58
   },
   {
@@ -103,31 +103,31 @@
   },
   {
     "full_name": "geops/next-nginx-routes",
-    "stargazers_count": 22,
-    "open_issues_count": 4,
-    "forks_count": 6
+    "stargazers_count": 85,
+    "open_issues_count": 5,
+    "forks_count": 7
   },
   {
     "full_name": "numtide/devshell",
-    "stargazers_count": 760,
+    "stargazers_count": 762,
     "open_issues_count": 68,
-    "forks_count": 65
+    "forks_count": 66
   },
   {
     "full_name": "madonoharu/tsify",
-    "stargazers_count": 76,
+    "stargazers_count": 77,
     "open_issues_count": 5,
     "forks_count": 5
   },
   {
     "full_name": "cachix/devenv",
-    "stargazers_count": 1758,
-    "open_issues_count": 110,
-    "forks_count": 91
+    "stargazers_count": 1799,
+    "open_issues_count": 112,
+    "forks_count": 95
   },
   {
     "full_name": "darklang/rescript-tea",
-    "stargazers_count": 91,
+    "stargazers_count": 92,
     "open_issues_count": 11,
     "forks_count": 6
   },
@@ -139,14 +139,14 @@
   },
   {
     "full_name": "pwntester/octo.nvim",
-    "stargazers_count": 1429,
+    "stargazers_count": 1435,
     "open_issues_count": 36,
     "forks_count": 75
   },
   {
     "full_name": "giscus/giscus-component",
-    "stargazers_count": 157,
-    "open_issues_count": 6,
+    "stargazers_count": 159,
+    "open_issues_count": 35,
     "forks_count": 12
   },
   {
@@ -157,8 +157,8 @@
   },
   {
     "full_name": "blitz-js/next-superjson-plugin",
-    "stargazers_count": 127,
-    "open_issues_count": 5,
+    "stargazers_count": 128,
+    "open_issues_count": 6,
     "forks_count": 4
   },
   {
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "reactjs/rfcs",
-    "stargazers_count": 4867,
+    "stargazers_count": 4875,
     "open_issues_count": 32,
-    "forks_count": 552
+    "forks_count": 554
   },
   {
     "full_name": "maintainers/invite-automation",
-    "stargazers_count": 250,
-    "open_issues_count": 255,
+    "stargazers_count": 253,
+    "open_issues_count": 258,
     "forks_count": 2
   }
 ]
