@@ -1,7 +1,7 @@
 [
   {
     "full_name": "DZakh/rescript-struct",
-    "stargazers_count": 60,
+    "stargazers_count": 61,
     "open_issues_count": 2,
     "forks_count": 3
   },
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "pd4d10/vite-plugin-svgr",
-    "stargazers_count": 276,
+    "stargazers_count": 280,
     "open_issues_count": 21,
-    "forks_count": 41
+    "forks_count": 42
   },
   {
     "full_name": "ElMassimo/vite-plugin-environment",
@@ -25,49 +25,49 @@
   },
   {
     "full_name": "itsMapleLeaf/vite-plugin-babel-macros",
-    "stargazers_count": 35,
+    "stargazers_count": 36,
     "open_issues_count": 0,
     "forks_count": 6
   },
   {
     "full_name": "getsentry/sentry-javascript-bundler-plugins",
     "stargazers_count": 54,
-    "open_issues_count": 10,
+    "open_issues_count": 9,
     "forks_count": 7
   },
   {
     "full_name": "vitejs/vite-plugin-react-swc",
-    "stargazers_count": 423,
+    "stargazers_count": 430,
     "open_issues_count": 5,
     "forks_count": 21
   },
   {
     "full_name": "vitejs/awesome-vite",
-    "stargazers_count": 9692,
-    "open_issues_count": 25,
-    "forks_count": 829
+    "stargazers_count": 9748,
+    "open_issues_count": 29,
+    "forks_count": 834
   },
   {
     "full_name": "vitejs/vite",
-    "stargazers_count": 55346,
-    "open_issues_count": 513,
-    "forks_count": 4900
+    "stargazers_count": 55498,
+    "open_issues_count": 522,
+    "forks_count": 4916
   },
   {
     "full_name": "aantron/hyper",
-    "stargazers_count": 53,
+    "stargazers_count": 54,
     "open_issues_count": 3,
     "forks_count": 2
   },
   {
     "full_name": "vanilla-extract-css/vanilla-extract",
-    "stargazers_count": 7966,
-    "open_issues_count": 45,
+    "stargazers_count": 7983,
+    "open_issues_count": 44,
     "forks_count": 210
   },
   {
     "full_name": "unjs/unplugin",
-    "stargazers_count": 2149,
+    "stargazers_count": 2159,
     "open_issues_count": 26,
     "forks_count": 72
   },
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "cachix/install-nix-action",
-    "stargazers_count": 345,
+    "stargazers_count": 350,
     "open_issues_count": 20,
     "forks_count": 62
   },
@@ -91,19 +91,19 @@
   },
   {
     "full_name": "greyblake/nutype",
-    "stargazers_count": 470,
+    "stargazers_count": 557,
     "open_issues_count": 5,
     "forks_count": 6
   },
   {
     "full_name": "aalhour/awesome-compilers",
-    "stargazers_count": 7653,
+    "stargazers_count": 7659,
     "open_issues_count": 52,
-    "forks_count": 608
+    "forks_count": 610
   },
   {
     "full_name": "DeterminateSystems/zero-to-nix",
-    "stargazers_count": 392,
+    "stargazers_count": 400,
     "open_issues_count": 20,
     "forks_count": 32
   },
@@ -115,20 +115,20 @@
   },
   {
     "full_name": "dundalek/lazy-lsp.nvim",
-    "stargazers_count": 115,
+    "stargazers_count": 116,
     "open_issues_count": 3,
     "forks_count": 5
   },
   {
     "full_name": "ryantm/agenix",
-    "stargazers_count": 695,
-    "open_issues_count": 37,
-    "forks_count": 70
+    "stargazers_count": 711,
+    "open_issues_count": 36,
+    "forks_count": 69
   },
   {
     "full_name": "cachix/pre-commit-hooks.nix",
-    "stargazers_count": 288,
-    "open_issues_count": 50,
+    "stargazers_count": 289,
+    "open_issues_count": 52,
     "forks_count": 89
   },
   {
@@ -151,31 +151,31 @@
   },
   {
     "full_name": "williamboman/mason.nvim",
-    "stargazers_count": 4277,
-    "open_issues_count": 76,
-    "forks_count": 224
+    "stargazers_count": 4308,
+    "open_issues_count": 79,
+    "forks_count": 221
   },
   {
     "full_name": "folke/todo-comments.nvim",
-    "stargazers_count": 1713,
-    "open_issues_count": 46,
+    "stargazers_count": 1729,
+    "open_issues_count": 47,
     "forks_count": 53
   },
   {
     "full_name": "nyoom-engineering/nyoom.nvim",
-    "stargazers_count": 829,
-    "open_issues_count": 20,
-    "forks_count": 58
+    "stargazers_count": 836,
+    "open_issues_count": 19,
+    "forks_count": 60
   },
   {
     "full_name": "lukalabs/replika-research",
-    "stargazers_count": 347,
+    "stargazers_count": 349,
     "open_issues_count": 1,
     "forks_count": 87
   },
   {
     "full_name": "geops/next-nginx-routes",
-    "stargazers_count": 117,
+    "stargazers_count": 118,
     "open_issues_count": 5,
     "forks_count": 9
   }
