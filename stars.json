@@ -1,14 +1,14 @@
 [
   {
     "full_name": "NixOS/hydra",
-    "stargazers_count": 823,
+    "stargazers_count": 825,
     "open_issues_count": 369,
     "forks_count": 266
   },
   {
     "full_name": "DZakh/rescript-struct",
-    "stargazers_count": 62,
-    "open_issues_count": 2,
+    "stargazers_count": 63,
+    "open_issues_count": 1,
     "forks_count": 3
   },
   {
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "pd4d10/vite-plugin-svgr",
-    "stargazers_count": 281,
+    "stargazers_count": 283,
     "open_issues_count": 23,
-    "forks_count": 43
+    "forks_count": 44
   },
   {
     "full_name": "ElMassimo/vite-plugin-environment",
@@ -38,26 +38,26 @@
   {
     "full_name": "getsentry/sentry-javascript-bundler-plugins",
     "stargazers_count": 54,
-    "open_issues_count": 11,
-    "forks_count": 7
+    "open_issues_count": 12,
+    "forks_count": 8
   },
   {
     "full_name": "vitejs/vite-plugin-react-swc",
-    "stargazers_count": 437,
+    "stargazers_count": 440,
     "open_issues_count": 5,
     "forks_count": 23
   },
   {
     "full_name": "vitejs/awesome-vite",
-    "stargazers_count": 9794,
-    "open_issues_count": 30,
-    "forks_count": 837
+    "stargazers_count": 9957,
+    "open_issues_count": 31,
+    "forks_count": 842
   },
   {
     "full_name": "vitejs/vite",
-    "stargazers_count": 55642,
-    "open_issues_count": 521,
-    "forks_count": 4936
+    "stargazers_count": 55750,
+    "open_issues_count": 519,
+    "forks_count": 4939
   },
   {
     "full_name": "aantron/hyper",
@@ -67,13 +67,13 @@
   },
   {
     "full_name": "vanilla-extract-css/vanilla-extract",
-    "stargazers_count": 8001,
-    "open_issues_count": 48,
+    "stargazers_count": 8019,
+    "open_issues_count": 49,
     "forks_count": 211
   },
   {
     "full_name": "unjs/unplugin",
-    "stargazers_count": 2164,
+    "stargazers_count": 2165,
     "open_issues_count": 27,
     "forks_count": 72
   },
@@ -85,57 +85,57 @@
   },
   {
     "full_name": "cachix/install-nix-action",
-    "stargazers_count": 351,
-    "open_issues_count": 19,
-    "forks_count": 62
+    "stargazers_count": 354,
+    "open_issues_count": 18,
+    "forks_count": 64
   },
   {
     "full_name": "mirage/ocaml-crunch",
-    "stargazers_count": 67,
+    "stargazers_count": 68,
     "open_issues_count": 8,
     "forks_count": 23
   },
   {
     "full_name": "greyblake/nutype",
-    "stargazers_count": 569,
-    "open_issues_count": 5,
+    "stargazers_count": 575,
+    "open_issues_count": 6,
     "forks_count": 6
   },
   {
     "full_name": "aalhour/awesome-compilers",
-    "stargazers_count": 7670,
-    "open_issues_count": 53,
-    "forks_count": 611
+    "stargazers_count": 7681,
+    "open_issues_count": 54,
+    "forks_count": 614
   },
   {
     "full_name": "DeterminateSystems/zero-to-nix",
-    "stargazers_count": 404,
-    "open_issues_count": 21,
+    "stargazers_count": 406,
+    "open_issues_count": 22,
     "forks_count": 32
   },
   {
     "full_name": "luafun/luafun",
-    "stargazers_count": 1882,
+    "stargazers_count": 1884,
     "open_issues_count": 32,
     "forks_count": 101
   },
   {
     "full_name": "dundalek/lazy-lsp.nvim",
     "stargazers_count": 116,
-    "open_issues_count": 4,
+    "open_issues_count": 3,
     "forks_count": 5
   },
   {
     "full_name": "ryantm/agenix",
-    "stargazers_count": 714,
-    "open_issues_count": 37,
+    "stargazers_count": 715,
+    "open_issues_count": 39,
     "forks_count": 69
   },
   {
     "full_name": "cachix/pre-commit-hooks.nix",
-    "stargazers_count": 292,
-    "open_issues_count": 55,
-    "forks_count": 91
+    "stargazers_count": 295,
+    "open_issues_count": 56,
+    "forks_count": 92
   },
   {
     "full_name": "imteekay/functional-programming-learning-path",
@@ -157,21 +157,21 @@
   },
   {
     "full_name": "williamboman/mason.nvim",
-    "stargazers_count": 4331,
-    "open_issues_count": 75,
-    "forks_count": 221
+    "stargazers_count": 4363,
+    "open_issues_count": 67,
+    "forks_count": 222
   },
   {
     "full_name": "folke/todo-comments.nvim",
-    "stargazers_count": 1735,
-    "open_issues_count": 47,
-    "forks_count": 53
+    "stargazers_count": 1742,
+    "open_issues_count": 46,
+    "forks_count": 54
   },
   {
     "full_name": "nyoom-engineering/nyoom.nvim",
-    "stargazers_count": 842,
+    "stargazers_count": 858,
     "open_issues_count": 19,
-    "forks_count": 62
+    "forks_count": 63
   },
   {
     "full_name": "lukalabs/replika-research",
