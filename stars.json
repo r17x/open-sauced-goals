@@ -1,9 +1,9 @@
 [
   {
     "full_name": "NixOS/hydra",
-    "stargazers_count": 825,
+    "stargazers_count": 826,
     "open_issues_count": 369,
-    "forks_count": 266
+    "forks_count": 267
   },
   {
     "full_name": "DZakh/rescript-struct",
@@ -13,19 +13,19 @@
   },
   {
     "full_name": "cometkim/rescript-vitest",
-    "stargazers_count": 33,
-    "open_issues_count": 2,
+    "stargazers_count": 36,
+    "open_issues_count": 3,
     "forks_count": 3
   },
   {
     "full_name": "pd4d10/vite-plugin-svgr",
-    "stargazers_count": 283,
-    "open_issues_count": 23,
+    "stargazers_count": 284,
+    "open_issues_count": 18,
     "forks_count": 44
   },
   {
     "full_name": "ElMassimo/vite-plugin-environment",
-    "stargazers_count": 109,
+    "stargazers_count": 111,
     "open_issues_count": 0,
     "forks_count": 6
   },
@@ -33,7 +33,7 @@
     "full_name": "itsMapleLeaf/vite-plugin-babel-macros",
     "stargazers_count": 36,
     "open_issues_count": 0,
-    "forks_count": 6
+    "forks_count": 5
   },
   {
     "full_name": "getsentry/sentry-javascript-bundler-plugins",
@@ -43,21 +43,21 @@
   },
   {
     "full_name": "vitejs/vite-plugin-react-swc",
-    "stargazers_count": 440,
-    "open_issues_count": 5,
+    "stargazers_count": 445,
+    "open_issues_count": 6,
     "forks_count": 23
   },
   {
     "full_name": "vitejs/awesome-vite",
-    "stargazers_count": 9957,
-    "open_issues_count": 31,
+    "stargazers_count": 10046,
+    "open_issues_count": 29,
     "forks_count": 842
   },
   {
     "full_name": "vitejs/vite",
-    "stargazers_count": 55750,
-    "open_issues_count": 519,
-    "forks_count": 4939
+    "stargazers_count": 55870,
+    "open_issues_count": 523,
+    "forks_count": 4946
   },
   {
     "full_name": "aantron/hyper",
@@ -67,14 +67,14 @@
   },
   {
     "full_name": "vanilla-extract-css/vanilla-extract",
-    "stargazers_count": 8019,
-    "open_issues_count": 49,
+    "stargazers_count": 8045,
+    "open_issues_count": 50,
     "forks_count": 211
   },
   {
     "full_name": "unjs/unplugin",
-    "stargazers_count": 2165,
-    "open_issues_count": 27,
+    "stargazers_count": 2167,
+    "open_issues_count": 28,
     "forks_count": 72
   },
   {
@@ -86,7 +86,7 @@
   {
     "full_name": "cachix/install-nix-action",
     "stargazers_count": 354,
-    "open_issues_count": 18,
+    "open_issues_count": 17,
     "forks_count": 64
   },
   {
@@ -97,25 +97,25 @@
   },
   {
     "full_name": "greyblake/nutype",
-    "stargazers_count": 575,
-    "open_issues_count": 6,
+    "stargazers_count": 577,
+    "open_issues_count": 7,
     "forks_count": 6
   },
   {
     "full_name": "aalhour/awesome-compilers",
-    "stargazers_count": 7681,
+    "stargazers_count": 7694,
     "open_issues_count": 54,
     "forks_count": 614
   },
   {
     "full_name": "DeterminateSystems/zero-to-nix",
-    "stargazers_count": 406,
+    "stargazers_count": 408,
     "open_issues_count": 22,
     "forks_count": 32
   },
   {
     "full_name": "luafun/luafun",
-    "stargazers_count": 1884,
+    "stargazers_count": 1885,
     "open_issues_count": 32,
     "forks_count": 101
   },
@@ -134,8 +134,8 @@
   {
     "full_name": "cachix/pre-commit-hooks.nix",
     "stargazers_count": 295,
-    "open_issues_count": 56,
-    "forks_count": 92
+    "open_issues_count": 57,
+    "forks_count": 93
   },
   {
     "full_name": "imteekay/functional-programming-learning-path",
@@ -151,26 +151,26 @@
   },
   {
     "full_name": "ml-in-barcelona/server-reason-react",
-    "stargazers_count": 25,
+    "stargazers_count": 26,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "williamboman/mason.nvim",
-    "stargazers_count": 4363,
+    "stargazers_count": 4382,
     "open_issues_count": 67,
-    "forks_count": 222
+    "forks_count": 223
   },
   {
     "full_name": "folke/todo-comments.nvim",
-    "stargazers_count": 1742,
+    "stargazers_count": 1748,
     "open_issues_count": 46,
     "forks_count": 54
   },
   {
     "full_name": "nyoom-engineering/nyoom.nvim",
-    "stargazers_count": 858,
-    "open_issues_count": 19,
+    "stargazers_count": 861,
+    "open_issues_count": 17,
     "forks_count": 63
   },
   {
