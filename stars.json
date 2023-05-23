@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "nixified-ai/flake",
+    "stargazers_count": 205,
+    "open_issues_count": 14,
+    "forks_count": 15
+  },
+  {
+    "full_name": "pta2002/nixvim",
+    "stargazers_count": 285,
+    "open_issues_count": 11,
+    "forks_count": 49
+  },
+  {
     "full_name": "radio24/TorBox",
     "stargazers_count": 206,
     "open_issues_count": 14,
@@ -7,25 +19,25 @@
   },
   {
     "full_name": "lxsmnsyc/forgetti",
-    "stargazers_count": 227,
-    "open_issues_count": 5,
+    "stargazers_count": 234,
+    "open_issues_count": 4,
     "forks_count": 4
   },
   {
     "full_name": "numtide/system-manager",
-    "stargazers_count": 241,
+    "stargazers_count": 247,
     "open_issues_count": 4,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "NixOS/hydra",
-    "stargazers_count": 834,
-    "open_issues_count": 367,
+    "stargazers_count": 835,
+    "open_issues_count": 368,
     "forks_count": 269
   },
   {
     "full_name": "DZakh/rescript-struct",
-    "stargazers_count": 66,
+    "stargazers_count": 67,
     "open_issues_count": 2,
     "forks_count": 3
   },
@@ -55,27 +67,27 @@
   },
   {
     "full_name": "getsentry/sentry-javascript-bundler-plugins",
-    "stargazers_count": 55,
-    "open_issues_count": 15,
+    "stargazers_count": 56,
+    "open_issues_count": 13,
     "forks_count": 8
   },
   {
     "full_name": "vitejs/vite-plugin-react-swc",
     "stargazers_count": 452,
-    "open_issues_count": 2,
-    "forks_count": 23
+    "open_issues_count": 4,
+    "forks_count": 24
   },
   {
     "full_name": "vitejs/awesome-vite",
-    "stargazers_count": 10192,
-    "open_issues_count": 35,
-    "forks_count": 859
+    "stargazers_count": 10230,
+    "open_issues_count": 38,
+    "forks_count": 865
   },
   {
     "full_name": "vitejs/vite",
-    "stargazers_count": 56321,
-    "open_issues_count": 534,
-    "forks_count": 4999
+    "stargazers_count": 56428,
+    "open_issues_count": 545,
+    "forks_count": 5008
   },
   {
     "full_name": "aantron/hyper",
@@ -85,15 +97,15 @@
   },
   {
     "full_name": "vanilla-extract-css/vanilla-extract",
-    "stargazers_count": 8115,
-    "open_issues_count": 52,
+    "stargazers_count": 8131,
+    "open_issues_count": 51,
     "forks_count": 214
   },
   {
     "full_name": "unjs/unplugin",
-    "stargazers_count": 2189,
-    "open_issues_count": 27,
-    "forks_count": 74
+    "stargazers_count": 2196,
+    "open_issues_count": 30,
+    "forks_count": 76
   },
   {
     "full_name": "r17x/Edotensei",
@@ -103,7 +115,7 @@
   },
   {
     "full_name": "cachix/install-nix-action",
-    "stargazers_count": 356,
+    "stargazers_count": 357,
     "open_issues_count": 17,
     "forks_count": 66
   },
@@ -117,23 +129,23 @@
     "full_name": "greyblake/nutype",
     "stargazers_count": 579,
     "open_issues_count": 7,
-    "forks_count": 8
+    "forks_count": 9
   },
   {
     "full_name": "aalhour/awesome-compilers",
-    "stargazers_count": 7721,
+    "stargazers_count": 7733,
     "open_issues_count": 54,
-    "forks_count": 613
+    "forks_count": 617
   },
   {
     "full_name": "DeterminateSystems/zero-to-nix",
-    "stargazers_count": 421,
+    "stargazers_count": 425,
     "open_issues_count": 22,
     "forks_count": 34
   },
   {
     "full_name": "luafun/luafun",
-    "stargazers_count": 1889,
+    "stargazers_count": 1890,
     "open_issues_count": 32,
     "forks_count": 101
   },
@@ -145,38 +157,26 @@
   },
   {
     "full_name": "ryantm/agenix",
-    "stargazers_count": 727,
-    "open_issues_count": 36,
-    "forks_count": 70
+    "stargazers_count": 728,
+    "open_issues_count": 38,
+    "forks_count": 72
   },
   {
     "full_name": "cachix/pre-commit-hooks.nix",
-    "stargazers_count": 307,
-    "open_issues_count": 60,
-    "forks_count": 94
+    "stargazers_count": 311,
+    "open_issues_count": 62,
+    "forks_count": 95
   },
   {
     "full_name": "imteekay/functional-programming-learning-path",
-    "stargazers_count": 915,
+    "stargazers_count": 916,
     "open_issues_count": 1,
-    "forks_count": 84
+    "forks_count": 85
   },
   {
     "full_name": "ml-in-barcelona/fullstack-reason-react-demo",
-    "stargazers_count": 26,
+    "stargazers_count": 27,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "ml-in-barcelona/server-reason-react",
-    "stargazers_count": 47,
-    "open_issues_count": 1,
-    "forks_count": 1
-  },
-  {
-    "full_name": "williamboman/mason.nvim",
-    "stargazers_count": 4466,
-    "open_issues_count": 69,
-    "forks_count": 222
   }
 ]
