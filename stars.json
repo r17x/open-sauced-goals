@@ -1,26 +1,26 @@
 [
   {
     "full_name": "melange-re/melange-re.github.io",
-    "stargazers_count": 8,
+    "stargazers_count": 9,
     "open_issues_count": 11,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "mobily/ts-belt",
-    "stargazers_count": 838,
-    "open_issues_count": 23,
+    "stargazers_count": 841,
+    "open_issues_count": 22,
     "forks_count": 23
   },
   {
     "full_name": "nixified-ai/flake",
-    "stargazers_count": 224,
-    "open_issues_count": 17,
+    "stargazers_count": 231,
+    "open_issues_count": 18,
     "forks_count": 17
   },
   {
     "full_name": "pta2002/nixvim",
-    "stargazers_count": 291,
-    "open_issues_count": 10,
+    "stargazers_count": 293,
+    "open_issues_count": 9,
     "forks_count": 50
   },
   {
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "numtide/system-manager",
-    "stargazers_count": 260,
+    "stargazers_count": 263,
     "open_issues_count": 4,
     "forks_count": 4
   },
@@ -45,7 +45,7 @@
     "full_name": "NixOS/hydra",
     "stargazers_count": 838,
     "open_issues_count": 367,
-    "forks_count": 270
+    "forks_count": 271
   },
   {
     "full_name": "DZakh/rescript-struct",
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "pd4d10/vite-plugin-svgr",
-    "stargazers_count": 300,
+    "stargazers_count": 302,
     "open_issues_count": 18,
     "forks_count": 44
   },
@@ -80,25 +80,25 @@
   {
     "full_name": "getsentry/sentry-javascript-bundler-plugins",
     "stargazers_count": 64,
-    "open_issues_count": 31,
+    "open_issues_count": 26,
     "forks_count": 9
   },
   {
     "full_name": "vitejs/vite-plugin-react-swc",
-    "stargazers_count": 463,
-    "open_issues_count": 4,
+    "stargazers_count": 467,
+    "open_issues_count": 2,
     "forks_count": 24
   },
   {
     "full_name": "vitejs/awesome-vite",
-    "stargazers_count": 10350,
-    "open_issues_count": 40,
-    "forks_count": 871
+    "stargazers_count": 10376,
+    "open_issues_count": 41,
+    "forks_count": 873
   },
   {
     "full_name": "vitejs/vite",
-    "stargazers_count": 56709,
-    "open_issues_count": 544,
+    "stargazers_count": 56815,
+    "open_issues_count": 547,
     "forks_count": 5032
   },
   {
@@ -109,13 +109,13 @@
   },
   {
     "full_name": "vanilla-extract-css/vanilla-extract",
-    "stargazers_count": 8223,
-    "open_issues_count": 52,
-    "forks_count": 218
+    "stargazers_count": 8232,
+    "open_issues_count": 54,
+    "forks_count": 219
   },
   {
     "full_name": "unjs/unplugin",
-    "stargazers_count": 2221,
+    "stargazers_count": 2227,
     "open_issues_count": 28,
     "forks_count": 76
   },
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "cachix/install-nix-action",
-    "stargazers_count": 360,
+    "stargazers_count": 361,
     "open_issues_count": 17,
     "forks_count": 67
   },
@@ -139,44 +139,44 @@
   },
   {
     "full_name": "greyblake/nutype",
-    "stargazers_count": 582,
+    "stargazers_count": 584,
     "open_issues_count": 7,
     "forks_count": 9
   },
   {
     "full_name": "aalhour/awesome-compilers",
-    "stargazers_count": 7763,
+    "stargazers_count": 7771,
     "open_issues_count": 54,
     "forks_count": 618
   },
   {
     "full_name": "DeterminateSystems/zero-to-nix",
-    "stargazers_count": 439,
-    "open_issues_count": 24,
+    "stargazers_count": 440,
+    "open_issues_count": 23,
     "forks_count": 35
   },
   {
     "full_name": "luafun/luafun",
-    "stargazers_count": 1893,
+    "stargazers_count": 1892,
     "open_issues_count": 32,
     "forks_count": 101
   },
   {
     "full_name": "dundalek/lazy-lsp.nvim",
-    "stargazers_count": 122,
+    "stargazers_count": 123,
     "open_issues_count": 4,
     "forks_count": 6
   },
   {
     "full_name": "ryantm/agenix",
-    "stargazers_count": 738,
+    "stargazers_count": 739,
     "open_issues_count": 39,
     "forks_count": 73
   },
   {
     "full_name": "cachix/pre-commit-hooks.nix",
-    "stargazers_count": 318,
+    "stargazers_count": 323,
     "open_issues_count": 58,
-    "forks_count": 97
+    "forks_count": 98
   }
 ]
