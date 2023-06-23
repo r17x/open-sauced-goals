@@ -2,26 +2,26 @@
   {
     "full_name": "melange-re/melange-re.github.io",
     "stargazers_count": 15,
-    "open_issues_count": 17,
+    "open_issues_count": 18,
     "forks_count": 4
   },
   {
     "full_name": "mobily/ts-belt",
-    "stargazers_count": 852,
+    "stargazers_count": 853,
     "open_issues_count": 22,
     "forks_count": 23
   },
   {
     "full_name": "nixified-ai/flake",
-    "stargazers_count": 245,
+    "stargazers_count": 250,
     "open_issues_count": 19,
     "forks_count": 18
   },
   {
     "full_name": "pta2002/nixvim",
-    "stargazers_count": 306,
-    "open_issues_count": 12,
-    "forks_count": 52
+    "stargazers_count": 308,
+    "open_issues_count": 11,
+    "forks_count": 54
   },
   {
     "full_name": "radio24/TorBox",
@@ -31,27 +31,27 @@
   },
   {
     "full_name": "lxsmnsyc/forgetti",
-    "stargazers_count": 250,
+    "stargazers_count": 251,
     "open_issues_count": 3,
     "forks_count": 4
   },
   {
     "full_name": "numtide/system-manager",
-    "stargazers_count": 280,
+    "stargazers_count": 283,
     "open_issues_count": 5,
     "forks_count": 5
   },
   {
     "full_name": "NixOS/hydra",
-    "stargazers_count": 846,
-    "open_issues_count": 368,
-    "forks_count": 272
+    "stargazers_count": 850,
+    "open_issues_count": 369,
+    "forks_count": 273
   },
   {
     "full_name": "DZakh/rescript-struct",
     "stargazers_count": 70,
     "open_issues_count": 2,
-    "forks_count": 3
+    "forks_count": 4
   },
   {
     "full_name": "cometkim/rescript-vitest",
@@ -79,27 +79,27 @@
   },
   {
     "full_name": "getsentry/sentry-javascript-bundler-plugins",
-    "stargazers_count": 68,
-    "open_issues_count": 24,
-    "forks_count": 11
+    "stargazers_count": 69,
+    "open_issues_count": 25,
+    "forks_count": 12
   },
   {
     "full_name": "vitejs/vite-plugin-react-swc",
     "stargazers_count": 473,
-    "open_issues_count": 2,
-    "forks_count": 24
+    "open_issues_count": 3,
+    "forks_count": 25
   },
   {
     "full_name": "vitejs/awesome-vite",
-    "stargazers_count": 10511,
-    "open_issues_count": 43,
-    "forks_count": 880
+    "stargazers_count": 10533,
+    "open_issues_count": 44,
+    "forks_count": 881
   },
   {
     "full_name": "vitejs/vite",
-    "stargazers_count": 57189,
-    "open_issues_count": 522,
-    "forks_count": 5070
+    "stargazers_count": 57287,
+    "open_issues_count": 526,
+    "forks_count": 5078
   },
   {
     "full_name": "aantron/hyper",
@@ -109,13 +109,13 @@
   },
   {
     "full_name": "vanilla-extract-css/vanilla-extract",
-    "stargazers_count": 8303,
+    "stargazers_count": 8323,
     "open_issues_count": 56,
     "forks_count": 220
   },
   {
     "full_name": "unjs/unplugin",
-    "stargazers_count": 2252,
+    "stargazers_count": 2255,
     "open_issues_count": 31,
     "forks_count": 76
   },
@@ -139,44 +139,44 @@
   },
   {
     "full_name": "greyblake/nutype",
-    "stargazers_count": 589,
+    "stargazers_count": 590,
     "open_issues_count": 7,
     "forks_count": 9
   },
   {
     "full_name": "aalhour/awesome-compilers",
-    "stargazers_count": 7801,
+    "stargazers_count": 7805,
     "open_issues_count": 54,
-    "forks_count": 620
+    "forks_count": 621
   },
   {
     "full_name": "DeterminateSystems/zero-to-nix",
-    "stargazers_count": 458,
+    "stargazers_count": 467,
     "open_issues_count": 24,
     "forks_count": 35
   },
   {
     "full_name": "luafun/luafun",
-    "stargazers_count": 1898,
+    "stargazers_count": 1900,
     "open_issues_count": 32,
     "forks_count": 103
   },
   {
     "full_name": "dundalek/lazy-lsp.nvim",
-    "stargazers_count": 123,
+    "stargazers_count": 124,
     "open_issues_count": 5,
     "forks_count": 6
   },
   {
     "full_name": "ryantm/agenix",
-    "stargazers_count": 756,
+    "stargazers_count": 757,
     "open_issues_count": 38,
     "forks_count": 73
   },
   {
     "full_name": "cachix/pre-commit-hooks.nix",
     "stargazers_count": 327,
-    "open_issues_count": 58,
+    "open_issues_count": 55,
     "forks_count": 99
   }
 ]
