@@ -2,12 +2,12 @@
   {
     "full_name": "melange-re/melange-re.github.io",
     "stargazers_count": 15,
-    "open_issues_count": 18,
+    "open_issues_count": 19,
     "forks_count": 4
   },
   {
     "full_name": "mobily/ts-belt",
-    "stargazers_count": 857,
+    "stargazers_count": 859,
     "open_issues_count": 22,
     "forks_count": 23
   },
@@ -19,50 +19,50 @@
   },
   {
     "full_name": "pta2002/nixvim",
-    "stargazers_count": 313,
-    "open_issues_count": 12,
-    "forks_count": 56
+    "stargazers_count": 314,
+    "open_issues_count": 14,
+    "forks_count": 58
   },
   {
     "full_name": "radio24/TorBox",
-    "stargazers_count": 208,
+    "stargazers_count": 209,
     "open_issues_count": 13,
     "forks_count": 24
   },
   {
     "full_name": "lxsmnsyc/forgetti",
-    "stargazers_count": 253,
+    "stargazers_count": 259,
     "open_issues_count": 3,
     "forks_count": 4
   },
   {
     "full_name": "numtide/system-manager",
     "stargazers_count": 286,
-    "open_issues_count": 6,
+    "open_issues_count": 7,
     "forks_count": 5
   },
   {
     "full_name": "NixOS/hydra",
-    "stargazers_count": 853,
+    "stargazers_count": 857,
     "open_issues_count": 370,
     "forks_count": 274
   },
   {
     "full_name": "DZakh/rescript-struct",
     "stargazers_count": 70,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 4
   },
   {
     "full_name": "cometkim/rescript-vitest",
-    "stargazers_count": 36,
+    "stargazers_count": 35,
     "open_issues_count": 1,
     "forks_count": 3
   },
   {
     "full_name": "pd4d10/vite-plugin-svgr",
-    "stargazers_count": 322,
-    "open_issues_count": 18,
+    "stargazers_count": 323,
+    "open_issues_count": 19,
     "forks_count": 45
   },
   {
@@ -79,27 +79,27 @@
   },
   {
     "full_name": "getsentry/sentry-javascript-bundler-plugins",
-    "stargazers_count": 69,
-    "open_issues_count": 24,
+    "stargazers_count": 72,
+    "open_issues_count": 26,
     "forks_count": 14
   },
   {
     "full_name": "vitejs/vite-plugin-react-swc",
-    "stargazers_count": 472,
-    "open_issues_count": 3,
-    "forks_count": 26
+    "stargazers_count": 474,
+    "open_issues_count": 2,
+    "forks_count": 27
   },
   {
     "full_name": "vitejs/awesome-vite",
-    "stargazers_count": 10568,
-    "open_issues_count": 45,
-    "forks_count": 881
+    "stargazers_count": 10608,
+    "open_issues_count": 46,
+    "forks_count": 886
   },
   {
     "full_name": "vitejs/vite",
-    "stargazers_count": 57378,
-    "open_issues_count": 531,
-    "forks_count": 5084
+    "stargazers_count": 57455,
+    "open_issues_count": 540,
+    "forks_count": 5095
   },
   {
     "full_name": "aantron/hyper",
@@ -109,15 +109,15 @@
   },
   {
     "full_name": "vanilla-extract-css/vanilla-extract",
-    "stargazers_count": 8344,
+    "stargazers_count": 8349,
     "open_issues_count": 56,
     "forks_count": 220
   },
   {
     "full_name": "unjs/unplugin",
-    "stargazers_count": 2260,
+    "stargazers_count": 2266,
     "open_issues_count": 32,
-    "forks_count": 76
+    "forks_count": 75
   },
   {
     "full_name": "r17x/Edotensei",
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "cachix/install-nix-action",
-    "stargazers_count": 366,
+    "stargazers_count": 367,
     "open_issues_count": 19,
     "forks_count": 67
   },
@@ -139,25 +139,25 @@
   },
   {
     "full_name": "greyblake/nutype",
-    "stargazers_count": 686,
-    "open_issues_count": 6,
+    "stargazers_count": 742,
+    "open_issues_count": 8,
     "forks_count": 9
   },
   {
     "full_name": "aalhour/awesome-compilers",
-    "stargazers_count": 7822,
+    "stargazers_count": 7831,
     "open_issues_count": 55,
     "forks_count": 622
   },
   {
     "full_name": "DeterminateSystems/zero-to-nix",
-    "stargazers_count": 472,
+    "stargazers_count": 480,
     "open_issues_count": 24,
-    "forks_count": 35
+    "forks_count": 37
   },
   {
     "full_name": "luafun/luafun",
-    "stargazers_count": 1901,
+    "stargazers_count": 1900,
     "open_issues_count": 32,
     "forks_count": 104
   },
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "ryantm/agenix",
-    "stargazers_count": 762,
+    "stargazers_count": 766,
     "open_issues_count": 39,
-    "forks_count": 75
+    "forks_count": 76
   },
   {
     "full_name": "cachix/pre-commit-hooks.nix",
     "stargazers_count": 328,
-    "open_issues_count": 54,
+    "open_issues_count": 53,
     "forks_count": 100
   }
 ]
