@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "smol-ai/developer",
+    "stargazers_count": 10442,
+    "open_issues_count": 64,
+    "forks_count": 977
+  },
+  {
     "full_name": "erikthedeveloper/code-review-emoji-guide",
-    "stargazers_count": 371,
+    "stargazers_count": 372,
     "open_issues_count": 4,
     "forks_count": 26
   },
@@ -13,33 +19,33 @@
   },
   {
     "full_name": "homanp/superagent",
-    "stargazers_count": 1858,
-    "open_issues_count": 37,
-    "forks_count": 298
+    "stargazers_count": 1887,
+    "open_issues_count": 35,
+    "forks_count": 306
   },
   {
     "full_name": "melange-re/melange-re.github.io",
     "stargazers_count": 16,
-    "open_issues_count": 16,
+    "open_issues_count": 17,
     "forks_count": 5
   },
   {
     "full_name": "mobily/ts-belt",
-    "stargazers_count": 874,
+    "stargazers_count": 876,
     "open_issues_count": 23,
     "forks_count": 23
   },
   {
     "full_name": "nixified-ai/flake",
-    "stargazers_count": 276,
+    "stargazers_count": 280,
     "open_issues_count": 23,
-    "forks_count": 21
+    "forks_count": 22
   },
   {
     "full_name": "nix-community/nixvim",
-    "stargazers_count": 336,
-    "open_issues_count": 14,
-    "forks_count": 61
+    "stargazers_count": 341,
+    "open_issues_count": 12,
+    "forks_count": 62
   },
   {
     "full_name": "radio24/TorBox",
@@ -49,19 +55,19 @@
   },
   {
     "full_name": "lxsmnsyc/forgetti",
-    "stargazers_count": 266,
-    "open_issues_count": 4,
+    "stargazers_count": 271,
+    "open_issues_count": 6,
     "forks_count": 5
   },
   {
     "full_name": "numtide/system-manager",
-    "stargazers_count": 309,
-    "open_issues_count": 6,
+    "stargazers_count": 313,
+    "open_issues_count": 7,
     "forks_count": 6
   },
   {
     "full_name": "NixOS/hydra",
-    "stargazers_count": 870,
+    "stargazers_count": 871,
     "open_issues_count": 372,
     "forks_count": 277
   },
@@ -79,9 +85,9 @@
   },
   {
     "full_name": "pd4d10/vite-plugin-svgr",
-    "stargazers_count": 326,
-    "open_issues_count": 19,
-    "forks_count": 44
+    "stargazers_count": 327,
+    "open_issues_count": 22,
+    "forks_count": 45
   },
   {
     "full_name": "ElMassimo/vite-plugin-environment",
@@ -98,26 +104,26 @@
   {
     "full_name": "getsentry/sentry-javascript-bundler-plugins",
     "stargazers_count": 74,
-    "open_issues_count": 26,
+    "open_issues_count": 24,
     "forks_count": 14
   },
   {
     "full_name": "vitejs/vite-plugin-react-swc",
-    "stargazers_count": 496,
-    "open_issues_count": 3,
+    "stargazers_count": 499,
+    "open_issues_count": 4,
     "forks_count": 29
   },
   {
     "full_name": "vitejs/awesome-vite",
-    "stargazers_count": 10816,
+    "stargazers_count": 10855,
     "open_issues_count": 40,
-    "forks_count": 903
+    "forks_count": 906
   },
   {
     "full_name": "vitejs/vite",
-    "stargazers_count": 57982,
-    "open_issues_count": 562,
-    "forks_count": 5155
+    "stargazers_count": 58059,
+    "open_issues_count": 555,
+    "forks_count": 5166
   },
   {
     "full_name": "aantron/hyper",
@@ -127,13 +133,13 @@
   },
   {
     "full_name": "vanilla-extract-css/vanilla-extract",
-    "stargazers_count": 8463,
-    "open_issues_count": 58,
+    "stargazers_count": 8477,
+    "open_issues_count": 51,
     "forks_count": 222
   },
   {
     "full_name": "unjs/unplugin",
-    "stargazers_count": 2291,
+    "stargazers_count": 2297,
     "open_issues_count": 33,
     "forks_count": 75
   },
@@ -145,9 +151,9 @@
   },
   {
     "full_name": "cachix/install-nix-action",
-    "stargazers_count": 374,
-    "open_issues_count": 18,
-    "forks_count": 68
+    "stargazers_count": 375,
+    "open_issues_count": 19,
+    "forks_count": 70
   },
   {
     "full_name": "mirage/ocaml-crunch",
@@ -157,26 +163,20 @@
   },
   {
     "full_name": "greyblake/nutype",
-    "stargazers_count": 795,
-    "open_issues_count": 6,
+    "stargazers_count": 802,
+    "open_issues_count": 7,
     "forks_count": 11
   },
   {
     "full_name": "aalhour/awesome-compilers",
-    "stargazers_count": 7879,
+    "stargazers_count": 7889,
     "open_issues_count": 55,
-    "forks_count": 624
+    "forks_count": 626
   },
   {
     "full_name": "DeterminateSystems/zero-to-nix",
     "stargazers_count": 496,
     "open_issues_count": 24,
     "forks_count": 38
-  },
-  {
-    "full_name": "luafun/luafun",
-    "stargazers_count": 1904,
-    "open_issues_count": 32,
-    "forks_count": 105
   }
 ]
