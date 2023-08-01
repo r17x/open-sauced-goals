@@ -1,13 +1,25 @@
 [
   {
+    "full_name": "bigskysoftware/htmx",
+    "stargazers_count": 16579,
+    "open_issues_count": 251,
+    "forks_count": 589
+  },
+  {
+    "full_name": "thi-ng/umbrella",
+    "stargazers_count": 2952,
+    "open_issues_count": 60,
+    "forks_count": 131
+  },
+  {
     "full_name": "smol-ai/developer",
-    "stargazers_count": 10470,
+    "stargazers_count": 10511,
     "open_issues_count": 66,
-    "forks_count": 982
+    "forks_count": 989
   },
   {
     "full_name": "erikthedeveloper/code-review-emoji-guide",
-    "stargazers_count": 374,
+    "stargazers_count": 375,
     "open_issues_count": 4,
     "forks_count": 26
   },
@@ -19,9 +31,9 @@
   },
   {
     "full_name": "homanp/superagent",
-    "stargazers_count": 1906,
-    "open_issues_count": 38,
-    "forks_count": 318
+    "stargazers_count": 1926,
+    "open_issues_count": 39,
+    "forks_count": 325
   },
   {
     "full_name": "melange-re/melange-re.github.io",
@@ -31,21 +43,21 @@
   },
   {
     "full_name": "mobily/ts-belt",
-    "stargazers_count": 878,
+    "stargazers_count": 883,
     "open_issues_count": 23,
     "forks_count": 24
   },
   {
     "full_name": "nixified-ai/flake",
-    "stargazers_count": 284,
+    "stargazers_count": 293,
     "open_issues_count": 23,
-    "forks_count": 22
+    "forks_count": 25
   },
   {
     "full_name": "nix-community/nixvim",
-    "stargazers_count": 342,
-    "open_issues_count": 12,
-    "forks_count": 62
+    "stargazers_count": 349,
+    "open_issues_count": 14,
+    "forks_count": 63
   },
   {
     "full_name": "radio24/TorBox",
@@ -61,19 +73,19 @@
   },
   {
     "full_name": "numtide/system-manager",
-    "stargazers_count": 314,
-    "open_issues_count": 7,
+    "stargazers_count": 317,
+    "open_issues_count": 6,
     "forks_count": 6
   },
   {
     "full_name": "NixOS/hydra",
-    "stargazers_count": 870,
+    "stargazers_count": 872,
     "open_issues_count": 372,
     "forks_count": 277
   },
   {
     "full_name": "DZakh/rescript-struct",
-    "stargazers_count": 75,
+    "stargazers_count": 76,
     "open_issues_count": 2,
     "forks_count": 4
   },
@@ -85,7 +97,7 @@
   },
   {
     "full_name": "pd4d10/vite-plugin-svgr",
-    "stargazers_count": 329,
+    "stargazers_count": 332,
     "open_issues_count": 22,
     "forks_count": 45
   },
@@ -104,26 +116,26 @@
   {
     "full_name": "getsentry/sentry-javascript-bundler-plugins",
     "stargazers_count": 74,
-    "open_issues_count": 24,
-    "forks_count": 14
+    "open_issues_count": 28,
+    "forks_count": 15
   },
   {
     "full_name": "vitejs/vite-plugin-react-swc",
-    "stargazers_count": 500,
+    "stargazers_count": 505,
     "open_issues_count": 4,
     "forks_count": 29
   },
   {
     "full_name": "vitejs/awesome-vite",
-    "stargazers_count": 10895,
-    "open_issues_count": 42,
-    "forks_count": 909
+    "stargazers_count": 10924,
+    "open_issues_count": 32,
+    "forks_count": 916
   },
   {
     "full_name": "vitejs/vite",
-    "stargazers_count": 58166,
-    "open_issues_count": 564,
-    "forks_count": 5173
+    "stargazers_count": 58256,
+    "open_issues_count": 552,
+    "forks_count": 5182
   },
   {
     "full_name": "aantron/hyper",
@@ -133,15 +145,15 @@
   },
   {
     "full_name": "vanilla-extract-css/vanilla-extract",
-    "stargazers_count": 8489,
-    "open_issues_count": 54,
-    "forks_count": 224
+    "stargazers_count": 8501,
+    "open_issues_count": 57,
+    "forks_count": 226
   },
   {
     "full_name": "unjs/unplugin",
-    "stargazers_count": 2307,
-    "open_issues_count": 34,
-    "forks_count": 75
+    "stargazers_count": 2313,
+    "open_issues_count": 35,
+    "forks_count": 76
   },
   {
     "full_name": "r17x/Edotensei",
@@ -151,9 +163,9 @@
   },
   {
     "full_name": "cachix/install-nix-action",
-    "stargazers_count": 375,
+    "stargazers_count": 376,
     "open_issues_count": 19,
-    "forks_count": 70
+    "forks_count": 72
   },
   {
     "full_name": "mirage/ocaml-crunch",
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "greyblake/nutype",
-    "stargazers_count": 804,
-    "open_issues_count": 8,
+    "stargazers_count": 805,
+    "open_issues_count": 9,
     "forks_count": 11
-  },
-  {
-    "full_name": "aalhour/awesome-compilers",
-    "stargazers_count": 7894,
-    "open_issues_count": 55,
-    "forks_count": 625
-  },
-  {
-    "full_name": "DeterminateSystems/zero-to-nix",
-    "stargazers_count": 503,
-    "open_issues_count": 24,
-    "forks_count": 38
   }
 ]
