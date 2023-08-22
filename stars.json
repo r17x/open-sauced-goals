@@ -1,86 +1,98 @@
 [
   {
+    "full_name": "mobile-dev-inc/maestro",
+    "stargazers_count": 4246,
+    "open_issues_count": 236,
+    "forks_count": 160
+  },
+  {
+    "full_name": "bamlab/flashlight",
+    "stargazers_count": 704,
+    "open_issues_count": 11,
+    "forks_count": 15
+  },
+  {
     "full_name": "bigskysoftware/htmx",
-    "stargazers_count": 18023,
-    "open_issues_count": 258,
-    "forks_count": 637
+    "stargazers_count": 18394,
+    "open_issues_count": 261,
+    "forks_count": 649
   },
   {
     "full_name": "thi-ng/umbrella",
-    "stargazers_count": 2967,
-    "open_issues_count": 60,
+    "stargazers_count": 2968,
+    "open_issues_count": 61,
     "forks_count": 134
   },
   {
     "full_name": "smol-ai/developer",
-    "stargazers_count": 10694,
-    "open_issues_count": 70,
-    "forks_count": 1010
+    "stargazers_count": 10765,
+    "open_issues_count": 71,
+    "forks_count": 1019
   },
   {
     "full_name": "erikthedeveloper/code-review-emoji-guide",
-    "stargazers_count": 379,
+    "stargazers_count": 382,
     "open_issues_count": 4,
     "forks_count": 25
   },
   {
     "full_name": "Julow/nix-opam-switch",
-    "stargazers_count": 3,
+    "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "homanp/superagent",
-    "stargazers_count": 2177,
-    "open_issues_count": 45,
-    "forks_count": 358
+    "stargazers_count": 2197,
+    "open_issues_count": 46,
+    "forks_count": 365
   },
   {
     "full_name": "melange-re/melange-re.github.io",
     "stargazers_count": 16,
-    "open_issues_count": 21,
+    "open_issues_count": 20,
     "forks_count": 5
   },
   {
     "full_name": "mobily/ts-belt",
-    "stargazers_count": 889,
+    "stargazers_count": 890,
     "open_issues_count": 25,
     "forks_count": 24
   },
   {
     "full_name": "nixified-ai/flake",
-    "stargazers_count": 302,
+    "stargazers_count": 304,
     "open_issues_count": 24,
     "forks_count": 29
   },
   {
     "full_name": "nix-community/nixvim",
-    "stargazers_count": 396,
-    "open_issues_count": 12,
-    "forks_count": 66
+    "stargazers_count": 395,
+    "open_issues_count": 11,
+    "forks_count": 67
   },
   {
     "full_name": "radio24/TorBox",
-    "stargazers_count": 210,
+    "stargazers_count": 212,
     "open_issues_count": 12,
     "forks_count": 25
   },
   {
     "full_name": "lxsmnsyc/forgetti",
-    "stargazers_count": 279,
+    "stargazers_count": 280,
     "open_issues_count": 5,
     "forks_count": 5
   },
   {
     "full_name": "numtide/system-manager",
-    "stargazers_count": 332,
+    "stargazers_count": 333,
     "open_issues_count": 5,
     "forks_count": 6
   },
   {
     "full_name": "NixOS/hydra",
-    "stargazers_count": 878,
-    "open_issues_count": 373,
+    "stargazers_count": 879,
+    "open_issues_count": 374,
     "forks_count": 278
   },
   {
@@ -97,9 +109,9 @@
   },
   {
     "full_name": "pd4d10/vite-plugin-svgr",
-    "stargazers_count": 343,
+    "stargazers_count": 344,
     "open_issues_count": 25,
-    "forks_count": 45
+    "forks_count": 46
   },
   {
     "full_name": "ElMassimo/vite-plugin-environment",
@@ -115,27 +127,27 @@
   },
   {
     "full_name": "getsentry/sentry-javascript-bundler-plugins",
-    "stargazers_count": 76,
-    "open_issues_count": 29,
-    "forks_count": 16
+    "stargazers_count": 78,
+    "open_issues_count": 26,
+    "forks_count": 17
   },
   {
     "full_name": "vitejs/vite-plugin-react-swc",
-    "stargazers_count": 518,
+    "stargazers_count": 525,
     "open_issues_count": 6,
-    "forks_count": 29
+    "forks_count": 30
   },
   {
     "full_name": "vitejs/awesome-vite",
-    "stargazers_count": 11075,
+    "stargazers_count": 11109,
     "open_issues_count": 41,
-    "forks_count": 924
+    "forks_count": 927
   },
   {
     "full_name": "vitejs/vite",
-    "stargazers_count": 58650,
-    "open_issues_count": 603,
-    "forks_count": 5234
+    "stargazers_count": 58784,
+    "open_issues_count": 591,
+    "forks_count": 5242
   },
   {
     "full_name": "aantron/hyper",
@@ -145,14 +157,14 @@
   },
   {
     "full_name": "vanilla-extract-css/vanilla-extract",
-    "stargazers_count": 8561,
+    "stargazers_count": 8586,
     "open_issues_count": 57,
-    "forks_count": 230
+    "forks_count": 231
   },
   {
     "full_name": "unjs/unplugin",
-    "stargazers_count": 2346,
-    "open_issues_count": 38,
+    "stargazers_count": 2358,
+    "open_issues_count": 36,
     "forks_count": 77
   },
   {
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "cachix/install-nix-action",
-    "stargazers_count": 381,
+    "stargazers_count": 382,
     "open_issues_count": 22,
     "forks_count": 73
-  },
-  {
-    "full_name": "mirage/ocaml-crunch",
-    "stargazers_count": 70,
-    "open_issues_count": 8,
-    "forks_count": 24
-  },
-  {
-    "full_name": "greyblake/nutype",
-    "stargazers_count": 815,
-    "open_issues_count": 7,
-    "forks_count": 11
   }
 ]
