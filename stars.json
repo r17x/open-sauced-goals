@@ -1,37 +1,43 @@
 [
   {
+    "full_name": "laptou/jsi-rs",
+    "stargazers_count": 59,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
     "full_name": "mobile-dev-inc/maestro",
-    "stargazers_count": 4246,
-    "open_issues_count": 236,
-    "forks_count": 160
+    "stargazers_count": 4274,
+    "open_issues_count": 239,
+    "forks_count": 159
   },
   {
     "full_name": "bamlab/flashlight",
-    "stargazers_count": 704,
+    "stargazers_count": 711,
     "open_issues_count": 11,
     "forks_count": 15
   },
   {
     "full_name": "bigskysoftware/htmx",
-    "stargazers_count": 18394,
-    "open_issues_count": 261,
-    "forks_count": 649
+    "stargazers_count": 18642,
+    "open_issues_count": 260,
+    "forks_count": 659
   },
   {
     "full_name": "thi-ng/umbrella",
-    "stargazers_count": 2968,
-    "open_issues_count": 61,
+    "stargazers_count": 2969,
+    "open_issues_count": 62,
     "forks_count": 134
   },
   {
     "full_name": "smol-ai/developer",
-    "stargazers_count": 10765,
+    "stargazers_count": 10802,
     "open_issues_count": 71,
-    "forks_count": 1019
+    "forks_count": 1021
   },
   {
     "full_name": "erikthedeveloper/code-review-emoji-guide",
-    "stargazers_count": 382,
+    "stargazers_count": 384,
     "open_issues_count": 4,
     "forks_count": 25
   },
@@ -43,32 +49,32 @@
   },
   {
     "full_name": "homanp/superagent",
-    "stargazers_count": 2197,
-    "open_issues_count": 46,
-    "forks_count": 365
+    "stargazers_count": 2218,
+    "open_issues_count": 48,
+    "forks_count": 369
   },
   {
     "full_name": "melange-re/melange-re.github.io",
     "stargazers_count": 16,
-    "open_issues_count": 20,
+    "open_issues_count": 21,
     "forks_count": 5
   },
   {
     "full_name": "mobily/ts-belt",
-    "stargazers_count": 890,
+    "stargazers_count": 891,
     "open_issues_count": 25,
     "forks_count": 24
   },
   {
     "full_name": "nixified-ai/flake",
-    "stargazers_count": 304,
+    "stargazers_count": 310,
     "open_issues_count": 24,
     "forks_count": 29
   },
   {
     "full_name": "nix-community/nixvim",
-    "stargazers_count": 395,
-    "open_issues_count": 11,
+    "stargazers_count": 400,
+    "open_issues_count": 10,
     "forks_count": 67
   },
   {
@@ -79,21 +85,21 @@
   },
   {
     "full_name": "lxsmnsyc/forgetti",
-    "stargazers_count": 280,
+    "stargazers_count": 281,
     "open_issues_count": 5,
     "forks_count": 5
   },
   {
     "full_name": "numtide/system-manager",
-    "stargazers_count": 333,
-    "open_issues_count": 5,
+    "stargazers_count": 334,
+    "open_issues_count": 6,
     "forks_count": 6
   },
   {
     "full_name": "NixOS/hydra",
-    "stargazers_count": 879,
-    "open_issues_count": 374,
-    "forks_count": 278
+    "stargazers_count": 882,
+    "open_issues_count": 373,
+    "forks_count": 279
   },
   {
     "full_name": "DZakh/rescript-struct",
@@ -109,8 +115,8 @@
   },
   {
     "full_name": "pd4d10/vite-plugin-svgr",
-    "stargazers_count": 344,
-    "open_issues_count": 25,
+    "stargazers_count": 349,
+    "open_issues_count": 26,
     "forks_count": 46
   },
   {
@@ -127,27 +133,27 @@
   },
   {
     "full_name": "getsentry/sentry-javascript-bundler-plugins",
-    "stargazers_count": 78,
-    "open_issues_count": 26,
+    "stargazers_count": 79,
+    "open_issues_count": 27,
     "forks_count": 17
   },
   {
     "full_name": "vitejs/vite-plugin-react-swc",
     "stargazers_count": 525,
-    "open_issues_count": 6,
+    "open_issues_count": 5,
     "forks_count": 30
   },
   {
     "full_name": "vitejs/awesome-vite",
-    "stargazers_count": 11109,
-    "open_issues_count": 41,
-    "forks_count": 927
+    "stargazers_count": 11140,
+    "open_issues_count": 43,
+    "forks_count": 928
   },
   {
     "full_name": "vitejs/vite",
-    "stargazers_count": 58784,
-    "open_issues_count": 591,
-    "forks_count": 5242
+    "stargazers_count": 58971,
+    "open_issues_count": 585,
+    "forks_count": 5248
   },
   {
     "full_name": "aantron/hyper",
@@ -157,13 +163,13 @@
   },
   {
     "full_name": "vanilla-extract-css/vanilla-extract",
-    "stargazers_count": 8586,
-    "open_issues_count": 57,
+    "stargazers_count": 8604,
+    "open_issues_count": 56,
     "forks_count": 231
   },
   {
     "full_name": "unjs/unplugin",
-    "stargazers_count": 2358,
+    "stargazers_count": 2364,
     "open_issues_count": 36,
     "forks_count": 77
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 32,
     "open_issues_count": 18,
     "forks_count": 4
-  },
-  {
-    "full_name": "cachix/install-nix-action",
-    "stargazers_count": 382,
-    "open_issues_count": 22,
-    "forks_count": 73
   }
 ]
