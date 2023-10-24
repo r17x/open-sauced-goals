@@ -25,51 +25,51 @@
   },
   {
     "full_name": "ray-x/navigator.lua",
-    "stargazers_count": 1103,
+    "stargazers_count": 1106,
     "open_issues_count": 15,
-    "forks_count": 55
+    "forks_count": 56
   },
   {
     "full_name": "chakra-ui/panda",
-    "stargazers_count": 3626,
-    "open_issues_count": 20,
-    "forks_count": 130
+    "stargazers_count": 3634,
+    "open_issues_count": 10,
+    "forks_count": 132
   },
   {
     "full_name": "laptou/jsi-rs",
-    "stargazers_count": 78,
+    "stargazers_count": 79,
     "open_issues_count": 0,
     "forks_count": 5
   },
   {
     "full_name": "mobile-dev-inc/maestro",
-    "stargazers_count": 4483,
-    "open_issues_count": 292,
-    "forks_count": 178
+    "stargazers_count": 4505,
+    "open_issues_count": 294,
+    "forks_count": 180
   },
   {
     "full_name": "bamlab/flashlight",
-    "stargazers_count": 803,
+    "stargazers_count": 806,
     "open_issues_count": 9,
     "forks_count": 18
   },
   {
     "full_name": "bigskysoftware/htmx",
-    "stargazers_count": 22358,
-    "open_issues_count": 297,
-    "forks_count": 797
+    "stargazers_count": 22530,
+    "open_issues_count": 301,
+    "forks_count": 805
   },
   {
     "full_name": "thi-ng/umbrella",
-    "stargazers_count": 3045,
-    "open_issues_count": 64,
-    "forks_count": 137
+    "stargazers_count": 3055,
+    "open_issues_count": 67,
+    "forks_count": 138
   },
   {
     "full_name": "smol-ai/developer",
-    "stargazers_count": 11161,
-    "open_issues_count": 75,
-    "forks_count": 1080
+    "stargazers_count": 11182,
+    "open_issues_count": 77,
+    "forks_count": 1084
   },
   {
     "full_name": "erikthedeveloper/code-review-emoji-guide",
@@ -85,55 +85,55 @@
   },
   {
     "full_name": "homanp/superagent",
-    "stargazers_count": 2850,
-    "open_issues_count": 43,
-    "forks_count": 549
+    "stargazers_count": 2883,
+    "open_issues_count": 41,
+    "forks_count": 558
   },
   {
     "full_name": "melange-re/melange-re.github.io",
     "stargazers_count": 17,
-    "open_issues_count": 20,
+    "open_issues_count": 19,
     "forks_count": 5
   },
   {
     "full_name": "mobily/ts-belt",
-    "stargazers_count": 933,
+    "stargazers_count": 934,
     "open_issues_count": 29,
     "forks_count": 25
   },
   {
     "full_name": "nixified-ai/flake",
-    "stargazers_count": 352,
-    "open_issues_count": 16,
-    "forks_count": 35
+    "stargazers_count": 379,
+    "open_issues_count": 18,
+    "forks_count": 38
   },
   {
     "full_name": "nix-community/nixvim",
-    "stargazers_count": 495,
-    "open_issues_count": 17,
-    "forks_count": 81
+    "stargazers_count": 500,
+    "open_issues_count": 13,
+    "forks_count": 84
   },
   {
     "full_name": "radio24/TorBox",
-    "stargazers_count": 217,
+    "stargazers_count": 218,
     "open_issues_count": 9,
     "forks_count": 25
   },
   {
     "full_name": "lxsmnsyc/forgetti",
-    "stargazers_count": 284,
+    "stargazers_count": 286,
     "open_issues_count": 5,
     "forks_count": 6
   },
   {
     "full_name": "numtide/system-manager",
-    "stargazers_count": 365,
+    "stargazers_count": 369,
     "open_issues_count": 5,
     "forks_count": 8
   },
   {
     "full_name": "NixOS/hydra",
-    "stargazers_count": 906,
+    "stargazers_count": 910,
     "open_issues_count": 368,
     "forks_count": 289
   },
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "pd4d10/vite-plugin-svgr",
-    "stargazers_count": 382,
+    "stargazers_count": 386,
     "open_issues_count": 22,
     "forks_count": 48
   },
@@ -170,13 +170,13 @@
   {
     "full_name": "getsentry/sentry-javascript-bundler-plugins",
     "stargazers_count": 87,
-    "open_issues_count": 26,
+    "open_issues_count": 25,
     "forks_count": 20
   },
   {
     "full_name": "vitejs/vite-plugin-react-swc",
-    "stargazers_count": 572,
-    "open_issues_count": 4,
-    "forks_count": 31
+    "stargazers_count": 576,
+    "open_issues_count": 5,
+    "forks_count": 32
   }
 ]
