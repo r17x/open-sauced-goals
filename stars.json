@@ -1,7 +1,7 @@
 [
   {
     "full_name": "tweag/opam-nix",
-    "stargazers_count": 76,
+    "stargazers_count": 77,
     "open_issues_count": 5,
     "forks_count": 15
   },
@@ -20,7 +20,7 @@
   {
     "full_name": "mirage/irmin",
     "stargazers_count": 1758,
-    "open_issues_count": 120,
+    "open_issues_count": 121,
     "forks_count": 158
   },
   {
@@ -31,13 +31,13 @@
   },
   {
     "full_name": "shish/stack-guide",
-    "stargazers_count": 1,
+    "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "afiiif/floppy-disk",
-    "stargazers_count": 63,
+    "stargazers_count": 62,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -55,49 +55,49 @@
   },
   {
     "full_name": "ray-x/navigator.lua",
-    "stargazers_count": 1127,
+    "stargazers_count": 1125,
     "open_issues_count": 15,
     "forks_count": 57
   },
   {
     "full_name": "chakra-ui/panda",
-    "stargazers_count": 3806,
-    "open_issues_count": 5,
+    "stargazers_count": 3816,
+    "open_issues_count": 8,
     "forks_count": 143
   },
   {
     "full_name": "laptou/jsi-rs",
-    "stargazers_count": 89,
+    "stargazers_count": 91,
     "open_issues_count": 0,
-    "forks_count": 6
+    "forks_count": 7
   },
   {
     "full_name": "mobile-dev-inc/maestro",
-    "stargazers_count": 4594,
+    "stargazers_count": 4603,
     "open_issues_count": 312,
-    "forks_count": 184
+    "forks_count": 185
   },
   {
     "full_name": "bamlab/flashlight",
-    "stargazers_count": 849,
-    "open_issues_count": 12,
+    "stargazers_count": 853,
+    "open_issues_count": 14,
     "forks_count": 18
   },
   {
     "full_name": "bigskysoftware/htmx",
-    "stargazers_count": 23861,
-    "open_issues_count": 320,
-    "forks_count": 872
+    "stargazers_count": 24031,
+    "open_issues_count": 318,
+    "forks_count": 881
   },
   {
     "full_name": "thi-ng/umbrella",
-    "stargazers_count": 3082,
+    "stargazers_count": 3084,
     "open_issues_count": 64,
     "forks_count": 139
   },
   {
     "full_name": "smol-ai/developer",
-    "stargazers_count": 11315,
+    "stargazers_count": 11329,
     "open_issues_count": 78,
     "forks_count": 1097
   },
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "homanp/superagent",
-    "stargazers_count": 3173,
-    "open_issues_count": 49,
-    "forks_count": 628
+    "stargazers_count": 3189,
+    "open_issues_count": 47,
+    "forks_count": 630
   },
   {
     "full_name": "melange-re/melange-re.github.io",
@@ -133,15 +133,15 @@
   },
   {
     "full_name": "nixified-ai/flake",
-    "stargazers_count": 418,
-    "open_issues_count": 24,
-    "forks_count": 43
+    "stargazers_count": 420,
+    "open_issues_count": 27,
+    "forks_count": 44
   },
   {
     "full_name": "nix-community/nixvim",
-    "stargazers_count": 554,
+    "stargazers_count": 558,
     "open_issues_count": 11,
-    "forks_count": 101
+    "forks_count": 103
   },
   {
     "full_name": "radio24/TorBox",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "NixOS/hydra",
-    "stargazers_count": 927,
-    "open_issues_count": 368,
-    "forks_count": 292
+    "stargazers_count": 928,
+    "open_issues_count": 370,
+    "forks_count": 293
   },
   {
     "full_name": "DZakh/rescript-schema",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "cometkim/rescript-vitest",
-    "stargazers_count": 37,
+    "stargazers_count": 38,
     "open_issues_count": 2,
     "forks_count": 5
   }
