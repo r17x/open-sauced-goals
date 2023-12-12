@@ -1,31 +1,31 @@
 [
   {
     "full_name": "jackMort/ChatGPT.nvim",
-    "stargazers_count": 2876,
-    "open_issues_count": 84,
-    "forks_count": 242
+    "stargazers_count": 2888,
+    "open_issues_count": 88,
+    "forks_count": 243
   },
   {
     "full_name": "zth/res-x",
-    "stargazers_count": 16,
+    "stargazers_count": 17,
     "open_issues_count": 4,
     "forks_count": 0
   },
   {
     "full_name": "tweag/opam-nix",
-    "stargazers_count": 78,
+    "stargazers_count": 81,
     "open_issues_count": 5,
     "forks_count": 16
   },
   {
     "full_name": "RyanGibb/hillingar",
-    "stargazers_count": 32,
+    "stargazers_count": 33,
     "open_issues_count": 5,
     "forks_count": 1
   },
   {
     "full_name": "Reinforz/Nishan",
-    "stargazers_count": 170,
+    "stargazers_count": 169,
     "open_issues_count": 23,
     "forks_count": 13
   },
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "t3dotgg/paycheck-extension",
-    "stargazers_count": 212,
+    "stargazers_count": 213,
     "open_issues_count": 9,
     "forks_count": 34
   },
@@ -63,55 +63,55 @@
     "full_name": "lucidph3nx/nvim-sops",
     "stargazers_count": 3,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "ray-x/navigator.lua",
     "stargazers_count": 1134,
-    "open_issues_count": 16,
+    "open_issues_count": 15,
     "forks_count": 56
   },
   {
     "full_name": "chakra-ui/panda",
-    "stargazers_count": 3866,
-    "open_issues_count": 15,
-    "forks_count": 145
+    "stargazers_count": 3898,
+    "open_issues_count": 7,
+    "forks_count": 147
   },
   {
     "full_name": "laptou/jsi-rs",
-    "stargazers_count": 94,
+    "stargazers_count": 97,
     "open_issues_count": 0,
     "forks_count": 7
   },
   {
     "full_name": "mobile-dev-inc/maestro",
-    "stargazers_count": 4636,
-    "open_issues_count": 318,
-    "forks_count": 188
+    "stargazers_count": 4640,
+    "open_issues_count": 319,
+    "forks_count": 189
   },
   {
     "full_name": "bamlab/flashlight",
-    "stargazers_count": 862,
-    "open_issues_count": 14,
+    "stargazers_count": 866,
+    "open_issues_count": 16,
     "forks_count": 18
   },
   {
     "full_name": "bigskysoftware/htmx",
-    "stargazers_count": 24456,
-    "open_issues_count": 320,
-    "forks_count": 894
+    "stargazers_count": 24642,
+    "open_issues_count": 328,
+    "forks_count": 899
   },
   {
     "full_name": "thi-ng/umbrella",
-    "stargazers_count": 3090,
+    "stargazers_count": 3093,
     "open_issues_count": 64,
     "forks_count": 139
   },
   {
     "full_name": "smol-ai/developer",
-    "stargazers_count": 11364,
-    "open_issues_count": 78,
-    "forks_count": 1102
+    "stargazers_count": 11371,
+    "open_issues_count": 79,
+    "forks_count": 1105
   },
   {
     "full_name": "erikthedeveloper/code-review-emoji-guide",
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "homanp/superagent",
-    "stargazers_count": 3249,
-    "open_issues_count": 45,
-    "forks_count": 637
+    "stargazers_count": 3292,
+    "open_issues_count": 46,
+    "forks_count": 643
   },
   {
     "full_name": "melange-re/melange-re.github.io",
@@ -139,44 +139,44 @@
   },
   {
     "full_name": "mobily/ts-belt",
-    "stargazers_count": 967,
+    "stargazers_count": 969,
     "open_issues_count": 34,
     "forks_count": 26
   },
   {
     "full_name": "nixified-ai/flake",
-    "stargazers_count": 443,
+    "stargazers_count": 449,
     "open_issues_count": 29,
     "forks_count": 46
   },
   {
     "full_name": "nix-community/nixvim",
-    "stargazers_count": 567,
+    "stargazers_count": 586,
     "open_issues_count": 23,
     "forks_count": 110
   },
   {
     "full_name": "radio24/TorBox",
-    "stargazers_count": 223,
+    "stargazers_count": 224,
     "open_issues_count": 10,
     "forks_count": 26
   },
   {
     "full_name": "lxsmnsyc/forgetti",
-    "stargazers_count": 294,
+    "stargazers_count": 296,
     "open_issues_count": 5,
     "forks_count": 6
   },
   {
     "full_name": "numtide/system-manager",
-    "stargazers_count": 389,
+    "stargazers_count": 391,
     "open_issues_count": 7,
     "forks_count": 9
   },
   {
     "full_name": "NixOS/hydra",
-    "stargazers_count": 938,
+    "stargazers_count": 940,
     "open_issues_count": 370,
-    "forks_count": 294
+    "forks_count": 295
   }
 ]
