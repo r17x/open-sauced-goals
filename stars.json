@@ -1,38 +1,50 @@
 [
   {
+    "full_name": "MatthewCroughan/NixThePlanet",
+    "stargazers_count": 289,
+    "open_issues_count": 5,
+    "forks_count": 1
+  },
+  {
+    "full_name": "leostera/minttea",
+    "stargazers_count": 104,
+    "open_issues_count": 5,
+    "forks_count": 2
+  },
+  {
     "full_name": "lukas-reineke/indent-blankline.nvim",
-    "stargazers_count": 3379,
-    "open_issues_count": 17,
-    "forks_count": 82
+    "stargazers_count": 3390,
+    "open_issues_count": 20,
+    "forks_count": 84
   },
   {
     "full_name": "folke/which-key.nvim",
-    "stargazers_count": 3771,
-    "open_issues_count": 166,
+    "stargazers_count": 3783,
+    "open_issues_count": 167,
     "forks_count": 134
   },
   {
     "full_name": "pdtpartners/nix-snapshotter",
-    "stargazers_count": 385,
+    "stargazers_count": 389,
     "open_issues_count": 19,
     "forks_count": 5
   },
   {
     "full_name": "jackMort/ChatGPT.nvim",
-    "stargazers_count": 2903,
+    "stargazers_count": 2932,
     "open_issues_count": 46,
-    "forks_count": 243
+    "forks_count": 244
   },
   {
     "full_name": "zth/res-x",
     "stargazers_count": 20,
-    "open_issues_count": 4,
+    "open_issues_count": 6,
     "forks_count": 0
   },
   {
     "full_name": "tweag/opam-nix",
-    "stargazers_count": 81,
-    "open_issues_count": 5,
+    "stargazers_count": 82,
+    "open_issues_count": 6,
     "forks_count": 16
   },
   {
@@ -49,7 +61,7 @@
   },
   {
     "full_name": "mirage/irmin",
-    "stargazers_count": 1763,
+    "stargazers_count": 1765,
     "open_issues_count": 120,
     "forks_count": 159
   },
@@ -67,7 +79,7 @@
   },
   {
     "full_name": "afiiif/floppy-disk",
-    "stargazers_count": 64,
+    "stargazers_count": 65,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -85,15 +97,15 @@
   },
   {
     "full_name": "ray-x/navigator.lua",
-    "stargazers_count": 1136,
+    "stargazers_count": 1139,
     "open_issues_count": 15,
     "forks_count": 56
   },
   {
     "full_name": "chakra-ui/panda",
-    "stargazers_count": 3926,
-    "open_issues_count": 6,
-    "forks_count": 150
+    "stargazers_count": 3941,
+    "open_issues_count": 11,
+    "forks_count": 152
   },
   {
     "full_name": "laptou/jsi-rs",
@@ -103,33 +115,33 @@
   },
   {
     "full_name": "mobile-dev-inc/maestro",
-    "stargazers_count": 4647,
-    "open_issues_count": 320,
+    "stargazers_count": 4655,
+    "open_issues_count": 324,
     "forks_count": 192
   },
   {
     "full_name": "bamlab/flashlight",
-    "stargazers_count": 871,
+    "stargazers_count": 874,
     "open_issues_count": 17,
-    "forks_count": 20
+    "forks_count": 21
   },
   {
     "full_name": "bigskysoftware/htmx",
-    "stargazers_count": 24795,
-    "open_issues_count": 325,
-    "forks_count": 900
+    "stargazers_count": 24976,
+    "open_issues_count": 329,
+    "forks_count": 907
   },
   {
     "full_name": "thi-ng/umbrella",
-    "stargazers_count": 3095,
+    "stargazers_count": 3099,
     "open_issues_count": 64,
-    "forks_count": 139
+    "forks_count": 141
   },
   {
     "full_name": "smol-ai/developer",
-    "stargazers_count": 11383,
+    "stargazers_count": 11396,
     "open_issues_count": 79,
-    "forks_count": 1109
+    "forks_count": 1110
   },
   {
     "full_name": "erikthedeveloper/code-review-emoji-guide",
@@ -145,9 +157,9 @@
   },
   {
     "full_name": "homanp/superagent",
-    "stargazers_count": 3321,
-    "open_issues_count": 46,
-    "forks_count": 647
+    "stargazers_count": 3348,
+    "open_issues_count": 51,
+    "forks_count": 656
   },
   {
     "full_name": "melange-re/melange-re.github.io",
@@ -157,26 +169,14 @@
   },
   {
     "full_name": "mobily/ts-belt",
-    "stargazers_count": 970,
+    "stargazers_count": 972,
     "open_issues_count": 34,
-    "forks_count": 26
+    "forks_count": 25
   },
   {
     "full_name": "nixified-ai/flake",
-    "stargazers_count": 450,
+    "stargazers_count": 454,
     "open_issues_count": 32,
-    "forks_count": 47
-  },
-  {
-    "full_name": "nix-community/nixvim",
-    "stargazers_count": 593,
-    "open_issues_count": 21,
-    "forks_count": 111
-  },
-  {
-    "full_name": "radio24/TorBox",
-    "stargazers_count": 224,
-    "open_issues_count": 10,
-    "forks_count": 26
+    "forks_count": 48
   }
 ]
