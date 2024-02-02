@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "pedrobslisboa/universal-portal",
+    "stargazers_count": 6,
+    "open_issues_count": 2,
+    "forks_count": 0
+  },
+  {
     "full_name": "DrSensor/rescript.nix",
     "stargazers_count": 3,
     "open_issues_count": 0,
@@ -7,45 +13,45 @@
   },
   {
     "full_name": "originjs/vite-plugin-federation",
-    "stargazers_count": 1811,
-    "open_issues_count": 142,
+    "stargazers_count": 1826,
+    "open_issues_count": 143,
     "forks_count": 190
   },
   {
     "full_name": "MatthewCroughan/NixThePlanet",
-    "stargazers_count": 388,
+    "stargazers_count": 395,
     "open_issues_count": 7,
     "forks_count": 2
   },
   {
     "full_name": "leostera/minttea",
-    "stargazers_count": 203,
-    "open_issues_count": 8,
+    "stargazers_count": 207,
+    "open_issues_count": 6,
     "forks_count": 15
   },
   {
     "full_name": "lukas-reineke/indent-blankline.nvim",
-    "stargazers_count": 3501,
-    "open_issues_count": 18,
+    "stargazers_count": 3509,
+    "open_issues_count": 19,
     "forks_count": 90
   },
   {
     "full_name": "folke/which-key.nvim",
-    "stargazers_count": 3989,
-    "open_issues_count": 171,
+    "stargazers_count": 4005,
+    "open_issues_count": 173,
     "forks_count": 138
   },
   {
     "full_name": "pdtpartners/nix-snapshotter",
-    "stargazers_count": 408,
+    "stargazers_count": 409,
     "open_issues_count": 18,
     "forks_count": 6
   },
   {
     "full_name": "jackMort/ChatGPT.nvim",
-    "stargazers_count": 3094,
-    "open_issues_count": 60,
-    "forks_count": 263
+    "stargazers_count": 3103,
+    "open_issues_count": 61,
+    "forks_count": 265
   },
   {
     "full_name": "zth/res-x",
@@ -55,7 +61,7 @@
   },
   {
     "full_name": "tweag/opam-nix",
-    "stargazers_count": 85,
+    "stargazers_count": 86,
     "open_issues_count": 6,
     "forks_count": 16
   },
@@ -74,7 +80,7 @@
   {
     "full_name": "mirage/irmin",
     "stargazers_count": 1770,
-    "open_issues_count": 119,
+    "open_issues_count": 120,
     "forks_count": 159
   },
   {
@@ -97,7 +103,7 @@
   },
   {
     "full_name": "t3dotgg/paycheck-extension",
-    "stargazers_count": 213,
+    "stargazers_count": 212,
     "open_issues_count": 8,
     "forks_count": 35
   },
@@ -109,15 +115,15 @@
   },
   {
     "full_name": "ray-x/navigator.lua",
-    "stargazers_count": 1155,
-    "open_issues_count": 15,
-    "forks_count": 56
+    "stargazers_count": 1158,
+    "open_issues_count": 17,
+    "forks_count": 57
   },
   {
     "full_name": "chakra-ui/panda",
-    "stargazers_count": 4197,
-    "open_issues_count": 9,
-    "forks_count": 170
+    "stargazers_count": 4216,
+    "open_issues_count": 6,
+    "forks_count": 172
   },
   {
     "full_name": "laptou/jsi-rs",
@@ -127,25 +133,25 @@
   },
   {
     "full_name": "mobile-dev-inc/maestro",
-    "stargazers_count": 4767,
-    "open_issues_count": 347,
-    "forks_count": 200
+    "stargazers_count": 4786,
+    "open_issues_count": 344,
+    "forks_count": 202
   },
   {
     "full_name": "bamlab/flashlight",
-    "stargazers_count": 908,
+    "stargazers_count": 915,
     "open_issues_count": 13,
-    "forks_count": 21
+    "forks_count": 22
   },
   {
     "full_name": "bigskysoftware/htmx",
-    "stargazers_count": 28736,
-    "open_issues_count": 385,
-    "forks_count": 1031
+    "stargazers_count": 28958,
+    "open_issues_count": 389,
+    "forks_count": 1039
   },
   {
     "full_name": "thi-ng/umbrella",
-    "stargazers_count": 3146,
+    "stargazers_count": 3149,
     "open_issues_count": 71,
     "forks_count": 144
   },
@@ -153,30 +159,24 @@
     "full_name": "smol-ai/developer",
     "stargazers_count": 11470,
     "open_issues_count": 79,
-    "forks_count": 1124
+    "forks_count": 1125
   },
   {
     "full_name": "erikthedeveloper/code-review-emoji-guide",
-    "stargazers_count": 415,
+    "stargazers_count": 417,
     "open_issues_count": 5,
-    "forks_count": 26
+    "forks_count": 27
   },
   {
     "full_name": "Julow/nix-opam-switch",
-    "stargazers_count": 5,
-    "open_issues_count": 0,
+    "stargazers_count": 6,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "homanp/superagent",
-    "stargazers_count": 3710,
-    "open_issues_count": 41,
-    "forks_count": 715
-  },
-  {
-    "full_name": "melange-re/melange-re.github.io",
-    "stargazers_count": 17,
-    "open_issues_count": 29,
-    "forks_count": 5
+    "stargazers_count": 3735,
+    "open_issues_count": 39,
+    "forks_count": 718
   }
 ]
