@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "facebook/react-strict-dom",
+    "stargazers_count": 1506,
+    "open_issues_count": 21,
+    "forks_count": 27
+  },
+  {
     "full_name": "alvarlagerlof/rsc-parser",
-    "stargazers_count": 414,
+    "stargazers_count": 415,
     "open_issues_count": 6,
     "forks_count": 7
   },
@@ -19,45 +25,45 @@
   },
   {
     "full_name": "originjs/vite-plugin-federation",
-    "stargazers_count": 1869,
-    "open_issues_count": 145,
-    "forks_count": 193
+    "stargazers_count": 1875,
+    "open_issues_count": 146,
+    "forks_count": 195
   },
   {
     "full_name": "MatthewCroughan/NixThePlanet",
-    "stargazers_count": 407,
+    "stargazers_count": 410,
     "open_issues_count": 9,
     "forks_count": 6
   },
   {
     "full_name": "leostera/minttea",
-    "stargazers_count": 233,
+    "stargazers_count": 234,
     "open_issues_count": 8,
-    "forks_count": 17
+    "forks_count": 20
   },
   {
     "full_name": "lukas-reineke/indent-blankline.nvim",
-    "stargazers_count": 3563,
-    "open_issues_count": 18,
+    "stargazers_count": 3567,
+    "open_issues_count": 19,
     "forks_count": 91
   },
   {
     "full_name": "folke/which-key.nvim",
-    "stargazers_count": 4101,
-    "open_issues_count": 176,
-    "forks_count": 139
+    "stargazers_count": 4113,
+    "open_issues_count": 178,
+    "forks_count": 138
   },
   {
     "full_name": "pdtpartners/nix-snapshotter",
-    "stargazers_count": 420,
-    "open_issues_count": 18,
+    "stargazers_count": 422,
+    "open_issues_count": 17,
     "forks_count": 7
   },
   {
     "full_name": "jackMort/ChatGPT.nvim",
-    "stargazers_count": 3174,
+    "stargazers_count": 3184,
     "open_issues_count": 64,
-    "forks_count": 271
+    "forks_count": 254
   },
   {
     "full_name": "zth/res-x",
@@ -67,7 +73,7 @@
   },
   {
     "full_name": "tweag/opam-nix",
-    "stargazers_count": 88,
+    "stargazers_count": 90,
     "open_issues_count": 6,
     "forks_count": 15
   },
@@ -85,7 +91,7 @@
   },
   {
     "full_name": "mirage/irmin",
-    "stargazers_count": 1776,
+    "stargazers_count": 1779,
     "open_issues_count": 120,
     "forks_count": 159
   },
@@ -121,15 +127,15 @@
   },
   {
     "full_name": "ray-x/navigator.lua",
-    "stargazers_count": 1169,
+    "stargazers_count": 1172,
     "open_issues_count": 15,
     "forks_count": 57
   },
   {
     "full_name": "chakra-ui/panda",
-    "stargazers_count": 4335,
-    "open_issues_count": 4,
-    "forks_count": 176
+    "stargazers_count": 4359,
+    "open_issues_count": 6,
+    "forks_count": 175
   },
   {
     "full_name": "laptou/jsi-rs",
@@ -139,21 +145,21 @@
   },
   {
     "full_name": "mobile-dev-inc/maestro",
-    "stargazers_count": 4838,
-    "open_issues_count": 353,
+    "stargazers_count": 4850,
+    "open_issues_count": 342,
     "forks_count": 201
   },
   {
     "full_name": "bamlab/flashlight",
-    "stargazers_count": 930,
+    "stargazers_count": 936,
     "open_issues_count": 16,
     "forks_count": 22
   },
   {
     "full_name": "bigskysoftware/htmx",
-    "stargazers_count": 30086,
-    "open_issues_count": 418,
-    "forks_count": 1062
+    "stargazers_count": 30244,
+    "open_issues_count": 422,
+    "forks_count": 1002
   },
   {
     "full_name": "thi-ng/umbrella",
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "smol-ai/developer",
-    "stargazers_count": 11501,
+    "stargazers_count": 11510,
     "open_issues_count": 79,
-    "forks_count": 1131
+    "forks_count": 1016
   },
   {
     "full_name": "erikthedeveloper/code-review-emoji-guide",
-    "stargazers_count": 420,
+    "stargazers_count": 421,
     "open_issues_count": 5,
     "forks_count": 27
-  },
-  {
-    "full_name": "Julow/nix-opam-switch",
-    "stargazers_count": 7,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
