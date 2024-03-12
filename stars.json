@@ -1,13 +1,13 @@
 [
   {
     "full_name": "facebook/react-strict-dom",
-    "stargazers_count": 2527,
-    "open_issues_count": 22,
-    "forks_count": 121
+    "stargazers_count": 2590,
+    "open_issues_count": 24,
+    "forks_count": 123
   },
   {
     "full_name": "alvarlagerlof/rsc-parser",
-    "stargazers_count": 422,
+    "stargazers_count": 425,
     "open_issues_count": 7,
     "forks_count": 7
   },
@@ -25,45 +25,45 @@
   },
   {
     "full_name": "originjs/vite-plugin-federation",
-    "stargazers_count": 1913,
+    "stargazers_count": 1918,
     "open_issues_count": 151,
     "forks_count": 198
   },
   {
     "full_name": "MatthewCroughan/NixThePlanet",
-    "stargazers_count": 418,
-    "open_issues_count": 11,
+    "stargazers_count": 423,
+    "open_issues_count": 10,
     "forks_count": 8
   },
   {
     "full_name": "leostera/minttea",
-    "stargazers_count": 248,
-    "open_issues_count": 8,
+    "stargazers_count": 252,
+    "open_issues_count": 10,
     "forks_count": 20
   },
   {
     "full_name": "lukas-reineke/indent-blankline.nvim",
-    "stargazers_count": 3608,
+    "stargazers_count": 3615,
     "open_issues_count": 20,
     "forks_count": 92
   },
   {
     "full_name": "folke/which-key.nvim",
-    "stargazers_count": 4191,
-    "open_issues_count": 183,
-    "forks_count": 140
+    "stargazers_count": 4220,
+    "open_issues_count": 184,
+    "forks_count": 142
   },
   {
     "full_name": "pdtpartners/nix-snapshotter",
-    "stargazers_count": 428,
+    "stargazers_count": 429,
     "open_issues_count": 17,
     "forks_count": 7
   },
   {
     "full_name": "jackMort/ChatGPT.nvim",
-    "stargazers_count": 3242,
+    "stargazers_count": 3261,
     "open_issues_count": 69,
-    "forks_count": 263
+    "forks_count": 266
   },
   {
     "full_name": "zth/res-x",
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "tweag/opam-nix",
-    "stargazers_count": 91,
+    "stargazers_count": 92,
     "open_issues_count": 7,
     "forks_count": 16
   },
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "mirage/irmin",
-    "stargazers_count": 1782,
+    "stargazers_count": 1783,
     "open_issues_count": 121,
     "forks_count": 152
   },
@@ -115,8 +115,8 @@
   },
   {
     "full_name": "t3dotgg/paycheck-extension",
-    "stargazers_count": 212,
-    "open_issues_count": 7,
+    "stargazers_count": 213,
+    "open_issues_count": 8,
     "forks_count": 36
   },
   {
@@ -127,56 +127,56 @@
   },
   {
     "full_name": "ray-x/navigator.lua",
-    "stargazers_count": 1182,
+    "stargazers_count": 1184,
     "open_issues_count": 15,
     "forks_count": 56
   },
   {
     "full_name": "chakra-ui/panda",
-    "stargazers_count": 4500,
-    "open_issues_count": 9,
-    "forks_count": 182
+    "stargazers_count": 4525,
+    "open_issues_count": 17,
+    "forks_count": 186
   },
   {
     "full_name": "laptou/jsi-rs",
-    "stargazers_count": 149,
+    "stargazers_count": 150,
     "open_issues_count": 1,
     "forks_count": 8
   },
   {
     "full_name": "mobile-dev-inc/maestro",
-    "stargazers_count": 4881,
-    "open_issues_count": 345,
+    "stargazers_count": 4888,
+    "open_issues_count": 344,
     "forks_count": 204
   },
   {
     "full_name": "bamlab/flashlight",
-    "stargazers_count": 959,
+    "stargazers_count": 961,
     "open_issues_count": 12,
     "forks_count": 22
   },
   {
     "full_name": "bigskysoftware/htmx",
-    "stargazers_count": 30855,
-    "open_issues_count": 434,
-    "forks_count": 1016
+    "stargazers_count": 30991,
+    "open_issues_count": 439,
+    "forks_count": 1021
   },
   {
     "full_name": "thi-ng/umbrella",
-    "stargazers_count": 3174,
+    "stargazers_count": 3176,
     "open_issues_count": 73,
     "forks_count": 141
   },
   {
     "full_name": "smol-ai/developer",
-    "stargazers_count": 11550,
+    "stargazers_count": 11554,
     "open_issues_count": 80,
-    "forks_count": 1020
+    "forks_count": 1019
   },
   {
     "full_name": "erikthedeveloper/code-review-emoji-guide",
     "stargazers_count": 423,
     "open_issues_count": 5,
-    "forks_count": 27
+    "forks_count": 25
   }
 ]
