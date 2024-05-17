@@ -1,13 +1,13 @@
 [
   {
     "full_name": "srid/nixos-flake",
-    "stargazers_count": 155,
+    "stargazers_count": 156,
     "open_issues_count": 12,
     "forks_count": 13
   },
   {
     "full_name": "gvergnaud/ts-pattern",
-    "stargazers_count": 10975,
+    "stargazers_count": 10995,
     "open_issues_count": 42,
     "forks_count": 114
   },
@@ -25,7 +25,7 @@
   },
   {
     "full_name": "ocaml-mlx/mlx",
-    "stargazers_count": 69,
+    "stargazers_count": 70,
     "open_issues_count": 3,
     "forks_count": 1
   },
@@ -43,37 +43,37 @@
   },
   {
     "full_name": "owlbarn/owl",
-    "stargazers_count": 1183,
+    "stargazers_count": 1184,
     "open_issues_count": 65,
     "forks_count": 120
   },
   {
     "full_name": "charmbracelet/freeze",
-    "stargazers_count": 2550,
-    "open_issues_count": 32,
-    "forks_count": 39
+    "stargazers_count": 2582,
+    "open_issues_count": 34,
+    "forks_count": 40
   },
   {
     "full_name": "Wilfred/difftastic",
-    "stargazers_count": 19659,
+    "stargazers_count": 19691,
     "open_issues_count": 195,
     "forks_count": 307
   },
   {
     "full_name": "ahrefs/melange-fest",
     "stargazers_count": 13,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "facebook/react-strict-dom",
-    "stargazers_count": 2937,
-    "open_issues_count": 33,
-    "forks_count": 150
+    "stargazers_count": 2942,
+    "open_issues_count": 31,
+    "forks_count": 151
   },
   {
     "full_name": "alvarlagerlof/rsc-parser",
-    "stargazers_count": 456,
+    "stargazers_count": 459,
     "open_issues_count": 6,
     "forks_count": 9
   },
@@ -91,31 +91,31 @@
   },
   {
     "full_name": "originjs/vite-plugin-federation",
-    "stargazers_count": 2048,
+    "stargazers_count": 2055,
     "open_issues_count": 160,
     "forks_count": 219
   },
   {
     "full_name": "MatthewCroughan/NixThePlanet",
-    "stargazers_count": 470,
+    "stargazers_count": 472,
     "open_issues_count": 9,
     "forks_count": 10
   },
   {
     "full_name": "leostera/minttea",
-    "stargazers_count": 285,
+    "stargazers_count": 288,
     "open_issues_count": 13,
-    "forks_count": 22
+    "forks_count": 23
   },
   {
     "full_name": "lukas-reineke/indent-blankline.nvim",
-    "stargazers_count": 3797,
-    "open_issues_count": 17,
+    "stargazers_count": 3802,
+    "open_issues_count": 19,
     "forks_count": 93
   },
   {
     "full_name": "folke/which-key.nvim",
-    "stargazers_count": 4509,
+    "stargazers_count": 4521,
     "open_issues_count": 192,
     "forks_count": 148
   },
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "jackMort/ChatGPT.nvim",
-    "stargazers_count": 3451,
-    "open_issues_count": 96,
-    "forks_count": 297
+    "stargazers_count": 3465,
+    "open_issues_count": 99,
+    "forks_count": 299
   },
   {
     "full_name": "zth/res-x",
@@ -147,7 +147,7 @@
     "full_name": "RyanGibb/hillingar",
     "stargazers_count": 37,
     "open_issues_count": 5,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "Reinforz/Nishan",
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "mirage/irmin",
-    "stargazers_count": 1801,
-    "open_issues_count": 121,
-    "forks_count": 153
+    "stargazers_count": 1803,
+    "open_issues_count": 122,
+    "forks_count": 152
   },
   {
     "full_name": "smorimoto/rescript-vercel-speed-insights-example",
