@@ -1,14 +1,26 @@
 [
   {
-    "full_name": "exo-explore/exo",
-    "stargazers_count": 1887,
-    "open_issues_count": 23,
+    "full_name": "typst/typst",
+    "stargazers_count": 31172,
+    "open_issues_count": 577,
+    "forks_count": 837
+  },
+  {
+    "full_name": "dai-shi/use-context-selector",
+    "stargazers_count": 2558,
+    "open_issues_count": 4,
     "forks_count": 58
   },
   {
+    "full_name": "exo-explore/exo",
+    "stargazers_count": 2669,
+    "open_issues_count": 33,
+    "forks_count": 109
+  },
+  {
     "full_name": "IlanCosman/tide",
-    "stargazers_count": 2758,
-    "open_issues_count": 66,
+    "stargazers_count": 2764,
+    "open_issues_count": 67,
     "forks_count": 103
   },
   {
@@ -19,25 +31,25 @@
   },
   {
     "full_name": "koekeishiya/yabai",
-    "stargazers_count": 22502,
+    "stargazers_count": 22536,
     "open_issues_count": 169,
     "forks_count": 630
   },
   {
     "full_name": "umijs/mako",
-    "stargazers_count": 1421,
-    "open_issues_count": 123,
+    "stargazers_count": 1446,
+    "open_issues_count": 121,
     "forks_count": 52
   },
   {
     "full_name": "FelixKratz/JankyBorders",
-    "stargazers_count": 842,
+    "stargazers_count": 854,
     "open_issues_count": 16,
     "forks_count": 19
   },
   {
     "full_name": "DZakh/rescript-rest",
-    "stargazers_count": 16,
+    "stargazers_count": 17,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -49,9 +61,9 @@
   },
   {
     "full_name": "seeksdream/relation-graph",
-    "stargazers_count": 1740,
-    "open_issues_count": 18,
-    "forks_count": 478
+    "stargazers_count": 1743,
+    "open_issues_count": 21,
+    "forks_count": 479
   },
   {
     "full_name": "reasonml-editor/tree-sitter-reason",
@@ -61,39 +73,39 @@
   },
   {
     "full_name": "thoughtspile/awesome-tiny-js",
-    "stargazers_count": 665,
+    "stargazers_count": 667,
     "open_issues_count": 3,
     "forks_count": 12
   },
   {
     "full_name": "nixops4/nixops4",
-    "stargazers_count": 195,
+    "stargazers_count": 198,
     "open_issues_count": 23,
     "forks_count": 8
   },
   {
     "full_name": "TheJumpCloud/support",
     "stargazers_count": 264,
-    "open_issues_count": 26,
-    "forks_count": 149
+    "open_issues_count": 27,
+    "forks_count": 150
   },
   {
     "full_name": "nammayatri/nammayatri",
-    "stargazers_count": 1235,
-    "open_issues_count": 1431,
-    "forks_count": 145
+    "stargazers_count": 1288,
+    "open_issues_count": 1442,
+    "forks_count": 157
   },
   {
     "full_name": "srid/nixos-flake",
-    "stargazers_count": 167,
+    "stargazers_count": 170,
     "open_issues_count": 15,
     "forks_count": 18
   },
   {
     "full_name": "gvergnaud/ts-pattern",
-    "stargazers_count": 11336,
+    "stargazers_count": 11369,
     "open_issues_count": 44,
-    "forks_count": 118
+    "forks_count": 117
   },
   {
     "full_name": "fahmiirsyadk/personal-site",
@@ -109,13 +121,13 @@
   },
   {
     "full_name": "ocaml-mlx/mlx",
-    "stargazers_count": 71,
+    "stargazers_count": 72,
     "open_issues_count": 3,
     "forks_count": 1
   },
   {
     "full_name": "jsdotlua/react-lua",
-    "stargazers_count": 405,
+    "stargazers_count": 406,
     "open_issues_count": 11,
     "forks_count": 14
   },
@@ -127,21 +139,21 @@
   },
   {
     "full_name": "owlbarn/owl",
-    "stargazers_count": 1199,
-    "open_issues_count": 67,
-    "forks_count": 120
+    "stargazers_count": 1200,
+    "open_issues_count": 68,
+    "forks_count": 122
   },
   {
     "full_name": "charmbracelet/freeze",
-    "stargazers_count": 2935,
+    "stargazers_count": 2957,
     "open_issues_count": 49,
-    "forks_count": 48
+    "forks_count": 49
   },
   {
     "full_name": "Wilfred/difftastic",
-    "stargazers_count": 20056,
-    "open_issues_count": 208,
-    "forks_count": 323
+    "stargazers_count": 20124,
+    "open_issues_count": 204,
+    "forks_count": 324
   },
   {
     "full_name": "ahrefs/melange-fest",
@@ -151,14 +163,14 @@
   },
   {
     "full_name": "facebook/react-strict-dom",
-    "stargazers_count": 3032,
+    "stargazers_count": 3034,
     "open_issues_count": 36,
     "forks_count": 154
   },
   {
     "full_name": "alvarlagerlof/rsc-parser",
-    "stargazers_count": 496,
-    "open_issues_count": 6,
+    "stargazers_count": 498,
+    "open_issues_count": 7,
     "forks_count": 11
   },
   {
@@ -166,17 +178,5 @@
     "stargazers_count": 7,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "DrSensor/rescript.nix",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "originjs/vite-plugin-federation",
-    "stargazers_count": 2153,
-    "open_issues_count": 169,
-    "forks_count": 226
   }
 ]
