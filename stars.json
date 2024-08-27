@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "alifahrri/nmtools",
+    "stargazers_count": 9,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "gdamjan/tt-rss-service",
+    "stargazers_count": 8,
+    "open_issues_count": 3,
+    "forks_count": 1
+  },
+  {
     "full_name": "inhabitedtype/angstrom",
     "stargazers_count": 631,
     "open_issues_count": 14,
@@ -7,87 +19,87 @@
   },
   {
     "full_name": "ossf/wg-best-practices-os-developers",
-    "stargazers_count": 699,
-    "open_issues_count": 52,
+    "stargazers_count": 703,
+    "open_issues_count": 51,
     "forks_count": 122
   },
   {
     "full_name": "codemod-com/codemod",
-    "stargazers_count": 307,
-    "open_issues_count": 54,
+    "stargazers_count": 310,
+    "open_issues_count": 59,
     "forks_count": 24
   },
   {
     "full_name": "nvimdev/dashboard-nvim",
-    "stargazers_count": 2283,
+    "stargazers_count": 2286,
     "open_issues_count": 61,
-    "forks_count": 186
+    "forks_count": 187
   },
   {
     "full_name": "DeterminateSystems/nix-installer",
-    "stargazers_count": 1934,
-    "open_issues_count": 217,
+    "stargazers_count": 1952,
+    "open_issues_count": 220,
     "forks_count": 50
   },
   {
     "full_name": "fzakaria/nix-auto-follow",
-    "stargazers_count": 41,
+    "stargazers_count": 42,
     "open_issues_count": 1,
     "forks_count": 3
   },
   {
     "full_name": "born2ngopi/dolphin",
-    "stargazers_count": 6,
+    "stargazers_count": 7,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "typst/typst",
-    "stargazers_count": 32200,
-    "open_issues_count": 617,
-    "forks_count": 863
+    "stargazers_count": 32303,
+    "open_issues_count": 598,
+    "forks_count": 865
   },
   {
     "full_name": "dai-shi/use-context-selector",
-    "stargazers_count": 2588,
+    "stargazers_count": 2591,
     "open_issues_count": 3,
     "forks_count": 58
   },
   {
     "full_name": "exo-explore/exo",
-    "stargazers_count": 5843,
-    "open_issues_count": 89,
-    "forks_count": 292
+    "stargazers_count": 6067,
+    "open_issues_count": 95,
+    "forks_count": 306
   },
   {
     "full_name": "IlanCosman/tide",
-    "stargazers_count": 2832,
+    "stargazers_count": 2838,
     "open_issues_count": 72,
     "forks_count": 103
   },
   {
     "full_name": "mattgreen/lucid.fish",
-    "stargazers_count": 145,
+    "stargazers_count": 146,
     "open_issues_count": 1,
     "forks_count": 14
   },
   {
     "full_name": "koekeishiya/yabai",
-    "stargazers_count": 22917,
-    "open_issues_count": 190,
-    "forks_count": 635
+    "stargazers_count": 22955,
+    "open_issues_count": 193,
+    "forks_count": 636
   },
   {
     "full_name": "umijs/mako",
-    "stargazers_count": 1661,
-    "open_issues_count": 136,
-    "forks_count": 61
+    "stargazers_count": 1676,
+    "open_issues_count": 140,
+    "forks_count": 63
   },
   {
     "full_name": "FelixKratz/JankyBorders",
-    "stargazers_count": 939,
-    "open_issues_count": 18,
-    "forks_count": 19
+    "stargazers_count": 957,
+    "open_issues_count": 19,
+    "forks_count": 18
   },
   {
     "full_name": "DZakh/rescript-rest",
@@ -103,9 +115,9 @@
   },
   {
     "full_name": "seeksdream/relation-graph",
-    "stargazers_count": 1801,
-    "open_issues_count": 16,
-    "forks_count": 484
+    "stargazers_count": 1811,
+    "open_issues_count": 18,
+    "forks_count": 485
   },
   {
     "full_name": "reasonml-editor/tree-sitter-reason",
@@ -115,38 +127,38 @@
   },
   {
     "full_name": "thoughtspile/awesome-tiny-js",
-    "stargazers_count": 674,
+    "stargazers_count": 675,
     "open_issues_count": 3,
     "forks_count": 12
   },
   {
     "full_name": "nixops4/nixops4",
-    "stargazers_count": 228,
-    "open_issues_count": 20,
+    "stargazers_count": 231,
+    "open_issues_count": 21,
     "forks_count": 9
   },
   {
     "full_name": "TheJumpCloud/support",
     "stargazers_count": 266,
-    "open_issues_count": 28,
+    "open_issues_count": 30,
     "forks_count": 151
   },
   {
     "full_name": "nammayatri/nammayatri",
-    "stargazers_count": 1337,
-    "open_issues_count": 1448,
-    "forks_count": 166
+    "stargazers_count": 1341,
+    "open_issues_count": 1450,
+    "forks_count": 167
   },
   {
     "full_name": "srid/nixos-flake",
     "stargazers_count": 172,
-    "open_issues_count": 15,
+    "open_issues_count": 16,
     "forks_count": 19
   },
   {
     "full_name": "gvergnaud/ts-pattern",
-    "stargazers_count": 11569,
-    "open_issues_count": 45,
+    "stargazers_count": 11592,
+    "open_issues_count": 46,
     "forks_count": 118
   },
   {
@@ -166,17 +178,5 @@
     "stargazers_count": 76,
     "open_issues_count": 3,
     "forks_count": 1
-  },
-  {
-    "full_name": "jsdotlua/react-lua",
-    "stargazers_count": 418,
-    "open_issues_count": 11,
-    "forks_count": 12
-  },
-  {
-    "full_name": "ml-in-barcelona/quickjs.ml",
-    "stargazers_count": 19,
-    "open_issues_count": 6,
-    "forks_count": 0
   }
 ]
