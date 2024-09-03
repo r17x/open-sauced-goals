@@ -1,15 +1,15 @@
 [
   {
     "full_name": "yetone/avante.nvim",
-    "stargazers_count": 3900,
-    "open_issues_count": 19,
-    "forks_count": 138
+    "stargazers_count": 4312,
+    "open_issues_count": 31,
+    "forks_count": 151
   },
   {
     "full_name": "dustinlyons/nixos-config",
-    "stargazers_count": 1411,
-    "open_issues_count": 12,
-    "forks_count": 92
+    "stargazers_count": 1425,
+    "open_issues_count": 10,
+    "forks_count": 93
   },
   {
     "full_name": "alifahrri/nmtools",
@@ -31,31 +31,31 @@
   },
   {
     "full_name": "ossf/wg-best-practices-os-developers",
-    "stargazers_count": 707,
-    "open_issues_count": 52,
+    "stargazers_count": 708,
+    "open_issues_count": 53,
     "forks_count": 122
   },
   {
     "full_name": "codemod-com/codemod",
-    "stargazers_count": 314,
-    "open_issues_count": 58,
+    "stargazers_count": 321,
+    "open_issues_count": 65,
     "forks_count": 29
   },
   {
     "full_name": "nvimdev/dashboard-nvim",
-    "stargazers_count": 2293,
+    "stargazers_count": 2295,
     "open_issues_count": 61,
     "forks_count": 187
   },
   {
     "full_name": "DeterminateSystems/nix-installer",
-    "stargazers_count": 1963,
-    "open_issues_count": 222,
+    "stargazers_count": 1974,
+    "open_issues_count": 223,
     "forks_count": 50
   },
   {
     "full_name": "fzakaria/nix-auto-follow",
-    "stargazers_count": 42,
+    "stargazers_count": 43,
     "open_issues_count": 1,
     "forks_count": 3
   },
@@ -67,27 +67,27 @@
   },
   {
     "full_name": "typst/typst",
-    "stargazers_count": 32366,
-    "open_issues_count": 598,
-    "forks_count": 866
+    "stargazers_count": 32449,
+    "open_issues_count": 589,
+    "forks_count": 869
   },
   {
     "full_name": "dai-shi/use-context-selector",
     "stargazers_count": 2595,
-    "open_issues_count": 3,
+    "open_issues_count": 5,
     "forks_count": 58
   },
   {
     "full_name": "exo-explore/exo",
-    "stargazers_count": 6171,
-    "open_issues_count": 104,
-    "forks_count": 316
+    "stargazers_count": 6237,
+    "open_issues_count": 106,
+    "forks_count": 318
   },
   {
     "full_name": "IlanCosman/tide",
-    "stargazers_count": 2839,
-    "open_issues_count": 73,
-    "forks_count": 103
+    "stargazers_count": 2845,
+    "open_issues_count": 76,
+    "forks_count": 104
   },
   {
     "full_name": "mattgreen/lucid.fish",
@@ -97,19 +97,19 @@
   },
   {
     "full_name": "koekeishiya/yabai",
-    "stargazers_count": 22997,
-    "open_issues_count": 196,
-    "forks_count": 637
+    "stargazers_count": 23028,
+    "open_issues_count": 197,
+    "forks_count": 638
   },
   {
     "full_name": "umijs/mako",
-    "stargazers_count": 1688,
-    "open_issues_count": 130,
-    "forks_count": 63
+    "stargazers_count": 1693,
+    "open_issues_count": 132,
+    "forks_count": 64
   },
   {
     "full_name": "FelixKratz/JankyBorders",
-    "stargazers_count": 972,
+    "stargazers_count": 983,
     "open_issues_count": 20,
     "forks_count": 18
   },
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "seeksdream/relation-graph",
-    "stargazers_count": 1822,
+    "stargazers_count": 1830,
     "open_issues_count": 22,
     "forks_count": 485
   },
@@ -139,39 +139,39 @@
   },
   {
     "full_name": "thoughtspile/awesome-tiny-js",
-    "stargazers_count": 675,
+    "stargazers_count": 676,
     "open_issues_count": 3,
     "forks_count": 12
   },
   {
     "full_name": "nixops4/nixops4",
-    "stargazers_count": 234,
-    "open_issues_count": 21,
+    "stargazers_count": 236,
+    "open_issues_count": 20,
     "forks_count": 9
   },
   {
     "full_name": "TheJumpCloud/support",
-    "stargazers_count": 266,
+    "stargazers_count": 267,
     "open_issues_count": 28,
     "forks_count": 151
   },
   {
     "full_name": "nammayatri/nammayatri",
-    "stargazers_count": 1342,
-    "open_issues_count": 1456,
-    "forks_count": 167
+    "stargazers_count": 1344,
+    "open_issues_count": 1453,
+    "forks_count": 168
   },
   {
     "full_name": "srid/nixos-flake",
-    "stargazers_count": 172,
+    "stargazers_count": 173,
     "open_issues_count": 16,
     "forks_count": 19
   },
   {
     "full_name": "gvergnaud/ts-pattern",
-    "stargazers_count": 11608,
-    "open_issues_count": 47,
-    "forks_count": 118
+    "stargazers_count": 11629,
+    "open_issues_count": 48,
+    "forks_count": 120
   },
   {
     "full_name": "fahmiirsyadk/personal-site",
