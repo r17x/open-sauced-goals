@@ -1,5 +1,23 @@
 [
   {
+    "full_name": "andreypopp/reactor",
+    "stargazers_count": 50,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "kevanantha/xk",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "Anifyuli/my-nixos",
+    "stargazers_count": 7,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
     "full_name": "melange-community/melange-webapi",
     "stargazers_count": 17,
     "open_issues_count": 8,
@@ -19,13 +37,13 @@
   },
   {
     "full_name": "yetone/avante.nvim",
-    "stargazers_count": 4710,
-    "open_issues_count": 34,
-    "forks_count": 158
+    "stargazers_count": 4931,
+    "open_issues_count": 47,
+    "forks_count": 163
   },
   {
     "full_name": "dustinlyons/nixos-config",
-    "stargazers_count": 1448,
+    "stargazers_count": 1455,
     "open_issues_count": 10,
     "forks_count": 91
   },
@@ -43,33 +61,33 @@
   },
   {
     "full_name": "inhabitedtype/angstrom",
-    "stargazers_count": 634,
-    "open_issues_count": 14,
-    "forks_count": 73
+    "stargazers_count": 635,
+    "open_issues_count": 13,
+    "forks_count": 74
   },
   {
     "full_name": "ossf/wg-best-practices-os-developers",
-    "stargazers_count": 715,
-    "open_issues_count": 53,
+    "stargazers_count": 714,
+    "open_issues_count": 52,
     "forks_count": 123
   },
   {
     "full_name": "codemod-com/codemod",
-    "stargazers_count": 341,
-    "open_issues_count": 69,
+    "stargazers_count": 344,
+    "open_issues_count": 76,
     "forks_count": 30
   },
   {
     "full_name": "nvimdev/dashboard-nvim",
-    "stargazers_count": 2303,
-    "open_issues_count": 61,
-    "forks_count": 187
+    "stargazers_count": 2301,
+    "open_issues_count": 62,
+    "forks_count": 188
   },
   {
     "full_name": "DeterminateSystems/nix-installer",
-    "stargazers_count": 2005,
-    "open_issues_count": 229,
-    "forks_count": 51
+    "stargazers_count": 2010,
+    "open_issues_count": 215,
+    "forks_count": 52
   },
   {
     "full_name": "fzakaria/nix-auto-follow",
@@ -85,25 +103,25 @@
   },
   {
     "full_name": "typst/typst",
-    "stargazers_count": 32592,
-    "open_issues_count": 608,
+    "stargazers_count": 32646,
+    "open_issues_count": 610,
     "forks_count": 873
   },
   {
     "full_name": "dai-shi/use-context-selector",
-    "stargazers_count": 2600,
+    "stargazers_count": 2602,
     "open_issues_count": 5,
     "forks_count": 58
   },
   {
     "full_name": "exo-explore/exo",
-    "stargazers_count": 6321,
-    "open_issues_count": 119,
-    "forks_count": 328
+    "stargazers_count": 6355,
+    "open_issues_count": 121,
+    "forks_count": 329
   },
   {
     "full_name": "IlanCosman/tide",
-    "stargazers_count": 2861,
+    "stargazers_count": 2863,
     "open_issues_count": 79,
     "forks_count": 107
   },
@@ -115,20 +133,20 @@
   },
   {
     "full_name": "koekeishiya/yabai",
-    "stargazers_count": 23095,
-    "open_issues_count": 202,
-    "forks_count": 638
+    "stargazers_count": 23109,
+    "open_issues_count": 206,
+    "forks_count": 639
   },
   {
     "full_name": "umijs/mako",
-    "stargazers_count": 1721,
-    "open_issues_count": 127,
+    "stargazers_count": 1731,
+    "open_issues_count": 129,
     "forks_count": 64
   },
   {
     "full_name": "FelixKratz/JankyBorders",
-    "stargazers_count": 1008,
-    "open_issues_count": 22,
+    "stargazers_count": 1017,
+    "open_issues_count": 23,
     "forks_count": 17
   },
   {
@@ -145,38 +163,20 @@
   },
   {
     "full_name": "seeksdream/relation-graph",
-    "stargazers_count": 1837,
-    "open_issues_count": 26,
-    "forks_count": 486
+    "stargazers_count": 1843,
+    "open_issues_count": 28,
+    "forks_count": 487
   },
   {
     "full_name": "reasonml-editor/tree-sitter-reason",
     "stargazers_count": 7,
     "open_issues_count": 0,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "thoughtspile/awesome-tiny-js",
-    "stargazers_count": 677,
+    "stargazers_count": 680,
     "open_issues_count": 3,
     "forks_count": 12
-  },
-  {
-    "full_name": "nixops4/nixops4",
-    "stargazers_count": 248,
-    "open_issues_count": 19,
-    "forks_count": 9
-  },
-  {
-    "full_name": "TheJumpCloud/support",
-    "stargazers_count": 267,
-    "open_issues_count": 31,
-    "forks_count": 151
-  },
-  {
-    "full_name": "nammayatri/nammayatri",
-    "stargazers_count": 1569,
-    "open_issues_count": 1462,
-    "forks_count": 170
   }
 ]
