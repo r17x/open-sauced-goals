@@ -1,19 +1,49 @@
 [
   {
+    "full_name": "dogokit/dogokit-akita",
+    "stargazers_count": 11,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "albertusdev/expensms",
+    "stargazers_count": 7,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "bearmentor/bearmentor-web",
+    "stargazers_count": 6,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "farm-fe/farm",
+    "stargazers_count": 4892,
+    "open_issues_count": 136,
+    "forks_count": 160
+  },
+  {
+    "full_name": "web-scheme/wsc",
+    "stargazers_count": 37,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
     "full_name": "olimorris/tmux-pomodoro-plus",
     "stargazers_count": 309,
     "open_issues_count": 5,
-    "forks_count": 25
+    "forks_count": 26
   },
   {
     "full_name": "leerob/vim-for-react-devs",
-    "stargazers_count": 379,
+    "stargazers_count": 480,
     "open_issues_count": 1,
-    "forks_count": 18
+    "forks_count": 23
   },
   {
     "full_name": "nix-community/flakelight",
-    "stargazers_count": 206,
+    "stargazers_count": 202,
     "open_issues_count": 6,
     "forks_count": 5
   },
@@ -55,20 +85,20 @@
   },
   {
     "full_name": "edoardottt/cariddi",
-    "stargazers_count": 1498,
+    "stargazers_count": 1500,
     "open_issues_count": 11,
     "forks_count": 154
   },
   {
     "full_name": "yetone/avante.nvim",
-    "stargazers_count": 5556,
-    "open_issues_count": 65,
-    "forks_count": 184
+    "stargazers_count": 5662,
+    "open_issues_count": 61,
+    "forks_count": 192
   },
   {
     "full_name": "dustinlyons/nixos-config",
-    "stargazers_count": 1494,
-    "open_issues_count": 11,
+    "stargazers_count": 1510,
+    "open_issues_count": 12,
     "forks_count": 95
   },
   {
@@ -91,26 +121,26 @@
   },
   {
     "full_name": "ossf/wg-best-practices-os-developers",
-    "stargazers_count": 722,
-    "open_issues_count": 61,
-    "forks_count": 126
+    "stargazers_count": 731,
+    "open_issues_count": 62,
+    "forks_count": 127
   },
   {
     "full_name": "codemod-com/codemod",
-    "stargazers_count": 365,
-    "open_issues_count": 68,
-    "forks_count": 32
+    "stargazers_count": 370,
+    "open_issues_count": 66,
+    "forks_count": 31
   },
   {
     "full_name": "nvimdev/dashboard-nvim",
-    "stargazers_count": 2325,
+    "stargazers_count": 2332,
     "open_issues_count": 64,
-    "forks_count": 190
+    "forks_count": 189
   },
   {
     "full_name": "DeterminateSystems/nix-installer",
-    "stargazers_count": 2072,
-    "open_issues_count": 221,
+    "stargazers_count": 2083,
+    "open_issues_count": 225,
     "forks_count": 51
   },
   {
@@ -127,56 +157,26 @@
   },
   {
     "full_name": "typst/typst",
-    "stargazers_count": 32903,
-    "open_issues_count": 613,
-    "forks_count": 885
+    "stargazers_count": 32975,
+    "open_issues_count": 614,
+    "forks_count": 891
   },
   {
     "full_name": "dai-shi/use-context-selector",
-    "stargazers_count": 2618,
+    "stargazers_count": 2621,
     "open_issues_count": 5,
     "forks_count": 60
   },
   {
     "full_name": "exo-explore/exo",
-    "stargazers_count": 7076,
-    "open_issues_count": 132,
-    "forks_count": 380
+    "stargazers_count": 8540,
+    "open_issues_count": 139,
+    "forks_count": 434
   },
   {
     "full_name": "IlanCosman/tide",
-    "stargazers_count": 2893,
+    "stargazers_count": 2896,
     "open_issues_count": 81,
     "forks_count": 108
-  },
-  {
-    "full_name": "mattgreen/lucid.fish",
-    "stargazers_count": 154,
-    "open_issues_count": 1,
-    "forks_count": 14
-  },
-  {
-    "full_name": "koekeishiya/yabai",
-    "stargazers_count": 23235,
-    "open_issues_count": 210,
-    "forks_count": 642
-  },
-  {
-    "full_name": "umijs/mako",
-    "stargazers_count": 1771,
-    "open_issues_count": 127,
-    "forks_count": 64
-  },
-  {
-    "full_name": "FelixKratz/JankyBorders",
-    "stargazers_count": 1065,
-    "open_issues_count": 23,
-    "forks_count": 18
-  },
-  {
-    "full_name": "DZakh/rescript-rest",
-    "stargazers_count": 21,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
