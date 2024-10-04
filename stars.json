@@ -1,27 +1,33 @@
 [
   {
+    "full_name": "ak9024/rustywatch",
+    "stargazers_count": 13,
+    "open_issues_count": 4,
+    "forks_count": 0
+  },
+  {
     "full_name": "dogokit/dogokit-akita",
-    "stargazers_count": 11,
+    "stargazers_count": 16,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "albertusdev/expensms",
     "stargazers_count": 7,
-    "open_issues_count": 0,
+    "open_issues_count": 5,
     "forks_count": 0
   },
   {
     "full_name": "bearmentor/bearmentor-web",
-    "stargazers_count": 6,
+    "stargazers_count": 8,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "farm-fe/farm",
-    "stargazers_count": 4892,
-    "open_issues_count": 136,
-    "forks_count": 160
+    "stargazers_count": 4901,
+    "open_issues_count": 134,
+    "forks_count": 161
   },
   {
     "full_name": "web-scheme/wsc",
@@ -31,20 +37,20 @@
   },
   {
     "full_name": "olimorris/tmux-pomodoro-plus",
-    "stargazers_count": 309,
+    "stargazers_count": 310,
     "open_issues_count": 5,
     "forks_count": 26
   },
   {
     "full_name": "leerob/vim-for-react-devs",
-    "stargazers_count": 480,
+    "stargazers_count": 503,
     "open_issues_count": 1,
-    "forks_count": 23
+    "forks_count": 24
   },
   {
     "full_name": "nix-community/flakelight",
-    "stargazers_count": 202,
-    "open_issues_count": 6,
+    "stargazers_count": 203,
+    "open_issues_count": 5,
     "forks_count": 5
   },
   {
@@ -85,20 +91,20 @@
   },
   {
     "full_name": "edoardottt/cariddi",
-    "stargazers_count": 1500,
+    "stargazers_count": 1502,
     "open_issues_count": 11,
     "forks_count": 154
   },
   {
     "full_name": "yetone/avante.nvim",
-    "stargazers_count": 5662,
-    "open_issues_count": 61,
-    "forks_count": 192
+    "stargazers_count": 5763,
+    "open_issues_count": 67,
+    "forks_count": 195
   },
   {
     "full_name": "dustinlyons/nixos-config",
-    "stargazers_count": 1510,
-    "open_issues_count": 12,
+    "stargazers_count": 1524,
+    "open_issues_count": 13,
     "forks_count": 95
   },
   {
@@ -121,9 +127,9 @@
   },
   {
     "full_name": "ossf/wg-best-practices-os-developers",
-    "stargazers_count": 731,
-    "open_issues_count": 62,
-    "forks_count": 127
+    "stargazers_count": 735,
+    "open_issues_count": 60,
+    "forks_count": 128
   },
   {
     "full_name": "codemod-com/codemod",
@@ -133,15 +139,15 @@
   },
   {
     "full_name": "nvimdev/dashboard-nvim",
-    "stargazers_count": 2332,
-    "open_issues_count": 64,
-    "forks_count": 189
+    "stargazers_count": 2336,
+    "open_issues_count": 66,
+    "forks_count": 190
   },
   {
     "full_name": "DeterminateSystems/nix-installer",
-    "stargazers_count": 2083,
-    "open_issues_count": 225,
-    "forks_count": 51
+    "stargazers_count": 2090,
+    "open_issues_count": 228,
+    "forks_count": 52
   },
   {
     "full_name": "fzakaria/nix-auto-follow",
@@ -157,26 +163,20 @@
   },
   {
     "full_name": "typst/typst",
-    "stargazers_count": 32975,
-    "open_issues_count": 614,
-    "forks_count": 891
+    "stargazers_count": 33029,
+    "open_issues_count": 602,
+    "forks_count": 892
   },
   {
     "full_name": "dai-shi/use-context-selector",
-    "stargazers_count": 2621,
+    "stargazers_count": 2627,
     "open_issues_count": 5,
     "forks_count": 60
   },
   {
     "full_name": "exo-explore/exo",
-    "stargazers_count": 8540,
-    "open_issues_count": 139,
-    "forks_count": 434
-  },
-  {
-    "full_name": "IlanCosman/tide",
-    "stargazers_count": 2896,
-    "open_issues_count": 81,
-    "forks_count": 108
+    "stargazers_count": 9458,
+    "open_issues_count": 151,
+    "forks_count": 499
   }
 ]
