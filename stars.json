@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "ocaml-multicore/multicore-bench",
+    "stargazers_count": 10,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
     "full_name": "CapSoftware/Cap",
-    "stargazers_count": 4459,
-    "open_issues_count": 19,
-    "forks_count": 209
+    "stargazers_count": 4529,
+    "open_issues_count": 23,
+    "forks_count": 220
   },
   {
     "full_name": "tmattio/dream-livereload",
@@ -13,9 +19,9 @@
   },
   {
     "full_name": "onejs/one",
-    "stargazers_count": 1884,
-    "open_issues_count": 26,
-    "forks_count": 35
+    "stargazers_count": 2395,
+    "open_issues_count": 16,
+    "forks_count": 44
   },
   {
     "full_name": "ChrisShank/routtl",
@@ -37,7 +43,7 @@
   },
   {
     "full_name": "albertusdev/expensms",
-    "stargazers_count": 9,
+    "stargazers_count": 10,
     "open_issues_count": 5,
     "forks_count": 1
   },
@@ -49,9 +55,9 @@
   },
   {
     "full_name": "farm-fe/farm",
-    "stargazers_count": 4913,
-    "open_issues_count": 139,
-    "forks_count": 161
+    "stargazers_count": 4926,
+    "open_issues_count": 136,
+    "forks_count": 162
   },
   {
     "full_name": "web-scheme/wsc",
@@ -61,19 +67,19 @@
   },
   {
     "full_name": "olimorris/tmux-pomodoro-plus",
-    "stargazers_count": 312,
+    "stargazers_count": 313,
     "open_issues_count": 5,
     "forks_count": 26
   },
   {
     "full_name": "leerob/vim-for-react-devs",
-    "stargazers_count": 530,
+    "stargazers_count": 551,
     "open_issues_count": 1,
-    "forks_count": 25
+    "forks_count": 24
   },
   {
     "full_name": "nix-community/flakelight",
-    "stargazers_count": 204,
+    "stargazers_count": 206,
     "open_issues_count": 5,
     "forks_count": 5
   },
@@ -115,21 +121,21 @@
   },
   {
     "full_name": "edoardottt/cariddi",
-    "stargazers_count": 1504,
+    "stargazers_count": 1506,
     "open_issues_count": 11,
     "forks_count": 154
   },
   {
     "full_name": "yetone/avante.nvim",
-    "stargazers_count": 5912,
-    "open_issues_count": 67,
-    "forks_count": 201
+    "stargazers_count": 6019,
+    "open_issues_count": 73,
+    "forks_count": 210
   },
   {
     "full_name": "dustinlyons/nixos-config",
-    "stargazers_count": 1537,
-    "open_issues_count": 13,
-    "forks_count": 95
+    "stargazers_count": 1552,
+    "open_issues_count": 12,
+    "forks_count": 96
   },
   {
     "full_name": "alifahrri/nmtools",
@@ -140,7 +146,7 @@
   {
     "full_name": "gdamjan/tt-rss-service",
     "stargazers_count": 8,
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "forks_count": 1
   },
   {
@@ -151,32 +157,26 @@
   },
   {
     "full_name": "ossf/wg-best-practices-os-developers",
-    "stargazers_count": 736,
-    "open_issues_count": 57,
-    "forks_count": 128
+    "stargazers_count": 739,
+    "open_issues_count": 63,
+    "forks_count": 129
   },
   {
     "full_name": "codemod-com/codemod",
-    "stargazers_count": 372,
-    "open_issues_count": 66,
+    "stargazers_count": 374,
+    "open_issues_count": 67,
     "forks_count": 32
   },
   {
     "full_name": "nvimdev/dashboard-nvim",
-    "stargazers_count": 2340,
-    "open_issues_count": 66,
-    "forks_count": 190
+    "stargazers_count": 2346,
+    "open_issues_count": 68,
+    "forks_count": 191
   },
   {
     "full_name": "DeterminateSystems/nix-installer",
-    "stargazers_count": 2103,
-    "open_issues_count": 231,
+    "stargazers_count": 2114,
+    "open_issues_count": 235,
     "forks_count": 52
-  },
-  {
-    "full_name": "fzakaria/nix-auto-follow",
-    "stargazers_count": 53,
-    "open_issues_count": 1,
-    "forks_count": 3
   }
 ]
