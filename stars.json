@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "tjdevries/octane.ml",
+    "stargazers_count": 38,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
     "full_name": "kepelet/flo",
     "stargazers_count": 13,
     "open_issues_count": 4,
@@ -13,9 +19,9 @@
   },
   {
     "full_name": "CapSoftware/Cap",
-    "stargazers_count": 4589,
-    "open_issues_count": 28,
-    "forks_count": 228
+    "stargazers_count": 4619,
+    "open_issues_count": 30,
+    "forks_count": 230
   },
   {
     "full_name": "tmattio/dream-livereload",
@@ -25,9 +31,9 @@
   },
   {
     "full_name": "onejs/one",
-    "stargazers_count": 2583,
-    "open_issues_count": 21,
-    "forks_count": 51
+    "stargazers_count": 2853,
+    "open_issues_count": 22,
+    "forks_count": 57
   },
   {
     "full_name": "ChrisShank/routtl",
@@ -61,7 +67,7 @@
   },
   {
     "full_name": "farm-fe/farm",
-    "stargazers_count": 4934,
+    "stargazers_count": 4944,
     "open_issues_count": 133,
     "forks_count": 163
   },
@@ -79,20 +85,20 @@
   },
   {
     "full_name": "leerob/vim-for-react-devs",
-    "stargazers_count": 594,
+    "stargazers_count": 606,
     "open_issues_count": 1,
     "forks_count": 25
   },
   {
     "full_name": "nix-community/flakelight",
-    "stargazers_count": 207,
+    "stargazers_count": 208,
     "open_issues_count": 5,
     "forks_count": 5
   },
   {
     "full_name": "dbcaml/dbcaml",
     "stargazers_count": 62,
-    "open_issues_count": 10,
+    "open_issues_count": 9,
     "forks_count": 4
   },
   {
@@ -133,15 +139,15 @@
   },
   {
     "full_name": "yetone/avante.nvim",
-    "stargazers_count": 6113,
-    "open_issues_count": 84,
-    "forks_count": 216
+    "stargazers_count": 6187,
+    "open_issues_count": 82,
+    "forks_count": 221
   },
   {
     "full_name": "dustinlyons/nixos-config",
-    "stargazers_count": 1577,
+    "stargazers_count": 1594,
     "open_issues_count": 10,
-    "forks_count": 97
+    "forks_count": 98
   },
   {
     "full_name": "alifahrri/nmtools",
@@ -157,26 +163,20 @@
   },
   {
     "full_name": "inhabitedtype/angstrom",
-    "stargazers_count": 642,
+    "stargazers_count": 643,
     "open_issues_count": 13,
     "forks_count": 74
   },
   {
     "full_name": "ossf/wg-best-practices-os-developers",
-    "stargazers_count": 741,
-    "open_issues_count": 71,
+    "stargazers_count": 745,
+    "open_issues_count": 62,
     "forks_count": 129
   },
   {
     "full_name": "codemod-com/codemod",
-    "stargazers_count": 381,
-    "open_issues_count": 66,
+    "stargazers_count": 392,
+    "open_issues_count": 67,
     "forks_count": 32
-  },
-  {
-    "full_name": "nvimdev/dashboard-nvim",
-    "stargazers_count": 2350,
-    "open_issues_count": 69,
-    "forks_count": 192
   }
 ]
