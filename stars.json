@@ -1,7 +1,7 @@
 [
   {
     "full_name": "kdeldycke/awesome-engineering-team-management",
-    "stargazers_count": 1985,
+    "stargazers_count": 1988,
     "open_issues_count": 3,
     "forks_count": 145
   },
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "kepelet/flo",
-    "stargazers_count": 15,
+    "stargazers_count": 16,
     "open_issues_count": 4,
     "forks_count": 3
   },
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "CapSoftware/Cap",
-    "stargazers_count": 4648,
-    "open_issues_count": 29,
-    "forks_count": 232
+    "stargazers_count": 4737,
+    "open_issues_count": 36,
+    "forks_count": 238
   },
   {
     "full_name": "tmattio/dream-livereload",
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "onejs/one",
-    "stargazers_count": 2983,
-    "open_issues_count": 29,
-    "forks_count": 58
+    "stargazers_count": 3031,
+    "open_issues_count": 31,
+    "forks_count": 59
   },
   {
     "full_name": "ChrisShank/routtl",
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "dogokit/dogokit-akita",
-    "stargazers_count": 17,
+    "stargazers_count": 18,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "farm-fe/farm",
-    "stargazers_count": 4951,
-    "open_issues_count": 144,
-    "forks_count": 163
+    "stargazers_count": 4958,
+    "open_issues_count": 156,
+    "forks_count": 162
   },
   {
     "full_name": "web-scheme/wsc",
@@ -97,13 +97,13 @@
   },
   {
     "full_name": "leerob/vim-for-react-devs",
-    "stargazers_count": 617,
+    "stargazers_count": 622,
     "open_issues_count": 1,
-    "forks_count": 25
+    "forks_count": 26
   },
   {
     "full_name": "nix-community/flakelight",
-    "stargazers_count": 212,
+    "stargazers_count": 216,
     "open_issues_count": 5,
     "forks_count": 5
   },
@@ -145,26 +145,26 @@
   },
   {
     "full_name": "edoardottt/cariddi",
-    "stargazers_count": 1512,
+    "stargazers_count": 1516,
     "open_issues_count": 11,
-    "forks_count": 154
+    "forks_count": 156
   },
   {
     "full_name": "yetone/avante.nvim",
-    "stargazers_count": 6280,
-    "open_issues_count": 85,
+    "stargazers_count": 6400,
+    "open_issues_count": 79,
     "forks_count": 230
   },
   {
     "full_name": "dustinlyons/nixos-config",
-    "stargazers_count": 1619,
-    "open_issues_count": 10,
+    "stargazers_count": 1639,
+    "open_issues_count": 11,
     "forks_count": 102
   },
   {
     "full_name": "alifahrri/nmtools",
     "stargazers_count": 10,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 1
   },
   {
@@ -176,7 +176,7 @@
   {
     "full_name": "inhabitedtype/angstrom",
     "stargazers_count": 645,
-    "open_issues_count": 13,
+    "open_issues_count": 14,
     "forks_count": 74
   }
 ]
