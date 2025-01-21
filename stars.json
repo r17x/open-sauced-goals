@@ -1,9 +1,9 @@
 [
   {
     "full_name": "alufers/mitmproxy2swagger",
-    "stargazers_count": 8488,
+    "stargazers_count": 8516,
     "open_issues_count": 20,
-    "forks_count": 300
+    "forks_count": 301
   },
   {
     "full_name": "aantron/lambdasoup",
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "internet-development/www-sacred",
-    "stargazers_count": 711,
-    "open_issues_count": 0,
-    "forks_count": 26
+    "stargazers_count": 744,
+    "open_issues_count": 1,
+    "forks_count": 28
   },
   {
     "full_name": "plow-technologies/rescript-linter",
@@ -37,37 +37,37 @@
   },
   {
     "full_name": "nix-community/lanzaboote",
-    "stargazers_count": 978,
+    "stargazers_count": 982,
     "open_issues_count": 53,
-    "forks_count": 52
+    "forks_count": 53
   },
   {
     "full_name": "jj-vcs/jj",
-    "stargazers_count": 10510,
-    "open_issues_count": 514,
-    "forks_count": 376
+    "stargazers_count": 10607,
+    "open_issues_count": 529,
+    "forks_count": 380
   },
   {
     "full_name": "dmtrKovalenko/assembly-http-server",
-    "stargazers_count": 149,
+    "stargazers_count": 154,
     "open_issues_count": 0,
     "forks_count": 5
   },
   {
     "full_name": "Hejsil/mecha",
-    "stargazers_count": 500,
+    "stargazers_count": 501,
     "open_issues_count": 3,
     "forks_count": 22
   },
   {
     "full_name": "hmemcpy/milewski-ctfp-pdf",
-    "stargazers_count": 11117,
-    "open_issues_count": 57,
-    "forks_count": 600
+    "stargazers_count": 11120,
+    "open_issues_count": 58,
+    "forks_count": 601
   },
   {
     "full_name": "jhsware/nix-infra",
-    "stargazers_count": 57,
+    "stargazers_count": 58,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "ghostty-org/ghostty",
-    "stargazers_count": 23979,
-    "open_issues_count": 188,
-    "forks_count": 573
+    "stargazers_count": 24574,
+    "open_issues_count": 195,
+    "forks_count": 595
   },
   {
     "full_name": "RedPRL/cooltt",
@@ -91,8 +91,8 @@
   },
   {
     "full_name": "oddlama/nix-topology",
-    "stargazers_count": 604,
-    "open_issues_count": 13,
+    "stargazers_count": 609,
+    "open_issues_count": 9,
     "forks_count": 29
   },
   {
@@ -103,13 +103,13 @@
   },
   {
     "full_name": "nix-community/nixGL",
-    "stargazers_count": 742,
-    "open_issues_count": 75,
-    "forks_count": 88
+    "stargazers_count": 743,
+    "open_issues_count": 76,
+    "forks_count": 89
   },
   {
     "full_name": "kdeldycke/awesome-engineering-team-management",
-    "stargazers_count": 2111,
+    "stargazers_count": 2118,
     "open_issues_count": 3,
     "forks_count": 154
   },
@@ -121,14 +121,14 @@
   },
   {
     "full_name": "tjdevries/octane.ml",
-    "stargazers_count": 90,
+    "stargazers_count": 91,
     "open_issues_count": 3,
     "forks_count": 2
   },
   {
     "full_name": "kepelet/flo",
-    "stargazers_count": 46,
-    "open_issues_count": 15,
+    "stargazers_count": 49,
+    "open_issues_count": 16,
     "forks_count": 5
   },
   {
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "CapSoftware/Cap",
-    "stargazers_count": 5621,
+    "stargazers_count": 5647,
     "open_issues_count": 66,
-    "forks_count": 298
+    "forks_count": 302
   },
   {
     "full_name": "tmattio/dream-livereload",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "onejs/one",
-    "stargazers_count": 3694,
-    "open_issues_count": 49,
-    "forks_count": 81
+    "stargazers_count": 3704,
+    "open_issues_count": 53,
+    "forks_count": 83
   },
   {
     "full_name": "ChrisShank/routtl",
