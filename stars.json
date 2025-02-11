@@ -1,13 +1,25 @@
 [
   {
+    "full_name": "yamadashy/repomix",
+    "stargazers_count": 8581,
+    "open_issues_count": 47,
+    "forks_count": 402
+  },
+  {
+    "full_name": "satnaing/shadcn-admin",
+    "stargazers_count": 3510,
+    "open_issues_count": 2,
+    "forks_count": 508
+  },
+  {
     "full_name": "zhaofengli/attic",
-    "stargazers_count": 1176,
+    "stargazers_count": 1181,
     "open_issues_count": 108,
-    "forks_count": 93
+    "forks_count": 94
   },
   {
     "full_name": "tgirlcloud/easy-hosts",
-    "stargazers_count": 24,
+    "stargazers_count": 25,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -19,27 +31,27 @@
   },
   {
     "full_name": "alufers/mitmproxy2swagger",
-    "stargazers_count": 8591,
+    "stargazers_count": 8603,
     "open_issues_count": 21,
     "forks_count": 303
   },
   {
     "full_name": "aantron/lambdasoup",
-    "stargazers_count": 390,
+    "stargazers_count": 391,
     "open_issues_count": 6,
     "forks_count": 31
   },
   {
     "full_name": "Wulf/vite-rs",
-    "stargazers_count": 58,
+    "stargazers_count": 60,
     "open_issues_count": 1,
     "forks_count": 2
   },
   {
     "full_name": "internet-development/www-sacred",
-    "stargazers_count": 1001,
+    "stargazers_count": 1026,
     "open_issues_count": 1,
-    "forks_count": 40
+    "forks_count": 41
   },
   {
     "full_name": "plow-technologies/rescript-linter",
@@ -55,31 +67,31 @@
   },
   {
     "full_name": "nix-community/lanzaboote",
-    "stargazers_count": 1007,
+    "stargazers_count": 1009,
     "open_issues_count": 54,
-    "forks_count": 54
+    "forks_count": 55
   },
   {
     "full_name": "jj-vcs/jj",
-    "stargazers_count": 10972,
-    "open_issues_count": 538,
-    "forks_count": 393
+    "stargazers_count": 11033,
+    "open_issues_count": 544,
+    "forks_count": 396
   },
   {
     "full_name": "dmtrKovalenko/assembly-http-server",
-    "stargazers_count": 155,
+    "stargazers_count": 160,
     "open_issues_count": 0,
     "forks_count": 5
   },
   {
     "full_name": "Hejsil/mecha",
-    "stargazers_count": 507,
-    "open_issues_count": 4,
-    "forks_count": 22
+    "stargazers_count": 509,
+    "open_issues_count": 5,
+    "forks_count": 23
   },
   {
     "full_name": "hmemcpy/milewski-ctfp-pdf",
-    "stargazers_count": 11135,
+    "stargazers_count": 11136,
     "open_issues_count": 58,
     "forks_count": 601
   },
@@ -97,49 +109,49 @@
   },
   {
     "full_name": "ghostty-org/ghostty",
-    "stargazers_count": 26146,
-    "open_issues_count": 185,
-    "forks_count": 644
+    "stargazers_count": 26413,
+    "open_issues_count": 195,
+    "forks_count": 655
   },
   {
     "full_name": "RedPRL/cooltt",
-    "stargazers_count": 221,
+    "stargazers_count": 222,
     "open_issues_count": 33,
     "forks_count": 14
   },
   {
     "full_name": "oddlama/nix-topology",
-    "stargazers_count": 627,
+    "stargazers_count": 629,
     "open_issues_count": 10,
-    "forks_count": 29
+    "forks_count": 30
   },
   {
     "full_name": "kermanx/tree-shaker",
-    "stargazers_count": 324,
+    "stargazers_count": 325,
     "open_issues_count": 10,
     "forks_count": 2
   },
   {
     "full_name": "nix-community/nixGL",
-    "stargazers_count": 755,
+    "stargazers_count": 757,
     "open_issues_count": 77,
     "forks_count": 89
   },
   {
     "full_name": "kdeldycke/awesome-engineering-team-management",
-    "stargazers_count": 2133,
+    "stargazers_count": 2136,
     "open_issues_count": 3,
     "forks_count": 156
   },
   {
     "full_name": "elianiva/dotfiles",
-    "stargazers_count": 187,
+    "stargazers_count": 188,
     "open_issues_count": 1,
     "forks_count": 12
   },
   {
     "full_name": "tjdevries/octane.ml",
-    "stargazers_count": 95,
+    "stargazers_count": 96,
     "open_issues_count": 3,
     "forks_count": 2
   },
@@ -157,26 +169,14 @@
   },
   {
     "full_name": "CapSoftware/Cap",
-    "stargazers_count": 6423,
-    "open_issues_count": 84,
-    "forks_count": 334
+    "stargazers_count": 6492,
+    "open_issues_count": 83,
+    "forks_count": 338
   },
   {
     "full_name": "tmattio/dream-livereload",
     "stargazers_count": 25,
     "open_issues_count": 0,
     "forks_count": 2
-  },
-  {
-    "full_name": "onejs/one",
-    "stargazers_count": 3757,
-    "open_issues_count": 56,
-    "forks_count": 86
-  },
-  {
-    "full_name": "ChrisShank/routtl",
-    "stargazers_count": 101,
-    "open_issues_count": 1,
-    "forks_count": 3
   }
 ]
