@@ -1,9 +1,9 @@
 [
   {
     "full_name": "moghtech/komodo",
-    "stargazers_count": 3162,
-    "open_issues_count": 114,
-    "forks_count": 70
+    "stargazers_count": 3238,
+    "open_issues_count": 118,
+    "forks_count": 71
   },
   {
     "full_name": "astro/microvm-solo5-spt",
@@ -13,25 +13,25 @@
   },
   {
     "full_name": "fluidattacks/makes",
-    "stargazers_count": 468,
+    "stargazers_count": 470,
     "open_issues_count": 26,
     "forks_count": 45
   },
   {
     "full_name": "yamadashy/repomix",
-    "stargazers_count": 9868,
-    "open_issues_count": 54,
-    "forks_count": 439
+    "stargazers_count": 11102,
+    "open_issues_count": 50,
+    "forks_count": 484
   },
   {
     "full_name": "satnaing/shadcn-admin",
-    "stargazers_count": 3644,
-    "open_issues_count": 4,
-    "forks_count": 538
+    "stargazers_count": 3789,
+    "open_issues_count": 5,
+    "forks_count": 548
   },
   {
     "full_name": "zhaofengli/attic",
-    "stargazers_count": 1198,
+    "stargazers_count": 1206,
     "open_issues_count": 110,
     "forks_count": 98
   },
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "alufers/mitmproxy2swagger",
-    "stargazers_count": 8660,
+    "stargazers_count": 8675,
     "open_issues_count": 21,
-    "forks_count": 306
+    "forks_count": 308
   },
   {
     "full_name": "aantron/lambdasoup",
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "internet-development/www-sacred",
-    "stargazers_count": 1113,
+    "stargazers_count": 1120,
     "open_issues_count": 2,
     "forks_count": 46
   },
@@ -79,21 +79,21 @@
   },
   {
     "full_name": "eilvelia/ocaml-kdl",
-    "stargazers_count": 12,
+    "stargazers_count": 13,
     "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "nix-community/lanzaboote",
-    "stargazers_count": 1020,
-    "open_issues_count": 54,
-    "forks_count": 56
+    "stargazers_count": 1026,
+    "open_issues_count": 53,
+    "forks_count": 57
   },
   {
     "full_name": "jj-vcs/jj",
-    "stargazers_count": 11494,
-    "open_issues_count": 557,
-    "forks_count": 404
+    "stargazers_count": 11545,
+    "open_issues_count": 552,
+    "forks_count": 406
   },
   {
     "full_name": "dmtrKovalenko/assembly-http-server",
@@ -103,33 +103,33 @@
   },
   {
     "full_name": "Hejsil/mecha",
-    "stargazers_count": 508,
+    "stargazers_count": 509,
     "open_issues_count": 5,
     "forks_count": 23
   },
   {
     "full_name": "hmemcpy/milewski-ctfp-pdf",
-    "stargazers_count": 11151,
-    "open_issues_count": 61,
-    "forks_count": 601
+    "stargazers_count": 11153,
+    "open_issues_count": 63,
+    "forks_count": 602
   },
   {
     "full_name": "jhsware/nix-infra",
-    "stargazers_count": 63,
+    "stargazers_count": 64,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "ad-si/awesome-fp-jobs",
-    "stargazers_count": 62,
+    "stargazers_count": 64,
     "open_issues_count": 3,
     "forks_count": 8
   },
   {
     "full_name": "ghostty-org/ghostty",
-    "stargazers_count": 27080,
-    "open_issues_count": 171,
-    "forks_count": 678
+    "stargazers_count": 27312,
+    "open_issues_count": 174,
+    "forks_count": 691
   },
   {
     "full_name": "RedPRL/cooltt",
@@ -139,25 +139,25 @@
   },
   {
     "full_name": "oddlama/nix-topology",
-    "stargazers_count": 639,
+    "stargazers_count": 642,
     "open_issues_count": 10,
     "forks_count": 30
   },
   {
     "full_name": "kermanx/tree-shaker",
-    "stargazers_count": 328,
+    "stargazers_count": 329,
     "open_issues_count": 10,
     "forks_count": 2
   },
   {
     "full_name": "nix-community/nixGL",
-    "stargazers_count": 763,
+    "stargazers_count": 764,
     "open_issues_count": 78,
     "forks_count": 90
   },
   {
     "full_name": "kdeldycke/awesome-engineering-team-management",
-    "stargazers_count": 2141,
+    "stargazers_count": 2144,
     "open_issues_count": 3,
     "forks_count": 156
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "kepelet/flo",
-    "stargazers_count": 70,
+    "stargazers_count": 73,
     "open_issues_count": 16,
-    "forks_count": 8
+    "forks_count": 9
   }
 ]
