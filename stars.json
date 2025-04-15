@@ -1,45 +1,45 @@
 [
   {
     "full_name": "FFmpeg/asm-lessons",
-    "stargazers_count": 5166,
+    "stargazers_count": 5199,
     "open_issues_count": 5,
     "forks_count": 132
   },
   {
     "full_name": "zv/sexpr",
-    "stargazers_count": 32,
+    "stargazers_count": 33,
     "open_issues_count": 1,
     "forks_count": 3
   },
   {
     "full_name": "Arcanyx-org/NiXium",
-    "stargazers_count": 33,
+    "stargazers_count": 34,
     "open_issues_count": 120,
     "forks_count": 3
   },
   {
     "full_name": "Mail-0/Zero",
-    "stargazers_count": 4991,
-    "open_issues_count": 22,
-    "forks_count": 387
+    "stargazers_count": 5106,
+    "open_issues_count": 27,
+    "forks_count": 396
   },
   {
     "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-    "stargazers_count": 7209,
+    "stargazers_count": 7323,
     "open_issues_count": 5,
-    "forks_count": 2959
+    "forks_count": 2993
   },
   {
     "full_name": "MichiganTypeScript/typescript-types-only-wasm-runtime",
-    "stargazers_count": 2240,
+    "stargazers_count": 2245,
     "open_issues_count": 6,
     "forks_count": 33
   },
   {
     "full_name": "moghtech/komodo",
-    "stargazers_count": 4027,
-    "open_issues_count": 158,
-    "forks_count": 94
+    "stargazers_count": 4057,
+    "open_issues_count": 156,
+    "forks_count": 95
   },
   {
     "full_name": "astro/microvm-solo5-spt",
@@ -49,31 +49,31 @@
   },
   {
     "full_name": "fluidattacks/makes",
-    "stargazers_count": 482,
+    "stargazers_count": 481,
     "open_issues_count": 30,
     "forks_count": 46
   },
   {
     "full_name": "yamadashy/repomix",
-    "stargazers_count": 14458,
-    "open_issues_count": 84,
-    "forks_count": 614
+    "stargazers_count": 14601,
+    "open_issues_count": 86,
+    "forks_count": 619
   },
   {
     "full_name": "satnaing/shadcn-admin",
-    "stargazers_count": 7098,
-    "open_issues_count": 11,
-    "forks_count": 879
+    "stargazers_count": 7184,
+    "open_issues_count": 8,
+    "forks_count": 899
   },
   {
     "full_name": "zhaofengli/attic",
-    "stargazers_count": 1281,
+    "stargazers_count": 1285,
     "open_issues_count": 117,
     "forks_count": 99
   },
   {
     "full_name": "tgirlcloud/easy-hosts",
-    "stargazers_count": 44,
+    "stargazers_count": 45,
     "open_issues_count": 0,
     "forks_count": 3
   },
@@ -85,13 +85,13 @@
   },
   {
     "full_name": "alufers/mitmproxy2swagger",
-    "stargazers_count": 8807,
+    "stargazers_count": 8810,
     "open_issues_count": 23,
     "forks_count": 316
   },
   {
     "full_name": "aantron/lambdasoup",
-    "stargazers_count": 394,
+    "stargazers_count": 395,
     "open_issues_count": 6,
     "forks_count": 32
   },
@@ -121,15 +121,15 @@
   },
   {
     "full_name": "nix-community/lanzaboote",
-    "stargazers_count": 1077,
-    "open_issues_count": 56,
+    "stargazers_count": 1081,
+    "open_issues_count": 57,
     "forks_count": 59
   },
   {
     "full_name": "jj-vcs/jj",
-    "stargazers_count": 12227,
-    "open_issues_count": 619,
-    "forks_count": 446
+    "stargazers_count": 12292,
+    "open_issues_count": 620,
+    "forks_count": 451
   },
   {
     "full_name": "dmtrKovalenko/assembly-http-server",
@@ -145,13 +145,13 @@
   },
   {
     "full_name": "hmemcpy/milewski-ctfp-pdf",
-    "stargazers_count": 11197,
+    "stargazers_count": 11202,
     "open_issues_count": 64,
-    "forks_count": 602
+    "forks_count": 603
   },
   {
     "full_name": "jhsware/nix-infra",
-    "stargazers_count": 66,
+    "stargazers_count": 67,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "ghostty-org/ghostty",
-    "stargazers_count": 29376,
-    "open_issues_count": 200,
-    "forks_count": 778
+    "stargazers_count": 29515,
+    "open_issues_count": 197,
+    "forks_count": 785
   },
   {
     "full_name": "RedPRL/cooltt",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "oddlama/nix-topology",
-    "stargazers_count": 678,
+    "stargazers_count": 682,
     "open_issues_count": 9,
-    "forks_count": 31
+    "forks_count": 32
   }
 ]
