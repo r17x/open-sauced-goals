@@ -1,13 +1,13 @@
 [
   {
     "full_name": "typeonce-dev/sync-engine-web",
-    "stargazers_count": 190,
+    "stargazers_count": 194,
     "open_issues_count": 0,
     "forks_count": 7
   },
   {
     "full_name": "aksiksi/compose2nix",
-    "stargazers_count": 640,
+    "stargazers_count": 641,
     "open_issues_count": 14,
     "forks_count": 10
   },
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "FFmpeg/asm-lessons",
-    "stargazers_count": 8887,
+    "stargazers_count": 8940,
     "open_issues_count": 21,
-    "forks_count": 264
+    "forks_count": 268
   },
   {
     "full_name": "zv/sexpr",
@@ -38,32 +38,32 @@
   {
     "full_name": "Arcanyx-org/NiXium",
     "stargazers_count": 38,
-    "open_issues_count": 120,
+    "open_issues_count": 121,
     "forks_count": 2
   },
   {
     "full_name": "Mail-0/Zero",
-    "stargazers_count": 9448,
-    "open_issues_count": 21,
-    "forks_count": 1123
+    "stargazers_count": 9502,
+    "open_issues_count": 14,
+    "forks_count": 1145
   },
   {
     "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-    "stargazers_count": 78132,
-    "open_issues_count": 75,
-    "forks_count": 21888
+    "stargazers_count": 78993,
+    "open_issues_count": 72,
+    "forks_count": 22141
   },
   {
     "full_name": "MichiganTypeScript/typescript-types-only-wasm-runtime",
-    "stargazers_count": 2310,
+    "stargazers_count": 2309,
     "open_issues_count": 6,
     "forks_count": 33
   },
   {
     "full_name": "moghtech/komodo",
-    "stargazers_count": 6908,
-    "open_issues_count": 306,
-    "forks_count": 169
+    "stargazers_count": 7066,
+    "open_issues_count": 312,
+    "forks_count": 173
   },
   {
     "full_name": "microvm-nix/microvm-solo5-spt",
@@ -79,25 +79,25 @@
   },
   {
     "full_name": "yamadashy/repomix",
-    "stargazers_count": 18687,
-    "open_issues_count": 110,
-    "forks_count": 826
+    "stargazers_count": 18755,
+    "open_issues_count": 106,
+    "forks_count": 830
   },
   {
     "full_name": "satnaing/shadcn-admin",
-    "stargazers_count": 9147,
-    "open_issues_count": 4,
-    "forks_count": 1366
+    "stargazers_count": 9185,
+    "open_issues_count": 2,
+    "forks_count": 1381
   },
   {
     "full_name": "zhaofengli/attic",
-    "stargazers_count": 1457,
-    "open_issues_count": 135,
-    "forks_count": 124
+    "stargazers_count": 1464,
+    "open_issues_count": 136,
+    "forks_count": 125
   },
   {
     "full_name": "tgirlcloud/easy-hosts",
-    "stargazers_count": 63,
+    "stargazers_count": 64,
     "open_issues_count": 0,
     "forks_count": 6
   },
@@ -109,13 +109,13 @@
   },
   {
     "full_name": "alufers/mitmproxy2swagger",
-    "stargazers_count": 9022,
+    "stargazers_count": 9026,
     "open_issues_count": 30,
-    "forks_count": 333
+    "forks_count": 334
   },
   {
     "full_name": "aantron/lambdasoup",
-    "stargazers_count": 400,
+    "stargazers_count": 401,
     "open_issues_count": 8,
     "forks_count": 32
   },
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "internet-development/www-sacred",
-    "stargazers_count": 1244,
+    "stargazers_count": 1243,
     "open_issues_count": 6,
-    "forks_count": 63
+    "forks_count": 62
   },
   {
     "full_name": "plow-technologies/rescript-linter",
@@ -145,15 +145,15 @@
   },
   {
     "full_name": "nix-community/lanzaboote",
-    "stargazers_count": 1284,
+    "stargazers_count": 1286,
     "open_issues_count": 53,
-    "forks_count": 67
+    "forks_count": 69
   },
   {
     "full_name": "jj-vcs/jj",
-    "stargazers_count": 18977,
-    "open_issues_count": 769,
-    "forks_count": 657
+    "stargazers_count": 19235,
+    "open_issues_count": 766,
+    "forks_count": 672
   },
   {
     "full_name": "dmtrKovalenko/assembly-http-server",
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "hmemcpy/milewski-ctfp-pdf",
-    "stargazers_count": 11327,
-    "open_issues_count": 59,
-    "forks_count": 616
+    "stargazers_count": 11329,
+    "open_issues_count": 60,
+    "forks_count": 615
   },
   {
     "full_name": "jhsware/nix-infra",
-    "stargazers_count": 73,
+    "stargazers_count": 74,
     "open_issues_count": 0,
     "forks_count": 1
   }
