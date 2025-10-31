@@ -1,15 +1,27 @@
 [
   {
+    "full_name": "syaiful6/tapak",
+    "stargazers_count": 19,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
+    "full_name": "garnix-io/yensid",
+    "stargazers_count": 73,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "rickhanlonii/async-react",
-    "stargazers_count": 232,
+    "stargazers_count": 241,
     "open_issues_count": 4,
-    "forks_count": 14
+    "forks_count": 15
   },
   {
     "full_name": "reactwg/async-react",
-    "stargazers_count": 132,
+    "stargazers_count": 133,
     "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "syaiful6/ocaml.nvim",
@@ -19,19 +31,19 @@
   },
   {
     "full_name": "nialov/actions.nix",
-    "stargazers_count": 24,
+    "stargazers_count": 25,
     "open_issues_count": 1,
     "forks_count": 4
   },
   {
     "full_name": "TheArctesian/omnixy",
-    "stargazers_count": 64,
+    "stargazers_count": 65,
     "open_issues_count": 1,
     "forks_count": 4
   },
   {
     "full_name": "multikernel/kernelscript",
-    "stargazers_count": 273,
+    "stargazers_count": 276,
     "open_issues_count": 2,
     "forks_count": 14
   },
@@ -49,8 +61,8 @@
   },
   {
     "full_name": "aksiksi/compose2nix",
-    "stargazers_count": 692,
-    "open_issues_count": 13,
+    "stargazers_count": 693,
+    "open_issues_count": 12,
     "forks_count": 13
   },
   {
@@ -61,13 +73,13 @@
   },
   {
     "full_name": "brendanzab/language-garden",
-    "stargazers_count": 290,
+    "stargazers_count": 291,
     "open_issues_count": 0,
     "forks_count": 7
   },
   {
     "full_name": "FFmpeg/asm-lessons",
-    "stargazers_count": 9384,
+    "stargazers_count": 9399,
     "open_issues_count": 23,
     "forks_count": 280
   },
@@ -85,27 +97,27 @@
   },
   {
     "full_name": "Mail-0/Zero",
-    "stargazers_count": 9970,
+    "stargazers_count": 9989,
     "open_issues_count": 13,
-    "forks_count": 1212
+    "forks_count": 1213
   },
   {
     "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-    "stargazers_count": 93378,
-    "open_issues_count": 93,
-    "forks_count": 25238
+    "stargazers_count": 93752,
+    "open_issues_count": 96,
+    "forks_count": 25304
   },
   {
     "full_name": "MichiganTypeScript/typescript-types-only-wasm-runtime",
-    "stargazers_count": 2321,
+    "stargazers_count": 2323,
     "open_issues_count": 6,
     "forks_count": 33
   },
   {
     "full_name": "moghtech/komodo",
-    "stargazers_count": 8139,
-    "open_issues_count": 252,
-    "forks_count": 210
+    "stargazers_count": 8170,
+    "open_issues_count": 256,
+    "forks_count": 213
   },
   {
     "full_name": "microvm-nix/microvm-solo5-spt",
@@ -121,25 +133,25 @@
   },
   {
     "full_name": "yamadashy/repomix",
-    "stargazers_count": 19931,
+    "stargazers_count": 19987,
     "open_issues_count": 121,
-    "forks_count": 910
+    "forks_count": 911
   },
   {
     "full_name": "satnaing/shadcn-admin",
-    "stargazers_count": 9905,
-    "open_issues_count": 8,
-    "forks_count": 1553
+    "stargazers_count": 9940,
+    "open_issues_count": 9,
+    "forks_count": 1560
   },
   {
     "full_name": "zhaofengli/attic",
-    "stargazers_count": 1547,
+    "stargazers_count": 1548,
     "open_issues_count": 146,
-    "forks_count": 133
+    "forks_count": 134
   },
   {
     "full_name": "tgirlcloud/easy-hosts",
-    "stargazers_count": 74,
+    "stargazers_count": 75,
     "open_issues_count": 0,
     "forks_count": 9
   },
@@ -151,9 +163,9 @@
   },
   {
     "full_name": "alufers/mitmproxy2swagger",
-    "stargazers_count": 9110,
+    "stargazers_count": 9114,
     "open_issues_count": 31,
-    "forks_count": 336
+    "forks_count": 337
   },
   {
     "full_name": "aantron/lambdasoup",
@@ -166,17 +178,5 @@
     "stargazers_count": 93,
     "open_issues_count": 8,
     "forks_count": 6
-  },
-  {
-    "full_name": "internet-development/www-sacred",
-    "stargazers_count": 1292,
-    "open_issues_count": 2,
-    "forks_count": 63
-  },
-  {
-    "full_name": "plow-technologies/rescript-linter",
-    "stargazers_count": 21,
-    "open_issues_count": 1,
-    "forks_count": 2
   }
 ]
