@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "hamardikan/open-pajak",
+    "stargazers_count": 34,
+    "open_issues_count": 0,
+    "forks_count": 11
+  },
+  {
     "full_name": "syaiful6/tapak",
-    "stargazers_count": 22,
+    "stargazers_count": 25,
     "open_issues_count": 1,
     "forks_count": 2
   },
@@ -13,13 +19,13 @@
   },
   {
     "full_name": "rickhanlonii/async-react",
-    "stargazers_count": 257,
+    "stargazers_count": 258,
     "open_issues_count": 1,
     "forks_count": 19
   },
   {
     "full_name": "reactwg/async-react",
-    "stargazers_count": 141,
+    "stargazers_count": 143,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -55,13 +61,13 @@
   },
   {
     "full_name": "typeonce-dev/sync-engine-web",
-    "stargazers_count": 211,
+    "stargazers_count": 212,
     "open_issues_count": 0,
     "forks_count": 9
   },
   {
     "full_name": "aksiksi/compose2nix",
-    "stargazers_count": 713,
+    "stargazers_count": 714,
     "open_issues_count": 12,
     "forks_count": 13
   },
@@ -73,15 +79,15 @@
   },
   {
     "full_name": "brendanzab/language-garden",
-    "stargazers_count": 292,
+    "stargazers_count": 293,
     "open_issues_count": 0,
     "forks_count": 7
   },
   {
     "full_name": "FFmpeg/asm-lessons",
-    "stargazers_count": 11169,
+    "stargazers_count": 11204,
     "open_issues_count": 27,
-    "forks_count": 352
+    "forks_count": 355
   },
   {
     "full_name": "zv/sexpr",
@@ -91,37 +97,37 @@
   },
   {
     "full_name": "Arcanyx-org/NiXium",
-    "stargazers_count": 43,
+    "stargazers_count": 44,
     "open_issues_count": 124,
     "forks_count": 2
   },
   {
     "full_name": "Mail-0/Zero",
-    "stargazers_count": 10096,
+    "stargazers_count": 10107,
     "open_issues_count": 13,
-    "forks_count": 1228
+    "forks_count": 1227
   },
   {
     "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-    "stargazers_count": 96035,
-    "open_issues_count": 92,
-    "forks_count": 25850
+    "stargazers_count": 96560,
+    "open_issues_count": 93,
+    "forks_count": 25971
   },
   {
     "full_name": "MichiganTypeScript/typescript-types-only-wasm-runtime",
-    "stargazers_count": 2330,
+    "stargazers_count": 2332,
     "open_issues_count": 6,
     "forks_count": 33
   },
   {
     "full_name": "moghtech/komodo",
-    "stargazers_count": 8399,
-    "open_issues_count": 278,
+    "stargazers_count": 8428,
+    "open_issues_count": 280,
     "forks_count": 223
   },
   {
     "full_name": "microvm-nix/microvm-solo5-spt",
-    "stargazers_count": 12,
+    "stargazers_count": 13,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -133,25 +139,25 @@
   },
   {
     "full_name": "yamadashy/repomix",
-    "stargazers_count": 20227,
-    "open_issues_count": 127,
-    "forks_count": 923
+    "stargazers_count": 20280,
+    "open_issues_count": 126,
+    "forks_count": 927
   },
   {
     "full_name": "satnaing/shadcn-admin",
-    "stargazers_count": 10150,
+    "stargazers_count": 10179,
     "open_issues_count": 7,
-    "forks_count": 1624
+    "forks_count": 1632
   },
   {
     "full_name": "zhaofengli/attic",
-    "stargazers_count": 1575,
+    "stargazers_count": 1582,
     "open_issues_count": 148,
     "forks_count": 134
   },
   {
     "full_name": "tgirlcloud/easy-hosts",
-    "stargazers_count": 77,
+    "stargazers_count": 78,
     "open_issues_count": 0,
     "forks_count": 9
   },
@@ -163,7 +169,7 @@
   },
   {
     "full_name": "alufers/mitmproxy2swagger",
-    "stargazers_count": 9137,
+    "stargazers_count": 9141,
     "open_issues_count": 31,
     "forks_count": 339
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 401,
     "open_issues_count": 8,
     "forks_count": 32
-  },
-  {
-    "full_name": "Wulf/vite-rs",
-    "stargazers_count": 95,
-    "open_issues_count": 8,
-    "forks_count": 6
   }
 ]
