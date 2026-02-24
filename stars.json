@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "Gabriella439/semantic-navigator",
+    "stargazers_count": 130,
+    "open_issues_count": 5,
+    "forks_count": 13
+  },
+  {
     "full_name": "sipeed/picoclaw",
-    "stargazers_count": 16496,
-    "open_issues_count": 248,
-    "forks_count": 1889
+    "stargazers_count": 18859,
+    "open_issues_count": 316,
+    "forks_count": 2286
   },
   {
     "full_name": "alchemy-run/distilled-cloudflare",
@@ -13,9 +19,9 @@
   },
   {
     "full_name": "openwrt-xiaomi/xmir-patcher",
-    "stargazers_count": 2511,
+    "stargazers_count": 2529,
     "open_issues_count": 56,
-    "forks_count": 308
+    "forks_count": 310
   },
   {
     "full_name": "davesnx/sirocco",
@@ -31,31 +37,31 @@
   },
   {
     "full_name": "thedotmack/claude-mem",
-    "stargazers_count": 29352,
-    "open_issues_count": 115,
-    "forks_count": 1976
+    "stargazers_count": 30472,
+    "open_issues_count": 32,
+    "forks_count": 2066
   },
   {
     "full_name": "gaearon/rscexplorer",
-    "stargazers_count": 1063,
+    "stargazers_count": 1067,
     "open_issues_count": 0,
     "forks_count": 28
   },
   {
     "full_name": "siderolabs/talos",
-    "stargazers_count": 9901,
-    "open_issues_count": 240,
-    "forks_count": 784
+    "stargazers_count": 9927,
+    "open_issues_count": 239,
+    "forks_count": 785
   },
   {
     "full_name": "lxc/incus",
-    "stargazers_count": 4891,
-    "open_issues_count": 73,
-    "forks_count": 409
+    "stargazers_count": 4912,
+    "open_issues_count": 76,
+    "forks_count": 411
   },
   {
     "full_name": "voidhashcom/effect-query",
-    "stargazers_count": 191,
+    "stargazers_count": 192,
     "open_issues_count": 3,
     "forks_count": 4
   },
@@ -79,13 +85,13 @@
   },
   {
     "full_name": "rickhanlonii/async-react",
-    "stargazers_count": 307,
+    "stargazers_count": 309,
     "open_issues_count": 2,
     "forks_count": 24
   },
   {
     "full_name": "reactwg/async-react",
-    "stargazers_count": 183,
+    "stargazers_count": 184,
     "open_issues_count": 0,
     "forks_count": 4
   },
@@ -123,11 +129,11 @@
     "full_name": "typeonce-dev/sync-engine-web",
     "stargazers_count": 231,
     "open_issues_count": 0,
-    "forks_count": 10
+    "forks_count": 11
   },
   {
     "full_name": "aksiksi/compose2nix",
-    "stargazers_count": 785,
+    "stargazers_count": 790,
     "open_issues_count": 12,
     "forks_count": 14
   },
@@ -139,15 +145,15 @@
   },
   {
     "full_name": "brendanzab/language-garden",
-    "stargazers_count": 312,
+    "stargazers_count": 313,
     "open_issues_count": 0,
     "forks_count": 8
   },
   {
     "full_name": "FFmpeg/asm-lessons",
-    "stargazers_count": 11443,
-    "open_issues_count": 26,
-    "forks_count": 367
+    "stargazers_count": 11466,
+    "open_issues_count": 25,
+    "forks_count": 368
   },
   {
     "full_name": "zv/sexpr",
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "Mail-0/Zero",
-    "stargazers_count": 10441,
-    "open_issues_count": 15,
-    "forks_count": 1282
+    "stargazers_count": 10446,
+    "open_issues_count": 17,
+    "forks_count": 1284
   },
   {
     "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-    "stargazers_count": 115233,
-    "open_issues_count": 124,
-    "forks_count": 29704
-  },
-  {
-    "full_name": "MichiganTypeScript/typescript-types-only-wasm-runtime",
-    "stargazers_count": 2379,
-    "open_issues_count": 6,
-    "forks_count": 36
+    "stargazers_count": 120967,
+    "open_issues_count": 125,
+    "forks_count": 31303
   }
 ]
