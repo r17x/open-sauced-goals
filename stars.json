@@ -1,15 +1,15 @@
 [
   {
     "full_name": "Gabriella439/semantic-navigator",
-    "stargazers_count": 141,
+    "stargazers_count": 144,
     "open_issues_count": 0,
     "forks_count": 13
   },
   {
     "full_name": "sipeed/picoclaw",
-    "stargazers_count": 21660,
-    "open_issues_count": 399,
-    "forks_count": 2757
+    "stargazers_count": 22334,
+    "open_issues_count": 454,
+    "forks_count": 2905
   },
   {
     "full_name": "alchemy-run/distilled-cloudflare",
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "openwrt-xiaomi/xmir-patcher",
-    "stargazers_count": 2563,
-    "open_issues_count": 58,
-    "forks_count": 309
+    "stargazers_count": 2577,
+    "open_issues_count": 59,
+    "forks_count": 311
   },
   {
     "full_name": "davesnx/sirocco",
@@ -37,31 +37,31 @@
   },
   {
     "full_name": "thedotmack/claude-mem",
-    "stargazers_count": 32339,
-    "open_issues_count": 69,
-    "forks_count": 2196
+    "stargazers_count": 33066,
+    "open_issues_count": 78,
+    "forks_count": 2252
   },
   {
     "full_name": "gaearon/rscexplorer",
-    "stargazers_count": 1070,
+    "stargazers_count": 1073,
     "open_issues_count": 0,
     "forks_count": 29
   },
   {
     "full_name": "siderolabs/talos",
-    "stargazers_count": 9966,
-    "open_issues_count": 235,
-    "forks_count": 789
+    "stargazers_count": 9998,
+    "open_issues_count": 238,
+    "forks_count": 791
   },
   {
     "full_name": "lxc/incus",
-    "stargazers_count": 4954,
-    "open_issues_count": 63,
+    "stargazers_count": 4973,
+    "open_issues_count": 61,
     "forks_count": 416
   },
   {
     "full_name": "voidhashcom/effect-query",
-    "stargazers_count": 192,
+    "stargazers_count": 193,
     "open_issues_count": 3,
     "forks_count": 4
   },
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "rickhanlonii/async-react",
-    "stargazers_count": 310,
+    "stargazers_count": 311,
     "open_issues_count": 2,
     "forks_count": 24
   },
@@ -93,7 +93,7 @@
     "full_name": "reactwg/async-react",
     "stargazers_count": 186,
     "open_issues_count": 0,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "syaiful6/ocaml.nvim",
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "nialov/actions.nix",
-    "stargazers_count": 41,
+    "stargazers_count": 43,
     "open_issues_count": 2,
     "forks_count": 7
   },
@@ -116,7 +116,7 @@
   {
     "full_name": "multikernel/kernelscript",
     "stargazers_count": 296,
-    "open_issues_count": 2,
+    "open_issues_count": 4,
     "forks_count": 14
   },
   {
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "aksiksi/compose2nix",
-    "stargazers_count": 793,
+    "stargazers_count": 795,
     "open_issues_count": 12,
     "forks_count": 14
   },
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "FFmpeg/asm-lessons",
-    "stargazers_count": 11481,
+    "stargazers_count": 11487,
     "open_issues_count": 25,
-    "forks_count": 370
+    "forks_count": 369
   },
   {
     "full_name": "zv/sexpr",
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "Arcanyx-org/NiXium",
-    "stargazers_count": 47,
+    "stargazers_count": 48,
     "open_issues_count": 125,
     "forks_count": 3
   },
   {
     "full_name": "Mail-0/Zero",
-    "stargazers_count": 10463,
+    "stargazers_count": 10468,
     "open_issues_count": 17,
     "forks_count": 1283
   },
   {
     "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-    "stargazers_count": 127294,
-    "open_issues_count": 132,
-    "forks_count": 32547
+    "stargazers_count": 128464,
+    "open_issues_count": 126,
+    "forks_count": 32751
   }
 ]
