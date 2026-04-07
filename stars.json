@@ -1,7 +1,7 @@
 [
   {
     "full_name": "ayles/nix-openwrt",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "sipeed/picoclaw",
-    "stargazers_count": 27147,
-    "open_issues_count": 256,
-    "forks_count": 3811
+    "stargazers_count": 27721,
+    "open_issues_count": 265,
+    "forks_count": 3912
   },
   {
     "full_name": "alchemy-run/distilled-cloudflare",
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "openwrt-xiaomi/xmir-patcher",
-    "stargazers_count": 2742,
-    "open_issues_count": 64,
-    "forks_count": 329
+    "stargazers_count": 2763,
+    "open_issues_count": 65,
+    "forks_count": 330
   },
   {
     "full_name": "davesnx/sirocco",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "thedotmack/claude-mem",
-    "stargazers_count": 44719,
-    "open_issues_count": 236,
-    "forks_count": 3376
+    "stargazers_count": 45870,
+    "open_issues_count": 264,
+    "forks_count": 3493
   },
   {
     "full_name": "gaearon/rscexplorer",
@@ -61,19 +61,19 @@
   },
   {
     "full_name": "siderolabs/talos",
-    "stargazers_count": 10155,
-    "open_issues_count": 238,
-    "forks_count": 804
+    "stargazers_count": 10184,
+    "open_issues_count": 237,
+    "forks_count": 807
   },
   {
     "full_name": "lxc/incus",
-    "stargazers_count": 5125,
+    "stargazers_count": 5146,
     "open_issues_count": 73,
-    "forks_count": 425
+    "forks_count": 426
   },
   {
     "full_name": "voidhashcom/effect-query",
-    "stargazers_count": 199,
+    "stargazers_count": 200,
     "open_issues_count": 3,
     "forks_count": 4
   },
@@ -97,7 +97,7 @@
   },
   {
     "full_name": "rickhanlonii/async-react",
-    "stargazers_count": 315,
+    "stargazers_count": 316,
     "open_issues_count": 2,
     "forks_count": 24
   },
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "aksiksi/compose2nix",
-    "stargazers_count": 815,
+    "stargazers_count": 819,
     "open_issues_count": 13,
     "forks_count": 15
   },
