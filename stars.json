@@ -1,13 +1,19 @@
 [
   {
+    "full_name": "Makisuo/skills",
+    "stargazers_count": 66,
+    "open_issues_count": 2,
+    "forks_count": 2
+  },
+  {
     "full_name": "dmtrKovalenko/fff.nvim",
-    "stargazers_count": 3983,
-    "open_issues_count": 45,
-    "forks_count": 169
+    "stargazers_count": 4555,
+    "open_issues_count": 48,
+    "forks_count": 187
   },
   {
     "full_name": "ayles/nix-openwrt",
-    "stargazers_count": 8,
+    "stargazers_count": 11,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -19,15 +25,15 @@
   },
   {
     "full_name": "Gabriella439/semantic-navigator",
-    "stargazers_count": 162,
+    "stargazers_count": 164,
     "open_issues_count": 0,
     "forks_count": 14
   },
   {
     "full_name": "sipeed/picoclaw",
-    "stargazers_count": 27944,
-    "open_issues_count": 284,
-    "forks_count": 3960
+    "stargazers_count": 28102,
+    "open_issues_count": 313,
+    "forks_count": 4006
   },
   {
     "full_name": "alchemy-run/distilled-cloudflare",
@@ -37,9 +43,9 @@
   },
   {
     "full_name": "openwrt-xiaomi/xmir-patcher",
-    "stargazers_count": 2788,
+    "stargazers_count": 2817,
     "open_issues_count": 66,
-    "forks_count": 330
+    "forks_count": 336
   },
   {
     "full_name": "davesnx/sirocco",
@@ -55,27 +61,27 @@
   },
   {
     "full_name": "thedotmack/claude-mem",
-    "stargazers_count": 46714,
-    "open_issues_count": 247,
-    "forks_count": 3596
+    "stargazers_count": 53518,
+    "open_issues_count": 246,
+    "forks_count": 4270
   },
   {
     "full_name": "gaearon/rscexplorer",
-    "stargazers_count": 1086,
+    "stargazers_count": 1087,
     "open_issues_count": 1,
     "forks_count": 30
   },
   {
     "full_name": "siderolabs/talos",
-    "stargazers_count": 10210,
-    "open_issues_count": 243,
-    "forks_count": 808
+    "stargazers_count": 10240,
+    "open_issues_count": 237,
+    "forks_count": 810
   },
   {
     "full_name": "lxc/incus",
-    "stargazers_count": 5158,
-    "open_issues_count": 78,
-    "forks_count": 426
+    "stargazers_count": 5196,
+    "open_issues_count": 81,
+    "forks_count": 424
   },
   {
     "full_name": "voidhashcom/effect-query",
@@ -103,7 +109,7 @@
   },
   {
     "full_name": "rickhanlonii/async-react",
-    "stargazers_count": 316,
+    "stargazers_count": 317,
     "open_issues_count": 2,
     "forks_count": 24
   },
@@ -121,9 +127,9 @@
   },
   {
     "full_name": "nialov/actions.nix",
-    "stargazers_count": 43,
-    "open_issues_count": 3,
-    "forks_count": 6
+    "stargazers_count": 44,
+    "open_issues_count": 4,
+    "forks_count": 7
   },
   {
     "full_name": "TheArctesian/omnixy",
@@ -134,7 +140,7 @@
   {
     "full_name": "multikernel/kernelscript",
     "stargazers_count": 298,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 14
   },
   {
@@ -145,13 +151,13 @@
   },
   {
     "full_name": "typeonce-dev/sync-engine-web",
-    "stargazers_count": 234,
+    "stargazers_count": 235,
     "open_issues_count": 1,
     "forks_count": 12
   },
   {
     "full_name": "aksiksi/compose2nix",
-    "stargazers_count": 822,
+    "stargazers_count": 824,
     "open_issues_count": 13,
     "forks_count": 15
   },
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "FFmpeg/asm-lessons",
-    "stargazers_count": 11530,
+    "stargazers_count": 11532,
     "open_issues_count": 26,
-    "forks_count": 373
-  },
-  {
-    "full_name": "zv/sexpr",
-    "stargazers_count": 38,
-    "open_issues_count": 1,
-    "forks_count": 3
+    "forks_count": 371
   }
 ]
