@@ -1,15 +1,15 @@
 [
   {
     "full_name": "Gabriella439/grace",
-    "stargazers_count": 601,
+    "stargazers_count": 602,
     "open_issues_count": 11,
-    "forks_count": 43
+    "forks_count": 44
   },
   {
     "full_name": "antoniolupetti/algebrica",
-    "stargazers_count": 741,
+    "stargazers_count": 748,
     "open_issues_count": 1,
-    "forks_count": 41
+    "forks_count": 42
   },
   {
     "full_name": "Makisuo/skills",
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "dmtrKovalenko/fff",
-    "stargazers_count": 8765,
-    "open_issues_count": 64,
-    "forks_count": 331
+    "stargazers_count": 8995,
+    "open_issues_count": 49,
+    "forks_count": 344
   },
   {
     "full_name": "ayles/nix-openwrt",
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "sipeed/picoclaw",
-    "stargazers_count": 29421,
-    "open_issues_count": 78,
-    "forks_count": 4219
+    "stargazers_count": 29440,
+    "open_issues_count": 66,
+    "forks_count": 4225
   },
   {
     "full_name": "alchemy-run/distilled-cloudflare",
@@ -55,8 +55,8 @@
   },
   {
     "full_name": "openwrt-xiaomi/xmir-patcher",
-    "stargazers_count": 3133,
-    "open_issues_count": 69,
+    "stargazers_count": 3143,
+    "open_issues_count": 70,
     "forks_count": 370
   },
   {
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "thedotmack/claude-mem",
-    "stargazers_count": 82568,
-    "open_issues_count": 138,
-    "forks_count": 7145
+    "stargazers_count": 83150,
+    "open_issues_count": 182,
+    "forks_count": 7192
   },
   {
     "full_name": "gaearon/rscexplorer",
@@ -85,15 +85,15 @@
   },
   {
     "full_name": "siderolabs/talos",
-    "stargazers_count": 10599,
+    "stargazers_count": 10621,
     "open_issues_count": 199,
-    "forks_count": 833
+    "forks_count": 838
   },
   {
     "full_name": "lxc/incus",
-    "stargazers_count": 5547,
-    "open_issues_count": 53,
-    "forks_count": 451
+    "stargazers_count": 5563,
+    "open_issues_count": 55,
+    "forks_count": 453
   },
   {
     "full_name": "voidhashcom/effect-query",
@@ -102,7 +102,7 @@
     "forks_count": 5
   },
   {
-    "full_name": "hamardikan/open-pajak",
+    "full_name": "hmrdkn-labs/open-pajak",
     "stargazers_count": 47,
     "open_issues_count": 0,
     "forks_count": 12
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "multikernel/kernelscript",
-    "stargazers_count": 491,
+    "stargazers_count": 493,
     "open_issues_count": 2,
-    "forks_count": 22
+    "forks_count": 23
   },
   {
     "full_name": "davesnx/workshop-fun-ocaml",
