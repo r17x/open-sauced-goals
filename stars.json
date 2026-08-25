@@ -1,9 +1,27 @@
 [
   {
+    "full_name": "IBM/AssetOpsBench",
+    "stargazers_count": 2228,
+    "open_issues_count": 54,
+    "forks_count": 317
+  },
+  {
+    "full_name": "open-spaced-repetition/awesome-fsrs",
+    "stargazers_count": 664,
+    "open_issues_count": 6,
+    "forks_count": 45
+  },
+  {
+    "full_name": "porcupine-md/anoa-browser",
+    "stargazers_count": 19,
+    "open_issues_count": 1,
+    "forks_count": 2
+  },
+  {
     "full_name": "RizRiyz/luvus",
-    "stargazers_count": 121,
-    "open_issues_count": 14,
-    "forks_count": 9
+    "stargazers_count": 169,
+    "open_issues_count": 15,
+    "forks_count": 11
   },
   {
     "full_name": "thoriqakbar0/ernie",
@@ -13,9 +31,9 @@
   },
   {
     "full_name": "cordiverse/paper",
-    "stargazers_count": 2524,
+    "stargazers_count": 2792,
     "open_issues_count": 0,
-    "forks_count": 111
+    "forks_count": 133
   },
   {
     "full_name": "Gabriella439/grace",
@@ -25,7 +43,7 @@
   },
   {
     "full_name": "antoniolupetti/algebrica",
-    "stargazers_count": 965,
+    "stargazers_count": 973,
     "open_issues_count": 2,
     "forks_count": 62
   },
@@ -37,9 +55,9 @@
   },
   {
     "full_name": "dmtrKovalenko/fff",
-    "stargazers_count": 10112,
-    "open_issues_count": 69,
-    "forks_count": 421
+    "stargazers_count": 10152,
+    "open_issues_count": 71,
+    "forks_count": 423
   },
   {
     "full_name": "ayles/nix-openwrt",
@@ -55,15 +73,15 @@
   },
   {
     "full_name": "Gabriella439/semantic-navigator",
-    "stargazers_count": 185,
+    "stargazers_count": 186,
     "open_issues_count": 0,
     "forks_count": 17
   },
   {
     "full_name": "sipeed/picoclaw",
-    "stargazers_count": 29893,
-    "open_issues_count": 46,
-    "forks_count": 4451
+    "stargazers_count": 29910,
+    "open_issues_count": 41,
+    "forks_count": 4447
   },
   {
     "full_name": "alchemy-run/distilled-cloudflare",
@@ -73,9 +91,9 @@
   },
   {
     "full_name": "openwrt-xiaomi/xmir-patcher",
-    "stargazers_count": 3390,
+    "stargazers_count": 3404,
     "open_issues_count": 76,
-    "forks_count": 390
+    "forks_count": 393
   },
   {
     "full_name": "davesnx/sirocco",
@@ -91,44 +109,44 @@
   },
   {
     "full_name": "thedotmack/claude-mem",
-    "stargazers_count": 91376,
-    "open_issues_count": 248,
-    "forks_count": 7996
+    "stargazers_count": 91736,
+    "open_issues_count": 288,
+    "forks_count": 8046
   },
   {
     "full_name": "gaearon/rscexplorer",
-    "stargazers_count": 1107,
+    "stargazers_count": 1108,
     "open_issues_count": 1,
     "forks_count": 31
   },
   {
     "full_name": "siderolabs/talos",
-    "stargazers_count": 10988,
-    "open_issues_count": 220,
+    "stargazers_count": 11009,
+    "open_issues_count": 214,
     "forks_count": 875
   },
   {
     "full_name": "lxc/incus",
-    "stargazers_count": 5994,
-    "open_issues_count": 38,
-    "forks_count": 476
+    "stargazers_count": 6012,
+    "open_issues_count": 41,
+    "forks_count": 478
   },
   {
     "full_name": "voidhashcom/effect-query",
-    "stargazers_count": 228,
+    "stargazers_count": 229,
     "open_issues_count": 4,
     "forks_count": 5
   },
   {
     "full_name": "hmrdkn-labs/open-pajak",
-    "stargazers_count": 49,
+    "stargazers_count": 50,
     "open_issues_count": 0,
     "forks_count": 12
   },
   {
     "full_name": "syaiful6/tapak",
-    "stargazers_count": 57,
-    "open_issues_count": 1,
+    "stargazers_count": 59,
+    "open_issues_count": 0,
     "forks_count": 4
   },
   {
@@ -160,23 +178,5 @@
     "stargazers_count": 55,
     "open_issues_count": 3,
     "forks_count": 7
-  },
-  {
-    "full_name": "TheArctesian/omnixy",
-    "stargazers_count": 88,
-    "open_issues_count": 1,
-    "forks_count": 7
-  },
-  {
-    "full_name": "multikernel/kernelscript",
-    "stargazers_count": 502,
-    "open_issues_count": 2,
-    "forks_count": 24
-  },
-  {
-    "full_name": "davesnx/workshop-fun-ocaml",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 1
   }
 ]
