@@ -1,13 +1,19 @@
 [
   {
+    "full_name": "astro/nix-openwrt-imagebuilder",
+    "stargazers_count": 268,
+    "open_issues_count": 7,
+    "forks_count": 31
+  },
+  {
     "full_name": "nix-community/nixos-apple-silicon",
-    "stargazers_count": 1650,
+    "stargazers_count": 1655,
     "open_issues_count": 6,
     "forks_count": 173
   },
   {
     "full_name": "fzakaria/nixpkgs-multiverse",
-    "stargazers_count": 462,
+    "stargazers_count": 466,
     "open_issues_count": 0,
     "forks_count": 12
   },
@@ -19,39 +25,39 @@
   },
   {
     "full_name": "IBM/AssetOpsBench",
-    "stargazers_count": 2302,
-    "open_issues_count": 44,
-    "forks_count": 325
+    "stargazers_count": 2308,
+    "open_issues_count": 40,
+    "forks_count": 329
   },
   {
     "full_name": "open-spaced-repetition/awesome-fsrs",
-    "stargazers_count": 693,
-    "open_issues_count": 6,
+    "stargazers_count": 700,
+    "open_issues_count": 5,
     "forks_count": 47
   },
   {
     "full_name": "porcupine-md/anoa-browser",
-    "stargazers_count": 23,
-    "open_issues_count": 0,
-    "forks_count": 2
+    "stargazers_count": 25,
+    "open_issues_count": 2,
+    "forks_count": 3
   },
   {
     "full_name": "RizRiyz/luvus",
-    "stargazers_count": 851,
-    "open_issues_count": 30,
-    "forks_count": 56
+    "stargazers_count": 862,
+    "open_issues_count": 31,
+    "forks_count": 58
   },
   {
     "full_name": "thoriqakbar0/ernie",
     "stargazers_count": 1,
-    "open_issues_count": 7,
+    "open_issues_count": 6,
     "forks_count": 0
   },
   {
     "full_name": "cordiverse/paper",
-    "stargazers_count": 2986,
+    "stargazers_count": 2994,
     "open_issues_count": 0,
-    "forks_count": 140
+    "forks_count": 141
   },
   {
     "full_name": "Gabriella439/grace",
@@ -61,8 +67,8 @@
   },
   {
     "full_name": "antoniolupetti/algebrica",
-    "stargazers_count": 1026,
-    "open_issues_count": 3,
+    "stargazers_count": 1027,
+    "open_issues_count": 2,
     "forks_count": 68
   },
   {
@@ -73,8 +79,8 @@
   },
   {
     "full_name": "dmtrKovalenko/fff",
-    "stargazers_count": 10753,
-    "open_issues_count": 84,
+    "stargazers_count": 10828,
+    "open_issues_count": 68,
     "forks_count": 447
   },
   {
@@ -97,8 +103,8 @@
   },
   {
     "full_name": "sipeed/picoclaw",
-    "stargazers_count": 29997,
-    "open_issues_count": 39,
+    "stargazers_count": 30009,
+    "open_issues_count": 37,
     "forks_count": 4454
   },
   {
@@ -109,9 +115,9 @@
   },
   {
     "full_name": "openwrt-xiaomi/xmir-patcher",
-    "stargazers_count": 3505,
+    "stargazers_count": 3533,
     "open_issues_count": 80,
-    "forks_count": 408
+    "forks_count": 411
   },
   {
     "full_name": "davesnx/sirocco",
@@ -127,27 +133,27 @@
   },
   {
     "full_name": "thedotmack/claude-mem",
-    "stargazers_count": 94146,
-    "open_issues_count": 209,
-    "forks_count": 8310
+    "stargazers_count": 94434,
+    "open_issues_count": 275,
+    "forks_count": 8347
   },
   {
     "full_name": "gaearon/rscexplorer",
-    "stargazers_count": 1111,
+    "stargazers_count": 1112,
     "open_issues_count": 1,
     "forks_count": 31
   },
   {
     "full_name": "siderolabs/talos",
-    "stargazers_count": 11186,
-    "open_issues_count": 253,
-    "forks_count": 897
+    "stargazers_count": 11215,
+    "open_issues_count": 262,
+    "forks_count": 901
   },
   {
     "full_name": "lxc/incus",
-    "stargazers_count": 6199,
-    "open_issues_count": 44,
-    "forks_count": 489
+    "stargazers_count": 6224,
+    "open_issues_count": 46,
+    "forks_count": 490
   },
   {
     "full_name": "voidhashcom/effect-query",
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "garnix-io/yensid",
-    "stargazers_count": 112,
+    "stargazers_count": 114,
     "open_issues_count": 1,
     "forks_count": 3
-  },
-  {
-    "full_name": "rickhanlonii/async-react",
-    "stargazers_count": 325,
-    "open_issues_count": 2,
-    "forks_count": 25
   }
 ]
